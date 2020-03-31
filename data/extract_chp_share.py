@@ -30,6 +30,7 @@ import pandas as pd
 from pathlib import Path
 import requests
 import tabula
+import numpy as np
 
 from tabula import read_pdf
 from pandas import DataFrame
@@ -52,9 +53,9 @@ print("Finish Define Variable")
 
 df_log=[]
 
-url='https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf'
+#url='https://www.chp.gov.hk/files/pdf/building_list_chi.pdf'
 #output='~/Documents/case'+timestr+'.csv'
-str1='case_en'
+#str1='building_tc'
 
 def extract_chp(url,output,str1):
     filename = Path('tmp_chp_'+str1+'.pdf')
@@ -63,9 +64,38 @@ def extract_chp(url,output,str1):
     
     df=read_pdf('tmp_chp_'+str1+'.pdf', multiple_tables=True, pages="all", lattice=True)
     #df=tabula.read_pdf('tmp_chp_'+str1+'.pdf', spreadsheet=True)
-    df_all=df[0].replace('\r\n', ' ')
-    for i in range(2,len(df)+1,1):
-        df_all=df_all.append(df[i-1].replace('\n', ' '))
+    
+    new_col_name=df[0].columns
+    new_col_name1=[x.replace('\n', ' ').replace('\r', ' ') for x in new_col_name]
+    
+    #df_all.rename(columns=dict(zip(df_all.columns[0:], new_col_name1)),inplace=True)
+    
+    df[0].columns = np.arange(len(df[0].columns))
+    df_all_row=df[0].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
+    case_no=df[0][0]
+    
+    df_all=pd.concat([case_no, df_all_row], axis=1)  
+    
+    for i in range(0,len(df),1):
+        if len(df[i].columns)==len(new_col_name):
+            df[i].columns = np.arange(len(df[i].columns))
+        
+            df_all_row=df[i].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
+            case_no=df[i][0]
+            df_all_append=pd.concat([case_no, df_all_row], axis=1)  
+            df_all=df_all.append(df_all_append)
+    
+    for i in range(len(df_all)):
+        if pd.isna(df_all.iloc[i,2]):
+            for j in range(len(new_col_name)-1):
+                if pd.isna(df_all.iloc[i,j])==False and pd.isna(df_all.iloc[i-1,1])==False:
+                    if pd.isna(df_all.iloc[i-1,j])==False:
+                        print(df_all.iloc[i-1,j] + df_all.iloc[i,j])
+                        df_all.iloc[i-1,j]=df_all.iloc[i-1,j] +' ' + df_all.iloc[i,j]
+                    else:
+                        df_all.iloc[i-1,j]=df_all.iloc[i,j]
+    
+    df_all_export=df_all[pd.isna(df_all[1])==False]
     
     #df_all1=df_all[df_all['Unnamed: 0'].notnull()]
     df_log=DataFrame([len(df_all)])
@@ -76,8 +106,10 @@ def extract_chp(url,output,str1):
   
     if df_log.loc[0,0] != lst_log:
         #df_all1.to_csv(output)
-        df_all.to_excel(r'~/Documents/chf_'+str1+'_'+timestr+'.xlsx')
-        df_all.to_csv(r'~/Documents/chf_'+str1+'_'+timestr+'.csv')
+        #df_all = df_all.rename(columns=new_col_name1, axis='index')
+        df_all_export.rename(columns=dict(zip(df_all_export.columns[0:], new_col_name1)),inplace=True)
+        #df_all.to_excel(r'~/Documents/chf_'+str1+'_'+timestr+'.xlsx')
+        df_all_export.to_csv(r'~/Documents/chf_'+str1+'_'+timestr+'1.csv')
         df_log.to_csv("~/Documents/df_log_"+str1+".csv")
         
         body = 'Hey, Update Sucess on '+url
@@ -109,11 +141,11 @@ def extract_chp(url,output,str1):
 #extract_chp('https://www.chp.gov.hk/files/pdf/list_of_buildings_en.pdf','~/Documents/home_confiness_eng'+timestr+".csv",'building_en')
 #extract_chp('https://www.chp.gov.hk/files/pdf/list_of_buildings_tc.pdf','~/Documents/home_confiness_chi'+timestr+".csv",'building_tc')
 
-print("Finish Processing building list")
+#print("Finish Processing building list")
 extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','~/Documents/case'+timestr+'.csv','case_tc')
-#extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','~/Documents/case'+timestr+'.csv','case_en')
+extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','~/Documents/case'+timestr+'.csv','case_en')
 
-extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','~/Documents/case'+timestr+'.csv','building_tc')
+#extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','~/Documents/case'+timestr+'.csv','building_tc')
 #extract_chp('https://www.chp.gov.hk/files/pdf/building_list_eng.pdf','~/Documents/case'+timestr+'.csv','building_en')
 
 
