@@ -53,8 +53,6 @@ print("Finish Define Variable")
 
 df_log=[]
 
-url='https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf'
-str1='case_tc'
 
 def extract_chp(url,output,str1):
     filename = Path('tmp_chp_'+str1+'.pdf')
@@ -145,8 +143,8 @@ df_all_export_"""+str(k)+""".to_csv(r'~/Documents/chf_"""+str1+"""_"""+timestr+"
     df_log.to_csv("~/Documents/df_log_"+str1+".csv")
 
 #print("Finish Processing building list")
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','~/Documents/case'+timestr+'.csv','case_tc')
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','~/Documents/case'+timestr+'.csv','case_en')
+#extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','~/Documents/case'+timestr+'.csv','case_tc')
+#extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','~/Documents/case'+timestr+'.csv','case_en')
 
 extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','~/Documents/case'+timestr+'.csv','building_tc')
 extract_chp('https://www.chp.gov.hk/files/pdf/building_list_eng.pdf','~/Documents/case'+timestr+'.csv','building_en')
