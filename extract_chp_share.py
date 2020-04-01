@@ -112,7 +112,7 @@ def extract_chp(url,output,str1):
             exec('df_all_'+str(j)+'=df_all_'+str(j)+'.loc[:, ~df_all_'+str(j)+'.columns.duplicated()]')
             df_log=df_log+len(df_all_row)    
     
-    tmp_log = pd.read_csv("~/Documents/df_log_"+str1+".csv",header=0,index_col=False ) 
+    tmp_log = pd.read_csv("./logs/df_log_"+str1+".csv",header=0,index_col=False ) 
     lst_log=tmp_log.loc[0,'0']
     
     k=10
