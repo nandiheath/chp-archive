@@ -46,6 +46,10 @@ const generateHtml = () => {
   const folders = fs.readdirSync('data');
   const paths = [];
   folders.forEach(dir => {
+    const stat = fs.statSync('data/' + dir);
+    if (!stat.isDirectory()) {
+      return;
+    }
     const dateDir = fs.readdirSync('data/' + dir);
     dateDir.forEach(file => {
       paths.push({
