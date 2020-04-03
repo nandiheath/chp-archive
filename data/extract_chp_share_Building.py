@@ -53,7 +53,6 @@ print("Finish Define Variable")
 
 df_log=[]
 
-
 def extract_chp(url,output,str1):
     filename = Path('tmp_chp_'+str1+'.pdf')
     response = requests.get(url)
@@ -74,12 +73,16 @@ def extract_chp(url,output,str1):
     df_all_0=pd.concat([case_no, df_all_row], axis=1)  
     df_all_0=df_all_0.loc[:, ~df_all_0.columns.duplicated()]
     
-    
     j=0
     
     df_log=len(df_all_0)
     new_col_name=new_col_name_0
     
+    df_all_tmp=df_all_0
+    df_all_1=df_all_tmp
+    df_all_2=df_all_tmp
+    df_all_append=df_all_row
+
     for i in range(1,len(df),1):      
         if len(df[i].columns)==len(new_col_name) or len(df[i].columns)==len(df[i-1].columns):
             df[i].columns = np.arange(len(df[i].columns)) 
@@ -93,9 +96,8 @@ def extract_chp(url,output,str1):
             df_all_append=df_all_append.loc[:, ~df_all_append.columns.duplicated()]
             exec('df_all_'+str(j)+'=df_all_'+str(j)+'.append(df_all_append)')
             df_log=df_log+len(df_all_append)
-            
-        else:
-            j=j+1  
+        
+        else:   
             new_col_name=df[i].columns
             new_col_name_1=[x.replace('\n', ' ').replace('\r', ' ') for x in new_col_name]
             exec('new_col_name_'+str(j)+'=new_col_name')
@@ -104,17 +106,25 @@ def extract_chp(url,output,str1):
             for m in range(len(df[i].columns)):      
                 if not(is_string_dtype(df[i][m])):
                     df[i][m] = df[i][m].astype(str)
+            
             df_all_row=df[i].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
             case_no=df[i][0]
-            exec('df_all_'+str(j)+'=pd.concat([case_no, df_all_row],axis=1)')
-            exec('df_all_'+str(j)+'=df_all_'+str(j)+'.loc[:, ~df_all_'+str(j)+'.columns.duplicated()]')
-            df_log=df_log+len(df_all_row)    
-    
+            
+            df_all_tmp=pd.concat([case_no, df_all_row],axis=1)
+            df_all_tmp=df_all_tmp.loc[:, ~df_all_tmp.columns.duplicated()]
+            
+            code="""
+df_all_"""+str(j)+"""=df_all_tmp
+                """
+            exec(code) 
+            
+            df_log=df_log+len(df_all_row)  
+            j=j+1 
+
     tmp_log = pd.read_csv("~/Documents/df_log_"+str1+".csv",header=0,index_col=False ) 
     lst_log=tmp_log.loc[0,'0']
     
-    k=10
-    for k in range(0,j):
+    for k in range(0,j+1):
         code="""
 for i in range(len(df_all_"""+str(k)+""")):
    if pd.isna(df_all_"""+str(k)+""".iloc[i,2]):
