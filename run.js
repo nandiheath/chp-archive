@@ -46,6 +46,10 @@ const generateHtml = () => {
   const folders = fs.readdirSync('data');
   const paths = [];
   folders.forEach(dir => {
+    const stat = fs.statSync('data/' + dir);
+    if (!stat.isDirectory()) {
+      return;
+    }
     const dateDir = fs.readdirSync('data/' + dir);
     dateDir.forEach(file => {
       paths.push({
@@ -66,6 +70,10 @@ const run = async () => {
   await downloadPdf(`data/${today}`, 'building_list_eng.pdf', 'https://www.chp.gov.hk/files/pdf/building_list_eng.pdf');
   await downloadPdf(`data/${today}`, 'flights_trains_tc.pdf', 'https://www.chp.gov.hk/files/pdf/flights_trains_tc.pdf');
   await downloadPdf(`data/${today}`, 'flights_trains_en.pdf', 'https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf');
+  await downloadPdf(`data/${today}`, 'local_situation_covid19_tc.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf');
+  await downloadPdf(`data/${today}`, 'local_situation_covid19_en.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf');
+  
+  
   generateHtml();
 }
 
