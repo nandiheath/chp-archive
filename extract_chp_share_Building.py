@@ -121,7 +121,7 @@ df_all_"""+str(j)+"""=df_all_tmp
             df_log=df_log+len(df_all_row)  
             j=j+1 
 
-    tmp_log = pd.read_csv("~/Documents/df_log_"+str1+".csv",header=0,index_col=False ) 
+    tmp_log = pd.read_csv("./data/df_log_"+str1+".csv",header=0,index_col=False ) 
     lst_log=tmp_log.loc[0,'0']
     
     for k in range(0,j+1):
