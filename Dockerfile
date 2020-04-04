@@ -13,4 +13,4 @@ RUN yarn --production --silent
 
 COPY . .
 
-CMD ['node', 'run.js']
+CMD ["node", "run.js"]
