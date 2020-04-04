@@ -13,4 +13,4 @@ RUN yarn --production --silent
 
 COPY . .
 
-CMD ["node", "run.js"]
+CMD ["sh", "-c", "scripts/kinto_ci.sh"]
