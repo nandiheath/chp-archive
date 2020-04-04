@@ -1,0 +1,864 @@
+,Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospitalised/ Discharged/ Deceased#,HK/Non- HK resident,Case classification*,Confirmed/ probable
+0,847,04/04/2020,Asymptomatic,M,20,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,848,04/04/2020,Asymptomatic,F,25,Pending,Pending admission,HK resident,Close contact of possibly local case,Confirmed
+2,849,04/04/2020,31/03/2020,F,44,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,850,04/04/2020,22/03/2020,F,21,Pending,Pending admission,HK resident,Imported,Confirmed
+4,851,04/04/2020,02/04/2020,F,21,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,852,04/04/2020,29/03/2020,F,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,853,04/04/2020,Asymptomatic,M,23,Pending,Pending admission,HK resident,Imported,Confirmed
+7,854,04/04/2020,01/04/2020,M,46,Queen Elizabeth Hospital,Hospitalised,HK resident,Local case,Confirmed
+8,855,04/04/2020,25/03/2020,F,36,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,856 nan,04/04/2020,28/03/2020,M,93 nan,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of possibly local,Confirmed
+1,857.0,04/04/2020,25/03/2020,M,71.0,Pending,Pending admission,HK resident,Local case,Confirmed
+2,858.0,04/04/2020,29/03/2020,M,38.0,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,859.0,04/04/2020,Asymptomatic,F,38.0,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,860.0,04/04/2020,30/03/2020,M,6.0,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,861.0,04/04/2020,16/03/2020,M,18.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,862.0,04/04/2020,30/03/2020,M,23.0,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,863.0,04/04/2020,Asymptomatic,F,24.0,Pending,Pending admission,HK resident,Close contact of local case,Confirmed
+0,1,23/01/2020,21/01/2020,M,39,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+1,2,23/01/2020,18/01/2020,M,56,Princess Margaret Hospital,Discharged,HK resident,Imported,Confirmed
+2,3,24/01/2020,20/01/2020,F,62,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+3,4,24/01/2020,23/01/2020,F,62,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+4,5,24/01/2020,23/01/2020,M,63,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+5,6,26/01/2020,21/01/2020,M,47,Princess Margaret Hospital,Discharged,HK resident,Imported,Confirmed
+6,7,26/01/2020,21/01/2020,F,68,Princess Margaret Hospital,Discharged,HK resident,Imported,Confirmed
+7,8,26/01/2020,25/01/2020,M,64,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+8,9,29/01/2020,25/01/2020,F,73,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+9,10,29/01/2020,25/01/2020,M,72,Princess Margaret Hospital,Discharged,Non-HK resident,Imported,Confirmed
+10,11,30/01/2020,28/01/2020,F,37,Princess Margaret Hospital,Discharged,HK resident,Close contact of imported case,Confirmed
+0,12,30/01/2020,22/01/2020,M,75,Princess Margaret Hospital,Discharged,HK resident,Possibly local,Confirmed
+1,13,31/01/2020,29/01/2020,M,39,Princess Margaret Hospital,Deceased,HK resident,Imported,Confirmed
+2,14,01/02/2020,23/01/2020,M,80,Princess Margaret Hospital,Discharged,HK resident,Possibly local,Confirmed
+3,15,02/02/2020,01/02/2020,F,72,Princess Margaret Hospital,Discharged,HK resident,Close contact of imported case,Confirmed
+4,16,04/02/2020,23/01/2020,F,64,Princess Margaret Hospital,Discharged,HK resident,Local case,Confirmed
+5,17,04/02/2020,22/01/2020,M,60,Princess Margaret Hospital,Discharged,HK resident,Local case,Confirmed
+6,18,04/02/2020,28/01/2020,M,25,Princess Margaret Hospital,Discharged,HK resident,Local case,Confirmed
+7,19,05/02/2020,30/01/2020,F,28,Princess Margaret Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,20,05/02/2020,04/02/2020,F,56,Princess Margaret Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+9,21,05/02/2020,30/01/2020,M,56,Princess Margaret Hospital,Discharged,HK resident,Possibly local,Confirmed
+10,22,06/02/2020,01/02/2020,F,55,Princess Margaret Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+11,23,06/02/2020,26/01/2020,F,63,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Local case,Confirmed
+0,24,06/02/2020,28/01/2020,F,65,Prince of Wales Hospital,Discharged,HK resident,Local case,Confirmed
+1,25,07/02/2020,04/02/2020,M,58,North District Hospital,Discharged,HK resident,Imported,Confirmed
+2,26,07/02/2020,03/02/2020,M,42,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+3,27,09/02/2020,30/01/2020,M,24,Ruttonjee Hospital,Discharged,HK resident,Possibly local,Confirmed
+4,28,09/02/2020,30/01/2020,M,70,United Christian Hospital,Discharged,HK resident,Local case,Confirmed
+5,29,09/02/2020,01/02/2020,F,91,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+6,30,09/02/2020,29/01/2020,M,68,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+7,31,09/02/2020,28/01/2020,F,57,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+8,32,09/02/2020,04/02/2020,M,22,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+9,33 nan,09/02/2020,02/02/2020,F,50 nan,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local,Confirmed
+1,34.0,09/02/2020,30/01/2020,F,25.0,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+2,35.0,09/02/2020,04/02/2020,F,51.0,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+3,36.0,09/02/2020,07/02/2020,M,23.0,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+4,37.0,10/02/2020,30/01/2020,F,55.0,Prince of Wales Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+5,38.0,10/02/2020,30/01/2020,M,69.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,39.0,10/02/2020,30/01/2020,F,63.0,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+7,40.0,10/02/2020,28/01/2020,F,86.0,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Local case,Confirmed
+8,41.0 nan,10/02/2020,08/02/2020,M,52.0 nan,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local,Confirmed
+1,42.0,10/02/2020,03/02/2020,F,62.0,Princess Margaret Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+2,43.0,11/02/2020,02/02/2020,M,59.0,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Local case,Confirmed
+3,44.0,11/02/2020,01/02/2020,F,60.0,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+4,45.0,11/02/2020,05/02/2020,M,71.0,United Christian Hospital,Discharged,HK resident,Local case,Confirmed
+5,46.0,11/02/2020,03/02/2020,M,75.0,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+6,47.0,11/02/2020,31/01/2020,M,66.0,Tuen Mun Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+7,48.0,11/02/2020,02/02/2020,F,37.0,Princess Margaret Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,49.0,11/02/2020,30/01/2020,M,37.0,Princess Margaret Hospital,Discharged,HK resident,Local case,Confirmed
+9,50.0,12/02/2020,03/02/2020,M,51.0,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+0,51,13/02/2020,29/01/2020,M,43,Tuen Mun Hospital,Discharged,HK resident,Local case,Confirmed
+1,52,13/02/2020,31/01/2020,F,67,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+2,53,13/02/2020,08/02/2020,M,37,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+3,54,14/02/2020,03/02/2020,F,41,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+4,55,14/02/2020,02/02/2020,M,70,Princess Margaret Hospital,Deceased,HK resident,Possibly local,Confirmed
+5,56,14/02/2020,12/02/2020,F,61,Queen Mary Hospital,Discharged,HK resident,Local case,Confirmed
+6,57,16/02/2020,07/02/2020,M,54,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+7,58,17/02/2020,08/02/2020,M,69,Caritas Medical Centre,Discharged,HK resident,Local case,Confirmed
+8,59,17/02/2020,12/02/2020,M,45,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+9,60,17/02/2020,08/02/2020,F,46,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+0,61,18/02/2020,02/02/2020,F,32,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+1,62,18/02/2020,11/02/2020,M,58,United Christian Hospital,Discharged,HK resident,Close contact of imported case,Confirmed
+2,63,19/02/2020,14/02/2020,F,83,Tuen Mun Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+3,64,19/02/2020,12/02/2020,M,68,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+4,65,19/02/2020,12/02/2020,F,70,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+5,66,20/02/2020,25/01/2020,M,75,Tuen Mun Hospital,Discharged,HK resident,Possibly local,Confirmed
+6,67,20/02/2020,10/02/2020,F,38,United Christian Hospital,Discharged,HK resident,Local case,Confirmed
+7,68,20/02/2020,08/02/2020,M,58,North District Hospital,Discharged,HK resident,Local case,Confirmed
+8,69,20/02/2020,18/02/2020,M,48,United Christian Hospital,Discharged,HK resident,Local case,Confirmed
+9,70,22/02/2020,13/02/2020,F,96,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,71,23/02/2020,20/02/2020,M,68,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+0,72,23/02/2020,10/02/2020,M,62,United Christian Hospital,Discharged,HK resident,Local case,Confirmed
+1,73,23/02/2020,08/02/2020,F,80,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Local case,Confirmed
+2,74,23/02/2020,13/02/2020,F,76,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+3,75,23/02/2020,19/02/2020,M,35,Tuen Mun Hospital,Discharged,HK resident,Possibly local,Confirmed
+4,76,24/02/2020,08/02/2020,F,57,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+5,77,24/02/2020,19/02/2020,F,68,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+6,78,24/02/2020,24/02/2020,F,59,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+7,79,24/02/2020,04/02/2020,F,58,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+8,80,24/02/2020,Asymptomatic,M,57,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+9,81,24/02/2020,Asymptomatic,F,57,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+10,82,25/02/2020,20/02/2020,M,33,United Christian Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+11,83,25/02/2020,17/02/2020,F,55,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+0,84,25/02/2020,Asymptomatic,M,24,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+1,85,25/02/2020,12/02/2020,F,60,Queen Mary Hospital,Discharged,HK resident,Local case,Confirmed
+2,86,26/02/2020,18/02/2020,F,49,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+3,87,26/02/2020,12/02/2020,F,21,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+4,88,26/02/2020,17/02/2020,M,16,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+5,89,26/02/2020,25/02/2020,M,80,PamelaYoudeNethersole Eastern Hospital,Deceased,HK resident,Close contact of local case,Confirmed
+6,90,26/02/2020,16/02/2020,F,29,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+7,91,26/02/2020,20/02/2020,M,26,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,92,27/02/2020,13/02/2020,F,70,United Christian Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+9,93,27/02/2020,25/02/2020,F,89,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+10,94,28/02/2020,Asymptomatic,F,61,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+0,95,29/02/2020,29/02/2020,F,46,United Christian Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+1,96,01/03/2020,16/02/2020,F,68,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+2,97,01/03/2020,Asymptomatic,M,56,Queen Mary Hospital,Discharged,HK resident,Imported,Probable
+3,98,01/03/2020,12/02/2020,F,71,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,99,01/03/2020,28/02/2020,F,76,Caritas Medical Centre,Deceased,HK resident,Local case,Confirmed
+5,100,01/03/2020,28/02/2020,M,79,Caritas Medical Centre,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,101,02/03/2020,Asymptomatic,M,63,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+7,102,04/03/2020,Asymptomatic,M,43,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,103,04/03/2020,Asymptomatic,F,57,Queen Mary Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+9,104,04/03/2020,Asymptomatic,F,62,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+10,105,04/03/2020,23/02/2020,F,69,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+0,106,06/03/2020,04/03/2020,M,56,Ruttonjee Hospital,Discharged,HK resident,Possibly local,Confirmed
+1,107,06/03/2020,28/02/2020,M,84,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+2,108,06/03/2020,Asymptomatic,M,69,Queen Mary Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+3,109,07/03/2020,Asymptomatic,F,38,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+4,110,07/03/2020,Asymptomatic,F,73,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+5,111,08/03/2020,23/02/2020,M,76,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+6,112,08/03/2020,Asymptomatic,M,55,Tuen Mun Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+7,113,08/03/2020,Asymptomatic,F,47,Prince of Wales Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,114,08/03/2020,06/03/2020,M,41,Queen Elizabeth Hospital,Discharged,HK resident,Possibly local,Confirmed
+9,115,08/03/2020,Asymptomatic,F,59,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+10,116,09/03/2020,07/03/2020,M,44,Ruttonjee Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+11,117 nan,10/03/2020,09/03/2020,F,52 nan,Queen Mary Hospital,Discharged,HK resident,Close contact of,Confirmed
+1,118.0,10/03/2020,04/03/2020,F,48.0,Queen Mary Hospital,Discharged,HK resident,Close contact of imported case,Confirmed
+2,119.0,10/03/2020,07/03/2020,M,59.0,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,120.0,10/03/2020,07/03/2020,M,59.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,121.0,10/03/2020,07/03/2020,F,59.0,Tuen Mun Hospital,Discharged,HK resident,Imported,Confirmed
+5,122.0,11/03/2020,06/03/2020,F,22.0,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,123.0,11/03/2020,08/03/2020,M,57.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,124.0,11/03/2020,06/03/2020,F,59.0,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,125.0,11/03/2020,10/03/2020,M,23.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,126.0,11/03/2020,10/03/2020,M,63.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,127.0,11/03/2020,10/03/2020,F,63.0,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+11,128.0,11/03/2020,08/03/2020,F,36.0,Caritas Medical Centre,Discharged,HK resident,Close contact of local case,Confirmed
+0,129,11/03/2020,08/03/2020,F,52,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,130,11/03/2020,03/03/2020,F,31,Princess Margaret Hospital,Discharged,HK resident,Imported,Confirmed
+2,131,12/03/2020,03/03/2020,M,37,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,132,12/03/2020,08/03/2020,M,31,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,133,13/03/2020,12/03/2020,M,1,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,134,13/03/2020,10/03/2020,M,67,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,135,13/03/2020,08/03/2020,F,30,Queen Mary Hospital,Discharged,HK resident,Possibly local,Confirmed
+7,136,13/03/2020,07/03/2020,M,61,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,137,13/03/2020,06/03/2020,F,54,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Imported,Confirmed
+9,138,13/03/2020,Asymptomatic,M,66,Princess Margaret Hospital,Discharged,HK resident,Close contact of imported case,Confirmed
+10,139,14/03/2020,12/03/2020,F,39,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+11,140,14/03/2020,10/03/2020,M,59,Prince of Wales Hospital,Hospitalised,HK resident,Local case,Confirmed
+12,141,14/03/2020,12/03/2020,F,28,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+0,142,14/03/2020,02/03/2020,M,59,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,143,15/03/2020,11/03/2020,M,35,North District Hospital,Discharged,HK resident,Imported,Confirmed
+2,144,15/03/2020,11/03/2020,M,29,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+3,145,15/03/2020,10/03/2020,M,37,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,146,15/03/2020,13/03/2020,M,39,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+5,147,15/03/2020,10/03/2020,F,61,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+6,148,15/03/2020,10/03/2020,M,58,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+7,149,15/03/2020,14/03/2020,M,32,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,150,16/03/2020,13/03/2020,M,37,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,151,16/03/2020,08/03/2020,M,30,Queen Elizabeth Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+10,152,16/03/2020,13/03/2020,M,73,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,153,16/03/2020,15/03/2020,F,26,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,154,16/03/2020,11/03/2020,F,42,Queen Elizabeth Hospital,Discharged,HK resident,Possibly local,Confirmed
+13,155,16/03/2020,15/03/2020,M,58,North District Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+0,156,16/03/2020,09/03/2020,M,59,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+1,157,16/03/2020,15/03/2020,F,42,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,158,16/03/2020,Asymptomatic,F,41,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,159,17/03/2020,15/03/2020,M,69,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,160,17/03/2020,09/03/2020,F,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,161,17/03/2020,12/03/2020,F,37,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,162,17/03/2020,12/03/2020,M,36,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+7,163,17/03/2020,10/03/2020,F,30,Queen Mary Hospital,Discharged,HK resident,Possibly local,Confirmed
+8,164,17/03/2020,10/03/2020,M,21,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+9,165,17/03/2020,05/03/2020,M,24,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,166,17/03/2020,10/03/2020,M,27,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,167,17/03/2020,Asymptomatic,M,25,United Christian Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+0,168,17/03/2020,09/03/2020,M,43,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+1,169,18/03/2020,16/03/2020,M,34,Ruttonjee Hospital,Discharged,HK resident,Possibly local,Confirmed
+2,170,18/03/2020,14/03/2020,M,36,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Possibly local,Confirmed
+3,171,18/03/2020,17/03/2020,M,27,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+4,172,18/03/2020,15/03/2020,M,28,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,173,18/03/2020,17/03/2020,M,55,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,174,18/03/2020,09/03/2020,M,31,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+7,175,18/03/2020,13/03/2020,M,29,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,176,18/03/2020,15/03/2020,F,29,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,177,18/03/2020,16/03/2020,F,28,Queen Mary Hospital,Discharged,Non-HK resident,Imported,Confirmed
+10,178,18/03/2020,16/03/2020,M,29,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+11,179,18/03/2020,16/03/2020,M,63,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+12,180,18/03/2020,16/03/2020,M,38,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,181,18/03/2020,15/03/2020,F,63,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,182,18/03/2020,11/03/2020,F,50,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,183,18/03/2020,12/03/2020,F,24,Yan Chai Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,184,18/03/2020,12/03/2020,F,64,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+4,185,18/03/2020,12/03/2020,M,23,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+5,186,18/03/2020,02/03/2020,F,46,Ruttonjee Hospital,Discharged,HK resident,Possibly local,Confirmed
+6,187,18/03/2020,09/03/2020,F,20,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,188,18/03/2020,11/03/2020,M,16,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,189,18/03/2020,12/03/2020,M,49,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,190,18/03/2020,17/03/2020,M,12,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+10,191,18/03/2020,16/03/2020,F,34,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+11,192,18/03/2020,11/03/2020,F,46,Queen Elizabeth Hospital,Hospitalised,HK resident,Local case,Confirmed
+12,193,18/03/2020,11/03/2020,F,33,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+0,194,19/03/2020,15/03/2020,M,44,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+1,195,19/03/2020,17/03/2020,M,29,Kwong Wah Hospital,Hospitalised,HK resident,Local case,Confirmed
+2,196,19/03/2020,13/03/2020,F,48,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,197,19/03/2020,10/03/2020,F,19,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,198,19/03/2020,18/03/2020,M,21,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,199,19/03/2020,16/03/2020,M,29,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,200,19/03/2020,16/03/2020,M,22,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+7,201,19/03/2020,18/03/2020,M,35,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,202,19/03/2020,14/03/2020,F,19,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,203,19/03/2020,18/03/2020,M,29,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,204,19/03/2020,18/03/2020,F,43,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,205,19/03/2020,16/03/2020,M,35,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,206,19/03/2020,13/03/2020,M,40,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,207,19/03/2020,16/03/2020,F,32,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,208,19/03/2020,18/03/2020,M,44,Queen Mary Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+1,209,19/03/2020,12/03/2020,M,51,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,210,20/03/2020,12/03/2020,M,46,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,211,20/03/2020,14/03/2020,F,33,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,212,20/03/2020,16/03/2020,F,44,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,213,20/03/2020,Asymptomatic,F,4,United Christian Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+6,214,20/03/2020,17/03/2020,M,41,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,215,20/03/2020,Asymptomatic,M,61,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,216,20/03/2020,12/03/2020,M,21,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Imported,Confirmed
+9,217,20/03/2020,13/03/2020,M,35,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+10,218,20/03/2020,18/03/2020,M,54,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,219,20/03/2020,16/03/2020,F,13,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,220,20/03/2020,11/03/2020,M,57,Princess Margaret Hospital,Discharged,HK resident,Possibly local,Confirmed
+2,221,20/03/2020,16/03/2020,M,62,Caritas Medical Centre,Hospitalised,HK resident,Local case,Confirmed
+3,222,20/03/2020,18/03/2020,F,31,Caritas Medical Centre,Hospitalised,HK resident,Close contact of imported case,Confirmed
+4,223,20/03/2020,18/03/2020,F,31,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,224,20/03/2020,09/03/2020,M,38,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,225,20/03/2020,17/03/2020,M,61,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,226,20/03/2020,19/03/2020,M,17,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,227,20/03/2020,17/03/2020,M,28,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,228,20/03/2020,18/03/2020,M,50,United Christian Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+10,229,20/03/2020,16/03/2020,M,40,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+0,230,20/03/2020,16/03/2020,F,23,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,231,20/03/2020,19/03/2020,F,24,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,232,20/03/2020,18/03/2020,F,16,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,233,20/03/2020,18/03/2020,M,31,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+4,234,20/03/2020,17/03/2020,F,52,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,235,20/03/2020,17/03/2020,M,18,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,236,20/03/2020,18/03/2020,M,32,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,237,20/03/2020,18/03/2020,F,29,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+8,238,20/03/2020,18/03/2020,F,69,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,239,20/03/2020,09/03/2020,M,50,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+10,240,20/03/2020,11/03/2020,F,33,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+11,241,20/03/2020,15/03/2020,M,60,United Christian Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+0,242,20/03/2020,15/03/2020,F,61,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,243,20/03/2020,13/03/2020,F,25,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+2,244,20/03/2020,19/03/2020,F,36,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,245,20/03/2020,09/03/2020,M,46,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,246,20/03/2020,16/03/2020,M,58,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+5,247,20/03/2020,09/03/2020,F,34,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,248,20/03/2020,14/03/2020,M,33,Ruttonjee Hospital,Discharged,HK resident,Local case,Confirmed
+7,249,20/03/2020,19/03/2020,M,19,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,250,20/03/2020,16/03/2020,F,27,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+9,251,20/03/2020,16/03/2020,M,38,Queen Mary Hospital,Hospitalised,Non-HK resident,Possibly local,Confirmed
+10,252,20/03/2020,18/03/2020,M,23,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,253 nan,20/03/2020,17/03/2020,F,31 nan,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of possibly local,Confirmed
+1,254.0,20/03/2020,19/03/2020,F,27.0,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,255.0,20/03/2020,19/03/2020,F,22.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,256.0,20/03/2020,17/03/2020,F,30.0,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,257.0,20/03/2020,18/03/2020,M,18.0,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,258.0,21/03/2020,18/03/2020,F,58.0,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+6,259.0,21/03/2020,15/03/2020,F,35.0,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+7,260.0,21/03/2020,19/03/2020,M,43.0,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,261.0,21/03/2020,16/03/2020,F,61.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,262.0,21/03/2020,13/03/2020,F,70.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,263.0,21/03/2020,15/03/2020,F,50.0,Tuen Mun Hospital,Discharged,HK resident,Local case,Confirmed
+11,264.0,21/03/2020,17/03/2020,M,28.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,265,21/03/2020,Asymptomatic,F,20,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Imported,Confirmed
+1,266,21/03/2020,17/03/2020,M,48,Queen Elizabeth Hospital,Hospitalised,HK resident,Local case,Confirmed
+2,267,21/03/2020,13/03/2020,F,30,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+3,268,21/03/2020,14/03/2020,F,60,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,269,21/03/2020,19/03/2020,F,15,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,270,21/03/2020,17/03/2020,F,35,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,271,21/03/2020,18/03/2020,F,51,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,272,21/03/2020,18/03/2020,M,11,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,273,21/03/2020,06/03/2020,M,36,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+9,274,21/03/2020,18/03/2020,F,36,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+10,275,22/03/2020,18/03/2020,M,30,Kwong Wah Hospital,Hospitalised,HK resident,Local case,Confirmed
+11,276,22/03/2020,17/03/2020,M,29,Caritas Medical Centre,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,277 nan,22/03/2020,15/03/2020,F,27 nan,Prince of Wales Hospital,Discharged,HK resident,Close contact of possibly local,Confirmed
+1,278.0,22/03/2020,18/03/2020,M,28.0,Tuen Mun Hospital,Hospitalised,HK resident,Local case,Confirmed
+2,279.0,22/03/2020,16/03/2020,M,30.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,280.0,22/03/2020,16/03/2020,M,20.0,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+4,281.0,22/03/2020,19/03/2020,M,33.0,Caritas Medical Centre,Hospitalised,Non-HK resident,Imported,Confirmed
+5,282.0,22/03/2020,17/03/2020,F,39.0,Princess Margaret Hospital,Discharged,HK resident,Possibly local,Confirmed
+6,283.0,22/03/2020,16/03/2020,F,20.0,North District Hospital,Discharged,Non-HK resident,Imported,Confirmed
+7,284.0,22/03/2020,17/03/2020,F,26.0,Tuen Mun Hospital,Hospitalised,HK resident,Local case,Confirmed
+8,285.0,22/03/2020,20/03/2020,M,41.0,United Christian Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+9,286.0,22/03/2020,Asymptomatic,M,37.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,287.0,22/03/2020,Asymptomatic,M,31.0,United Christian Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+11,288.0,22/03/2020,14/03/2020,M,20.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,289,22/03/2020,16/03/2020,F,20,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+1,290,22/03/2020,19/03/2020,F,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,291,22/03/2020,18/03/2020,M,32,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,292,22/03/2020,19/03/2020,M,17,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,293,22/03/2020,19/03/2020,M,36,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,294,22/03/2020,16/03/2020,M,30,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,295,22/03/2020,17/03/2020,M,31,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+7,296,22/03/2020,03/03/2020,M,24,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+8,297,22/03/2020,12/03/2020,F,18,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+9,298,22/03/2020,20/03/2020,F,1,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+10,299,22/03/2020,14/03/2020,M,40,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+11,300,22/03/2020,20/03/2020,M,36,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,301,22/03/2020,14/03/2020,F,72,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,302,22/03/2020,20/03/2020,M,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,303,22/03/2020,20/03/2020,F,1,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+3,304,22/03/2020,18/03/2020,M,69,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+4,305,22/03/2020,15/03/2020,F,26,AliceHoMiuLing Nethersole Hospital,Discharged,HK resident,Imported,Confirmed
+5,306,22/03/2020,03/03/2020,M,64,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,307,22/03/2020,17/03/2020,F,31,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,308,22/03/2020,19/03/2020,M,39,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,309,22/03/2020,15/03/2020,M,56,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,310,22/03/2020,19/03/2020,F,33,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+10,311,22/03/2020,19/03/2020,F,16,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+0,312,22/03/2020,16/03/2020,F,56,Princess Margaret Hospital,Hospitalised,HK resident,Local case,Confirmed
+1,313,22/03/2020,18/03/2020,F,29,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+2,314,22/03/2020,20/03/2020,M,28,Caritas Medical Centre,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,315,22/03/2020,20/03/2020,M,45,Yan Chai Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+4,316,22/03/2020,16/03/2020,M,29,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,317,22/03/2020,16/03/2020,M,24,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,318,22/03/2020,16/03/2020,M,41,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,319,23/03/2020,20/03/2020,F,25,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,320,23/03/2020,19/03/2020,F,20,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,321,23/03/2020,20/03/2020,F,57,United Christian Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+10,322,23/03/2020,21/03/2020,F,61,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,323,23/03/2020,20/03/2020,F,20,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+0,324,23/03/2020,19/03/2020,M,36,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,325,23/03/2020,20/03/2020,M,34,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,326,23/03/2020,21/03/2020,M,48,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,327,23/03/2020,20/03/2020,F,51,Queen Mary Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+4,328,23/03/2020,16/03/2020,F,47,North District Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,329,23/03/2020,17/03/2020,M,21,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,330,23/03/2020,19/03/2020,M,30,AliceHoMiuLing Nethersole Hospital,Discharged,HK resident,Imported,Confirmed
+7,331,23/03/2020,17/03/2020,F,21,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,332,23/03/2020,Asymptomatic,M,32,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+9,333,23/03/2020,22/03/2020,M,56,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,334,23/03/2020,Asymptomatic,M,18,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,335,23/03/2020,15/03/2020,F,19,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,336,23/03/2020,18/03/2020,F,43,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,337,23/03/2020,13/03/2020,M,66,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+1,338,23/03/2020,11/03/2020,M,62,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,339,23/03/2020,20/03/2020,M,32,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Local case,Confirmed
+3,340,23/03/2020,19/03/2020,F,39,United Christian Hospital,Discharged,HK resident,Possibly local,Confirmed
+4,341,23/03/2020,19/03/2020,M,54,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,342,23/03/2020,Asymptomatic,M,41,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+6,343,23/03/2020,21/03/2020,M,39,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,344,23/03/2020,Asymptomatic,M,23,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,345,23/03/2020,13/03/2020,F,37,Ruttonjee Hospital,Discharged,HK resident,Possibly local,Confirmed
+9,346,23/03/2020,11/03/2020,M,30,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+10,347,23/03/2020,22/03/2020,F,54,Prince of Wales Hospital,Hospitalised,HK resident,Local case,Confirmed
+11,348,23/03/2020,20/03/2020,F,66,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+0,349,23/03/2020,19/03/2020,M,26,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+1,350,23/03/2020,18/03/2020,F,57,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,351,23/03/2020,14/03/2020,M,58,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,352,23/03/2020,20/03/2020,M,43,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,353,23/03/2020,21/03/2020,F,33,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,354,23/03/2020,18/03/2020,M,50,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,355,23/03/2020,19/03/2020,M,25,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,356,23/03/2020,21/03/2020,M,18,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,357,23/03/2020,21/03/2020,F,18,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,358,24/03/2020,22/03/2020,M,41,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+10,359,24/03/2020,21/03/2020,M,61,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,360,24/03/2020,22/03/2020,F,30,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,361,24/03/2020,16/03/2020,F,38,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,362,24/03/2020,Asymptomatic,F,34,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+1,363,24/03/2020,20/03/2020,M,52,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,364,24/03/2020,14/03/2020,M,21,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,365,24/03/2020,11/03/2020,M,44,North District Hospital,Discharged,HK resident,Imported,Confirmed
+4,366,24/03/2020,Asymptomatic,M,42,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,367,24/03/2020,22/03/2020,M,38,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,368,24/03/2020,17/03/2020,F,32,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,369,24/03/2020,19/03/2020,M,36,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,370,24/03/2020,19/03/2020,F,26,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,371,24/03/2020,15/03/2020,M,66,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+10,372,24/03/2020,20/03/2020,M,54,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,373,24/03/2020,20/03/2020,M,33,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+0,374,24/03/2020,19/03/2020,F,60,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+1,375,24/03/2020,Asymptomatic,M,39,Queen Elizabeth Hospital,Discharged,HK resident,Close contact of possibly local case,Confirmed
+2,376,24/03/2020,20/03/2020,F,40,North District Hospital,Discharged,HK resident,Imported,Confirmed
+3,377,24/03/2020,19/03/2020,M,40,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Local case,Confirmed
+4,378,24/03/2020,21/03/2020,F,36,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+5,379,24/03/2020,20/03/2020,M,47,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,380,24/03/2020,18/03/2020,M,42,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,381,24/03/2020,18/03/2020,F,15,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,382,24/03/2020,02/03/2020,F,26,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,383,24/03/2020,22/03/2020,F,39,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,384,24/03/2020,23/03/2020,F,26,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+0,385,24/03/2020,17/03/2020,M,50,Tseung Kwan O Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+1,386,24/03/2020,21/03/2020,M,48,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,387,24/03/2020,22/03/2020,M,38,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,388,25/3/2020,22/03/2020,M,36,United Christian Hospital,Hospitalised,HK resident,Local case,Confirmed
+4,389,25/3/2020,21/03/2020,M,43,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,390,25/3/2020,22/03/2020,F,30,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,391,25/3/2020,19/03/2020,F,57,Pok Oi Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,392,25/3/2020,20/03/2020,F,33,Yan Chai Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,393,25/3/2020,12/03/2020,F,18,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,394,25/3/2020,10/03/2020,M,28,North District Hospital,Hospitalised,HK resident,Local case,Confirmed
+10,395,25/3/2020,21/03/2020,F,29,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,396,25/3/2020,19/03/2020,M,28,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,397,25/3/2020,22/03/2020,F,48,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,398,25/3/2020,23/03/2020,M,16,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,399,25/3/2020,09/03/2020,F,21,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,400,25/3/2020,Asymptomatic,M,11,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,401,25/3/2020,Asymptomatic,F,51,Queen Elizabeth Hospital,Discharged,HK resident,Imported,Confirmed
+5,402,25/3/2020,13/03/2020,M,26,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,403,25/3/2020,23/03/2020,M,45,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,404,25/3/2020,23/03/2020,F,50,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,405,25/3/2020,20/03/2020,M,41,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+9,406,25/3/2020,23/03/2020,M,50,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+10,407,25/3/2020,17/03/2020,F,20,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,408,25/3/2020,24/03/2020,F,18,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,409,25/3/2020,16/03/2020,M,20,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,410,25/3/2020,17/03/2020,M,36,Queen Mary Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+0,411,25/3/2020,20/03/2020,M,38,Tuen Mun Hospital,Hospitalised,Non-HK resident,Close contact of local case,Confirmed
+1,412,26/03/2020,20/03/2020,F,32,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,413,26/03/2020,23/03/2020,F,48,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,414,26/03/2020,22/03/2020,M,46,Princess Margaret Hospital,Hospitalised,HK resident,Local case,Confirmed
+4,415,26/03/2020,16/03/2020,F,47,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+5,416,26/03/2020,Asymptomatic,M,20,AliceHoMiuLing Nethersole Hospital,Discharged,HK resident,Imported,Confirmed
+6,417,26/03/2020,17/03/2020,M,65,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,418,26/03/2020,21/03/2020,F,20,Kwong Wah Hospital,Discharged,HK resident,Imported,Confirmed
+8,419,26/03/2020,25/03/2020,F,20,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Imported,Confirmed
+9,420,26/03/2020,18/03/2020,F,27,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+10,421,26/03/2020,22/03/2020,M,25,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+11,422,26/03/2020,23/03/2020,M,31,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,423,26/03/2020,24/03/2020,M,36,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+13,424,26/03/2020,24/03/2020,M,18,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,425,26/03/2020,21/03/2020,M,18,North Lantau Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,426,26/03/2020,23/03/2020,F,19,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,427 nan,26/03/2020,25/03/2020,F,74 nan,Tuen Mun Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+1,428.0,26/03/2020,24/03/2020,F,22.0,Caritas Medical Centre,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,429.0,26/03/2020,20/03/2020,F,48.0,Yan Chai Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,430.0,26/03/2020,22/03/2020,F,19.0,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,431.0,26/03/2020,23/03/2020,M,20.0,North District Hospital,Discharged,HK resident,Imported,Confirmed
+5,432.0,26/03/2020,24/03/2020,M,39.0,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,433.0,26/03/2020,21/03/2020,M,47.0,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,434.0,26/03/2020,17/03/2020,F,30.0,Ruttonjee Hospital,Discharged,HK resident,Close contact of local case,Confirmed
+8,435.0,26/03/2020,13/03/2020,F,44.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,436.0,26/03/2020,18/03/2020,F,23.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,437.0,26/03/2020,17/03/2020,F,27.0,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,438.0,26/03/2020,20/03/2020,F,42.0,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+12,439.0,26/03/2020,24/03/2020,F,19.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,440.0,26/03/2020,22/03/2020,M,40.0,Ruttonjee Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+0,441,26/03/2020,17/03/2020,F,30,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,442,26/03/2020,23/03/2020,M,58,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,443,26/03/2020,25/03/2020,M,78,Tuen Mun Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+3,444,26/03/2020,20/03/2020,F,63,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,445,26/03/2020,17/03/2020,F,26,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,446,26/03/2020,23/03/2020,M,21,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,447,26/03/2020,24/03/2020,F,37,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,448,26/03/2020,23/03/2020,M,20,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,449,26/03/2020,19/03/2020,F,19,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,450,26/03/2020,25/03/2020,F,38,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,451,26/03/2020,19/03/2020,F,30,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,452,26/03/2020,14/03/2020,M,25,Queen Mary Hospital,Discharged,HK resident,Imported,Confirmed
+12,453,26/03/2020,11/03/2020,F,50,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+13,454,26/03/2020,20/03/2020,M,32,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,455,27/03/2020,15/03/2020,M,33,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+15,456,27/03/2020,15/03/2020,M,62,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,457,27/03/2020,19/03/2020,M,45,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,458,27/03/2020,23/03/2020,F,25,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,459,27/03/2020,19/03/2020,M,23,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,460,27/03/2020,24/03/2020,F,56,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,461,27/03/2020,23/03/2020,M,60,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,462,27/03/2020,23/03/2020,F,34,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,463,27/03/2020,23/03/2020,F,51,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+7,464,27/03/2020,20/03/2020,M,61,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,465,27/03/2020,19/03/2020,F,56,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,466,27/03/2020,22/03/2020,M,36,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,467,27/03/2020,26/03/2020,M,48,Ruttonjee Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+11,468,27/03/2020,26/03/2020,F,15,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,469,27/03/2020,Asymptomatic,M,24,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+13,470,27/03/2020,21/03/2020,F,18,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,471,27/03/2020,24/03/2020,M,19,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,472,27/03/2020,14/03/2020,M,22,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,473,27/03/2020,25/03/2020,F,23,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,474,27/03/2020,21/03/2020,F,26,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,475,27/03/2020,Asymptomatic,F,33,Tseung Kwan O Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+2,476,27/03/2020,13/03/2020,M,47,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,477,27/03/2020,22/03/2020,F,52,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,478,27/03/2020,21/03/2020,F,22,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,479,27/03/2020,19/03/2020,M,71,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,480,27/03/2020,23/03/2020,F,52,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,481,27/03/2020,Asymptomatic,M,31,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,482,27/03/2020,20/03/2020,F,17,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,483,27/03/2020,18/03/2020,F,41,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,484,27/03/2020,20/03/2020,F,34,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,485,27/03/2020,22/03/2020,F,18,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,486,27/03/2020,Asymptomatic,F,21,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,487,27/03/2020,Asymptomatic,M,39,PamelaYoudeNethersole Eastern Hospital,Discharged,Non-HK resident,Imported,Confirmed
+14,488,27/03/2020,Asymptomatic,F,19,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,489,27/03/2020,26/03/2020,F,23,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,490,27/03/2020,26/03/2020,M,27,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,491,27/03/2020,Asymptomatic,F,15,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,492,27/03/2020,24/03/2020,F,50,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,493,27/03/2020,Asymptomatic,F,50,Kwong Wah Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+4,494,27/03/2020,Asymptomatic,M,18,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,495,27/03/2020,Asymptomatic,F,31,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+6,496,27/03/2020,23/03/2020,M,17,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,497,27/03/2020,26/03/2020,F,27,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,498,27/03/2020,24/03/2020,F,58,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,499,27/03/2020,21/03/2020,M,48,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,500,27/03/2020,24/03/2020,F,18,PamelaYoudeNethersole Eastern Hospital,Discharged,HK resident,Imported,Confirmed
+11,501,27/03/2020,22/03/2020,M,35,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,502,27/03/2020,16/03/2020,M,42,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+13,503,27/03/2020,January,M,12,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,504,27/03/2020,25/03/2020,F,62,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+15,505,27/03/2020,12/03/2020,M,23,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+0,506,27/03/2020,19/03/2020,F,18,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,507,27/03/2020,25/03/2020,F,49,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,508,27/03/2020,23/03/2020,F,48,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,509,27/03/2020,24/03/2020,F,40,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,510,27/03/2020,Asymptomatic,F,62,Tseung Kwan O Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,511,27/03/2020,26/03/2020,F,37,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,512,27/03/2020,25/03/2020,F,23,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,513,27/03/2020,24/03/2020,M,36,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,514,27/03/2020,24/03/2020,M,45,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,515,27/03/2020,25/03/2020,M,30,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,516,27/03/2020,25/03/2020,F,38,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,517,27/03/2020,26/03/2020,F,30,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,518,27/03/2020,13/03/2020,M,20,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,519,27/03/2020,24/03/2020,M,37,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+0,520,28/03/2020,19/03/2020,F,35,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,521,28/03/2020,26/03/2020,F,56,Prince of Wales Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+2,522,28/03/2020,21/03/2020,F,38,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,523,28/03/2020,22/03/2020,M,38,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,524,28/03/2020,25/03/2020,M,56,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,525,28/03/2020,24/03/2020,M,63,Ruttonjee Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,526,28/03/2020,22/03/2020,F,52,Yan Chai Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,527,28/03/2020,22/03/2020,M,48,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,528,28/03/2020,20/03/2020,F,29,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+9,529,28/03/2020,Asymptomatic,M,41,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,530,28/03/2020,15/03/2020,M,60,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,531,28/03/2020,Asymptomatic,F,42,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,532,28/03/2020,20/03/2020,M,19,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,533,28/03/2020,20/03/2020,F,25,Queen Mary Hospital,Hospitalised,HK resident,Local case,Confirmed
+14,534,28/03/2020,21/03/2020,M,24,United Christian Hospital,Discharged,HK resident,Imported,Confirmed
+15,535,28/03/2020,19/03/2020,F,28,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+0,536,28/03/2020,15/03/2020,F,31,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+1,537,28/03/2020,Asymptomatic,F,20,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,538,28/03/2020,Asymptomatic,M,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,539,28/03/2020,Asymptomatic,M,19,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,540,28/03/2020,26/03/2020,M,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,541,28/03/2020,10/03/2020,F,17,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,542,28/03/2020,Asymptomatic,M,18,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,543,28/03/2020,Asymptomatic,M,25,Prince of Wales Hospital,Dischargedf,HK resident,Imported,Confirmed
+8,544,28/03/2020,Asymptomatic,M,20,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,545,28/03/2020,27/03/2020,M,19,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,546,28/03/2020,Asymptomatic,F,23,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+11,547,28/03/2020,Asymptomatic,M,18,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,548,28/03/2020,Asymptomatic,M,16,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,549,28/03/2020,25/03/2020,M,16,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,550,28/03/2020,Asymptomatic,F,18,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,551,28/03/2020,Asymptomatic,M,20,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,552,28/03/2020,27/03/2020,F,20,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,553,28/03/2020,27/03/2020,M,20,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,554,28/03/2020,Asymptomatic,F,21,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+2,555,28/03/2020,11/03/2020,M,23,Prince of Wales Hospital,Discharged,HK resident,Imported,Confirmed
+3,556,28/03/2020,16/03/2020,F,20,North District Hospital,Discharged,HK resident,Imported,Confirmed
+4,557,28/03/2020,17/03/2020,M,19,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,558,28/03/2020,23/03/2020,F,20,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,559,28/03/2020,15/03/2020,F,19,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,560,28/03/2020,25/03/2020,M,20,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,561,28/03/2020,12/03/2020,F,67,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,562,28/03/2020,26/03/2020,M,25,United Christian Hospital,Hospitalised,HK resident,Local case,Confirmed
+10,563,28/03/2020,24/03/2020,M,27,Queen Mary Hospital,Hospitalised,HK resident,Local case,Confirmed
+11,564,28/03/2020,23/03/2020,M,33,Prince of Wales Hospital,Hospitalised,HK resident,Local case,Confirmed
+12,565,28/03/2020,26/03/2020,M,66,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,566,28/03/2020,26/03/2020,F,31,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+14,567,28/03/2020,25/03/2020,M,21,Tuen Mun Hospital,Hospitalised,HK resident,Local case,Confirmed
+15,568,28/03/2020,24/03/2020,M,26,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,569,28/03/2020,25/03/2020,F,61,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,570,28/03/2020,26/03/2020,M,15,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+18,571,28/03/2020,15/03/2020,F,76,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,572,28/03/2020,18/03/2020,M,56,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,573,28/03/2020,22/03/2020,M,65,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,574,28/03/2020,26/03/2020,M,56,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,575,28/03/2020,22/03/2020,M,31,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,576,28/03/2020,24/03/2020,M,36,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,577,28/03/2020,26/03/2020,M,15,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,578,28/03/2020,27/03/2020,M,7,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,579,28/03/2020,26/03/2020,F,34,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,580,28/03/2020,21/03/2020,F,26,Pok Oi Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,581,28/03/2020,24/03/2020,M,42,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,582,28/03/2020,25/03/2020,F,31,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,583,28/03/2020,27/03/2020,M,19,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,584,29/03/2020,19/03/2020,M,63,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+13,585,29/03/2020,23/03/2020,F,28,Tuen Mun Hospital,Discharged,HK resident,Local case,Confirmed
+14,586,29/03/2020,21/03/2020,M,38,United Christian Hospital,Hospitalised,HK resident,Local case,Confirmed
+0,587,29/03/2020,14/03/2020,F,29,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,588,29/03/2020,26/03/2020,M,29,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,589,29/03/2020,Asymptomatic,F,22,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,590,29/03/2020,Asymptomatic,F,56,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,591,29/03/2020,Asymptomatic,F,15,AliceHoMiuLing Nethersole Hospital,Discharged,HK resident,Imported,Confirmed
+5,592,29/03/2020,Asymptomatic,F,14,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,593,29/03/2020,Asymptomatic,M,20,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,594,29/03/2020,Asymptomatic,M,16,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,595,29/03/2020,24/03/2020,F,75,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,596,29/03/2020,Asymptomatic,F,67,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,597,29/03/2020,19/03/2020,M,21,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,598,29/03/2020,Asymptomatic,M,17,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,599,29/03/2020,25/03/2020,F,62,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,600,29/03/2020,23/03/2020,M,23,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,601,29/03/2020,Asymptomatic,M,18,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,602,29/03/2020,25/03/2020,M,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,603,29/03/2020,22/03/2020,M,16,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,604,29/03/2020,27/03/2020,M,38,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,605,29/03/2020,19/03/2020,M,19,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,606,29/03/2020,Asymptomatic,M,28,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,607,29/03/2020,Asymptomatic,M,46,Tuen Mun Hospital,Discharged,HK resident,Imported,Confirmed
+3,608,29/03/2020,21/03/2020,F,27,North District Hospital,Discharged,HK resident,Possibly local,Confirmed
+4,609,29/03/2020,Asymptomatic,F,21,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+5,610,29/03/2020,23/03/2020,F,35,Princess Margaret Hospital,Hospitalised,HK resident,Local case,Confirmed
+6,611,29/03/2020,24/03/2020,F,56,Tuen Mun Hospital,Hospitalised,HK resident,Local case,Confirmed
+7,612,29/03/2020,26/03/2020,F,11,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+8,613,29/03/2020,26/03/2020,M,14,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,614,29/03/2020,27/03/2020,M,31,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,615,29/03/2020,23/03/2020,F,28,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,616,29/03/2020,24/03/2020,M,20,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,617,29/03/2020,24/03/2020,F,31,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,618,29/03/2020,17/03/2020,M,29,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Local case,Confirmed
+14,619 nan,29/03/2020,23/03/2020,F,58 nan,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,620.0,29/03/2020,23/03/2020,M,58.0,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,621.0,29/03/2020,25/03/2020,M,59.0,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,622.0,29/03/2020,27/03/2020,F,47.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of imported case,Confirmed
+4,623.0,29/03/2020,25/03/2020,F,38.0,Caritas Medical Centre,Hospitalised,HK resident,Possibly local,Confirmed
+5,624.0,29/03/2020,25/03/2020,M,47.0,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,625.0,29/03/2020,24/03/2020,M,51.0,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,626.0,29/03/2020,Asymptomatic,M,37.0,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,627.0,29/03/2020,Asymptomatic,F,67.0,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,628.0,29/03/2020,27/03/2020,F,21.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,629.0,29/03/2020,26/03/2020,M,36.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,630.0,29/03/2020,28/03/2020,M,32.0,Tuen Mun Hospital,Hospitalised,Non-HK resident,Close contact of local case,Confirmed
+12,631.0,29/03/2020,27/03/2020,F,49.0,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,632.0,29/03/2020,Asymptomatic,M,77.0,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+14,633.0,29/03/2020,21/03/2020,F,74.0,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+0,634,29/03/2020,27/03/2020,F,48,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,635,29/03/2020,26/03/2020,F,40,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,636,29/03/2020,28/03/2020,F,21,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,637,29/03/2020,24/03/2020,M,28,Queen Elizabeth Hospital,Hospitalised,HK resident,Local case,Confirmed
+4,638,29/03/2020,26/03/2020,M,39,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,639,29/03/2020,27/03/2020,F,21,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,640,29/03/2020,22/03/2020,F,23,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,641,29/03/2020,26/03/2020,M,34,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,642,29/03/2020,17/03/2020,F,23,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,643,30/03/2020,21/03/2020,M,32,Tseung Kwan O Hospital,Hospitalised,HK resident,Local case,Confirmed
+10,644,30/03/2020,22/03/2020,M,13,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,645,30/03/2020,14/03/2020,F,27,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,646,30/03/2020,27/03/2020,F,23,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+13,647,30/03/2020,Asymptomatic,F,36,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,648,30/03/2020,24/03/2020,M,19,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,649,30/03/2020,28/03/2020,M,18,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,650,30/03/2020,12/03/2020,F,24,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,651,30/03/2020,27/03/2020,F,21,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,652,30/03/2020,Asymptomatic,F,30,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,653,30/03/2020,Asymptomatic,M,52,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,654,30/03/2020,24/03/2020,F,30,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,655,30/03/2020,Asymptomatic,M,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,656,30/03/2020,Asymptomatic,M,58,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,657,30/03/2020,15/03/2020,M,25,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,658,30/03/2020,23/03/2020,F,18,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+7,659,30/03/2020,Asymptomatic,M,32,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,660,30/03/2020,Asymptomatic,F,20,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,661,30/03/2020,29/03/2020,F,21,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,662,30/03/2020,28/03/2020,M,28,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+11,663,30/03/2020,29/03/2020,M,31,Caritas Medical Centre,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,664,30/03/2020,Asymptomatic,F,17,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,665,30/03/2020,20/03/2020,F,59,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,666,30/03/2020,Asymptomatic,M,65,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,667,30/03/2020,Asymptomatic,F,11,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,668,30/03/2020,Asymptomatic,M,34,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,669,30/03/2020,29/03/2020,F,32,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,670,30/03/2020,22/03/2020,F,32,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+1,671,30/03/2020,Asymptomatic,M,19,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,672,30/03/2020,Asymptomatic,M,16,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,673,30/03/2020,29/03/2020,M,52,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,674,30/03/2020,26/03/2020,M,23,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,675,30/03/2020,21/03/2020,F,19,Tseung Kwan O Hospital,Hospitalised,Non-HK resident,Imported,Confirmed
+6,676,30/03/2020,27/03/2020,M,20,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,677,30/03/2020,29/03/2020,F,59,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,678,30/03/2020,28/03/2020,F,21,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,679,30/03/2020,27/03/2020,M,19,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+10,680,30/03/2020,27/03/2020,F,19,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,681,30/03/2020,18/03/2020,M,17,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,682,30/03/2020,27/03/2020,M,38,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+13,683,30/03/2020,27/03/2020,F,34,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+14,684,31/03/2020,22/03/2020,M,21,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,685 nan,31/03/2020,14/03/2020,M,60 nan,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,686.0,31/03/2020,23/03/2020,M,30.0,Queen Mary Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,687.0,31/03/2020,27/03/2020,F,29.0,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+3,688.0,31/03/2020,Asymptomatic,M,18.0,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,689.0,31/03/2020,22/03/2020,F,36.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,690.0,31/03/2020,28/03/2020,M,17.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,691.0,31/03/2020,29/03/2020,F,72.0,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,692.0,31/03/2020,Asymptomatic,M,20.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,693.0,31/03/2020,29/03/2020,M,21.0,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,694.0,31/03/2020,27/03/2020,F,71.0,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,695.0,31/03/2020,27/03/2020,M,18.0,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,696.0,31/03/2020,Asymptomatic,M,15.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,697.0,31/03/2020,Asymptomatic,F,21.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,698.0,31/03/2020,28/03/2020,M,62.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,699.0,31/03/2020,Asymptomatic,M,11.0,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,700.0,31/03/2020,Asymptomatic,M,21.0,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,701.0,31/03/2020,27/03/2020,M,61.0,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,702.0 nan,31/03/2020,27/03/2020,F,29.0 nan,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of,Confirmed
+1,703.0,31/03/2020,17/03/2020,M,41.0,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,704.0,31/03/2020,24/03/2020,F,32.0,Yan Chai Hospital,Hospitalised,HK resident,Local case,Confirmed
+3,705.0,31/03/2020,27/03/2020,F,35.0,Yan Chai Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,706.0,31/03/2020,30/03/2020,F,17.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,707.0,31/03/2020,25/03/2020,F,44.0,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,708.0,31/03/2020,27/03/2020,F,47.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,709.0,31/03/2020,29/03/2020,M,56.0,North Lantau Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,710.0,31/03/2020,22/03/2020,F,86.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,711.0,31/03/2020,19/03/2020,M,84.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,712.0,31/03/2020,29/03/2020,F,19.0,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,713.0,31/03/2020,30/03/2020,M,62.0,Queen Mary Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,714.0,31/03/2020,Asymptomatic,M,21.0,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,715.0,31/03/2020,29/03/2020,M,58.0,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,716.0,01/04/2020,18/03/2020,F,24.0,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,717.0,01/04/2020,23/03/2020,M,29.0,United Christian Hospital,Hospitalised,HK resident,Local case,Confirmed
+16,718.0,01/04/2020,25/03/2020,M,26.0,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Local case,Confirmed
+0,719,01/04/2020,29/03/2020,M,39,Ruttonjee Hospital,Hospitalised,HK resident,Local case,Confirmed
+1,720,01/04/2020,12/03/2020,F,61,North District Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+2,721,01/04/2020,26/03/2020,F,36,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,722,01/04/2020,Asymptomatic,F,16,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,723,01/04/2020,26/03/2020,M,15,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,724,01/04/2020,28/03/2020,M,59,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,725,01/04/2020,Asymptomatic,F,58,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,726,01/04/2020,Asymptomatic,F,16,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,727,01/04/2020,24/02/2020,M,49,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,728,01/04/2020,13/03/2020,F,21,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,729,01/04/2020,19/03/2020,M,53,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,730,01/04/2020,Asymptomatic,M,15,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,731,01/04/2020,31/03/2020,F,21,Ruttonjee Hospital,Discharged,HK resident,Imported,Confirmed
+13,732,01/04/2020,31/03/2020,F,59,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,733,01/04/2020,24/03/2020,M,17,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,734,01/04/2020,Asymptomatic,M,37,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,735,01/04/2020,Asymptomatic,F,53,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,736,01/04/2020,31/03/2020,F,22,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,737,01/04/2020,17/03/2020,M,25,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,738,01/04/2020,Asymptomatic,F,32,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,739,01/04/2020,10/03/2020,M,38,Prince of Wales Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,740,01/04/2020,Asymptomatic,M,65,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,741,01/04/2020,27/03/2020,M,25,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,742,01/04/2020,30/03/2020,F,25,Caritas Medical Centre,Hospitalised,HK resident,Close contact of imported case,Confirmed
+6,743,01/04/2020,24/03/2020,F,35,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Local case,Confirmed
+7,744,01/04/2020,23/03/2020,F,57,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,745,01/04/2020,20/03/2020,F,15,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,746,01/04/2020,26/03/2020,M,58,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,747,01/04/2020,Asymptomatic,M,43,Tseung Kwan O Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+11,748,01/04/2020,27/03/2020,M,25,Queen Mary Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+12,749,01/04/2020,16/03/2020,F,38,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,750,01/04/2020,Asymptomatic,M,24,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,751,01/04/2020,28/03/2020,F,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,752,01/04/2020,29/03/2020,M,29,Yan Chai Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+2,753,01/04/2020,29/03/2020,F,41,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,754,01/04/2020,23/03/2020,M,43,Tseung Kwan O Hospital,Hospitalised,HK resident,Local case,Confirmed
+4,755,01/04/2020,23/03/2020,F,34,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,756,01/04/2020,29/03/2020,F,33,Kwong Wah Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,757,01/04/2020,30/03/2020,M,1 mon th,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+7,758,01/04/2020,25/03/2020,M,33,Queen Elizabeth Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+8,759,01/04/2020,27/03/2020,M,33,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+9,760,01/04/2020,31/03/2020,M,61,Ruttonjee Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,761,01/04/2020,27/03/2020,F,40,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+11,762,01/04/2020,28/03/2020,F,20,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,763,01/04/2020,28/03/2020,M,21,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,764,01/04/2020,29/03/2020,M,48,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,765,01/04/2020,23/03/2020,M,18,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,766,01/04/2020,12/03/2020,M,22,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,767,02/04/2020,23/03/2020,F,64,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+3,768,02/04/2020,25/03/2020,M,34,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,769,02/04/2020,26/03/2020,M,39,Princess Margaret Hospital,Hospitalised,HK resident,Local case,Confirmed
+5,770,02/04/2020,27/03/2020,F,38,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,771,02/04/2020,Asymptomatic,F,61,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,772,02/04/2020,25/03/2020,M,14,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,773,02/04/2020,Asymptomatic,F,50,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+9,774,02/04/2020,Asymptomatic,M,54,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,775,02/04/2020,24/03/2020,F,30,Tuen Mun Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+11,776,02/04/2020,31/03/2020,M,18,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,777,02/04/2020,30/03/2020,F,36,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,778,02/04/2020,01/04/2020,M,53,Kwong Wah Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,779,02/04/2020,Asymptomatic,M,21,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,780,02/04/2020,Asymptomatic,F,27,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,781,02/04/2020,31/03/2020,F,71,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,782,02/04/2020,Asymptomatic,M,20,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,783,02/04/2020,Asymptomatic,M,17,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,784,02/04/2020,09/03/2020,F,22,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,785,02/04/2020,Asymptomatic,F,18,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,786,02/04/2020,29/03/2020,M,24,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,787,02/04/2020,31/03/2020,M,19,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,788,02/04/2020,Asymptomatic,M,19,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,789,02/04/2020,29/03/2020,F,22,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,790,02/04/2020,Asymptomatic,M,19,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,791,02/04/2020,Asymptomatic,M,20,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,792,02/04/2020,30/03/2020,M,23,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,793,02/04/2020,31/03/2020,F,49,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of possibly local case,Confirmed
+12,794,02/04/2020,Asymptomatic,M,2,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,795,02/04/2020,29/03/2020,F,56,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,796,02/04/2020,30/03/2020,F,37,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+15,797,02/04/2020,25/03/2020,F,33,Tseung Kwan O Hospital,Hospitalised,HK resident,Local case,Confirmed
+0,798,02/04/2020,29/03/2020,M,55,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,799,02/04/2020,01/04/2020,M,18,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,800,02/04/2020,24/03/2020,F,19,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+3,801,02/04/2020,31/03/2020,M,50,Ruttonjee Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+4,802,02/04/2020,24/03/2020,M,60,Tuen Mun Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+5,803,02/04/2020,24/03/2020,M,22,North District Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,804,03/04/2020,Asymptomatic,M,52,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,805,03/04/2020,25/03/2020,F,41,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+8,806,03/04/2020,28/03/2020,M,27,Prince of Wales Hospital,Hospitalised,HK resident,Local case,Confirmed
+9,807,03/04/2020,23/03/2020,M,27,Princess Margaret Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,808,03/04/2020,Asymptomatic,M,24,Tuen Mun Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,809,03/04/2020,31/03/2020,M,21,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+12,810,03/04/2020,02/04/2020,F,37,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+13,811,03/04/2020,30/03/2020,M,21,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,812,03/04/2020,Asymptomatic,M,60,United Christian Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+15,813,03/04/2020,Asymptomatic,M,38,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+16,814,03/04/2020,Asymptomatic,F,33,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,815,03/04/2020,31/03/2020,M,29,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+1,816,03/04/2020,Asymptomatic,M,16,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,817,03/04/2020,Asymptomatic,M,19,Caritas Medical Centre,Hospitalised,HK resident,Imported,Confirmed
+3,818,03/04/2020,Asymptomatic,F,52,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,819,03/04/2020,18/03/2020,F,23,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,820,03/04/2020,26/03/2020,F,20,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+6,821,03/04/2020,16/03/2020,F,20,Yan Chai Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,822,03/04/2020,31/03/2020,F,20,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+8,823,03/04/2020,Asymptomatic,F,44,Princess Margaret Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,824,03/04/2020,Asymptomatic,F,16,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+10,825,03/04/2020,19/03/2020,F,20,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,826,03/04/2020,23/03/2020,M,19,Tseung Kwan O Hospital,Hospitalised,HK resident,Imported,Confirmed
+12,827,03/04/2020,Asymptomatic,F,52,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,828,03/04/2020,29/03/2020,M,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+14,829,03/04/2020,Asymptomatic,M,20,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+15,830,03/04/2020,21/03/2020,M,59,Queen Elizabeth Hospital,Hospitalised,HK resident,Possibly local,Confirmed
+16,831,03/04/2020,29/03/2020,M,21,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+17,832,03/04/2020,01/04/2020,F,18,Queen Mary Hospital,Hospitalised,HK resident,Imported,Confirmed
+0,833,03/04/2020,26/03/2020,M,48,Tseung Kwan O Hospital,Hospitalised,HK resident,Local case,Confirmed
+1,834,03/04/2020,24/03/2020,F,60,Ruttonjee Hospital,Hospitalised,HK resident,Imported,Confirmed
+2,835,03/04/2020,27/03/2020,F,48,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Local case,Confirmed
+3,836,03/04/2020,02/04/2020,F,33,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+4,837,03/04/2020,18/03/2020,M,56,AliceHoMiuLing Nethersole Hospital,Hospitalised,HK resident,Imported,Confirmed
+5,838,03/04/2020,31/03/2020,M,33,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+6,839,03/04/2020,29/03/2020,F,35,PamelaYoudeNethersole Eastern Hospital,Hospitalised,HK resident,Imported,Confirmed
+7,840,03/04/2020,25/03/2020,M,47,Queen Elizabeth Hospital,Hospitalised,HK resident,Local case,Confirmed
+8,841,03/04/2020,27/03/2020,M,55,United Christian Hospital,Hospitalised,HK resident,Imported,Confirmed
+9,842,03/04/2020,02/04/2020,M,20,North District Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+10,843,03/04/2020,02/04/2020,F,19,Prince of Wales Hospital,Hospitalised,HK resident,Imported,Confirmed
+11,844,03/04/2020,02/04/2020,F,59,Prince of Wales Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
+12,845,03/04/2020,31/03/2020,F,47,Queen Elizabeth Hospital,Hospitalised,HK resident,Imported,Confirmed
+13,846,03/04/2020,24/03/2020,M,51,United Christian Hospital,Hospitalised,HK resident,Close contact of local case,Confirmed
