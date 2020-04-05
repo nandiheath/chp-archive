@@ -39,28 +39,23 @@ from pandas.api.types import is_numeric_dtype
 
 import time
 timestr = time.strftime("%Y%m%d")
+timestr1 = time.strftime("%Y-%m-%d")
 
 from datetime import datetime, timedelta
 ytd=datetime.strftime(datetime.now() - timedelta(1), '%Y%m%d')
 
-import smtplib
-gmail_user = 'trinsaur@gmail.com'
-gmail_password = 'gyhrwnenvkcugzwo'
-
-sent_from = gmail_user
-to = ['trinsaur@gmail.com']
-subject = 'CHP File Update'
 
 print("Finish Define Variable")
 
 df_log=[]
 
-def extract_chp(url,output,str1):
-    filename = Path('tmp_chp_'+str1+'.pdf')
+def extract_chp(url,str1):
+    os.system('mkdir -p ./'+timestr1 )
+    filename = Path('./'+timestr1+'/tmp_'+str1+'.pdf')
     response = requests.get(url)
     filename.write_bytes(response.content)
     
-    df=read_pdf('tmp_chp_'+str1+'.pdf', multiple_tables=True, pages="all", lattice=True)
+    df=read_pdf('./'+timestr1+'/tmp_'+str1+'.pdf', multiple_tables=True, pages="all", lattice=True)
     #df=tabula.read_pdf('tmp_chp_'+str1+'.pdf', spreadsheet=True)
     
     new_col_name=df[0].columns
@@ -112,43 +107,21 @@ def extract_chp(url,output,str1):
     if df_log.loc[0,0] != lst_log:
         #df_all1.to_csv(output)
         #df_all = df_all.rename(columns=new_col_name1, axis='index')
+        os.system('mkdir -p ./'+timestr1 )
         df_all_export.rename(columns=dict(zip(df_all_export.columns[0:], new_col_name1)),inplace=True)
+        os.rename('./'+timestr1+'/tmp_'+str1+'.pdf', './'+timestr1+'/'+str1+'.pdf')
         #df_all.to_excel(r'~/Documents/chf_'+str1+'_'+timestr+'.xlsx')
-        df_all_export.to_csv(r'~/chf_'+str1+'_'+timestr+'.csv')
+        df_all_export.to_csv(r'./'+timestr1+'/'+str1+'.csv')
         df_log.to_csv("./logs/df_log_"+str1+".csv")
         
-        body = 'Hey, Update Sucess on '+url
-
-        email_text = """\
-            From: %s
-            To: %s
-            Subject: %s
-
-            %s
-            """ % (sent_from, ", ".join(to), subject, body)
-        
-        try:
-            server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-            server.ehlo()
-            server.login(gmail_user, gmail_password)
-            server.sendmail(sent_from, to, email_text)
-            server.close()
-            print('Email sent!')
-        except:
-            print('Something went wrong...')
-        
-        
     else:
-        print ('No Update')
+        #print ('No Update')
+        os.remove('./'+timestr1+'/tmp_'+str1+'.pdf')
 #extract_chp();
 
-#print("Finish define function")
-#extract_chp('https://www.chp.gov.hk/files/pdf/list_of_buildings_en.pdf','~/Documents/home_confiness_eng'+timestr+".csv",'building_en')
-#extract_chp('https://www.chp.gov.hk/files/pdf/list_of_buildings_tc.pdf','~/Documents/home_confiness_chi'+timestr+".csv",'building_tc')
-
 #print("Finish Processing building list")
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','~/Documents/case'+timestr+'.csv','case_tc')
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','~/Documents/case'+timestr+'.csv','case_en')
+extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','covid19_tc')
+extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','covid19_en')
 
 #extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','~/Documents/case'+timestr+'.csv','building_tc')
 #extract_chp('https://www.chp.gov.hk/files/pdf/building_list_eng.pdf','~/Documents/case'+timestr+'.csv','building_en')
