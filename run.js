@@ -72,6 +72,7 @@ const run = async () => {
   await downloadPdf(`data/${today}`, 'flights_trains_en.pdf', 'https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf');
   await downloadPdf(`data/${today}`, 'local_situation_covid19_tc.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf');
   await downloadPdf(`data/${today}`, 'local_situation_covid19_en.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf');
+  await downloadPdf(`data/${today}`, 'statistics_on_covid_19_testing.pdf', 'https://www.chp.gov.hk/files/pdf/statistics_on_covid_19_testing.pdf');  
   
   
   generateHtml();
