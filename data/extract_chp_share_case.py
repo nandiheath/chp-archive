@@ -59,29 +59,34 @@ def extract_chp(url,str1):
     #df=tabula.read_pdf('tmp_chp_'+str1+'.pdf', spreadsheet=True)
     
     new_col_name=df[0].columns
-    new_col_name1=[x.replace('\n', ' ').replace('\r', ' ') for x in new_col_name]
+    new_col_name1=[x.replace('\n', '').replace('\r', '') for x in new_col_name]
     
     #df_all.rename(columns=dict(zip(df_all.columns[0:], new_col_name1)),inplace=True)
-    
-    df[0].columns = np.arange(len(df[0].columns))
+    #df[0].columns = np.arange(len(df[0].columns))
     for m in range(len(df[0].columns)):      
-                if not(is_string_dtype(df[0][m])):
-                    df[0][m] = df[0][m].astype(str)
+        if not(is_string_dtype(df[0].iloc[:,m])):
+            df[0].iloc[:,m] = df[0].iloc[:,m].astype(str)
     df_all_row=df[0].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
-    case_no=df[0][0]
+    case_no=df[0].iloc[:,0]
     
+    df[0].columns=new_col_name1
     df_all=pd.concat([case_no, df_all_row], axis=1)  
     
     for i in range(1,len(df),1):
-        if len(df[i].columns)==len(new_col_name):
-            df[i].columns = np.arange(len(df[i].columns))
+        #if len(df[i].columns)==len(new_col_name):
+            #df[i].columns = np.arange(len(df[i].columns))
+            new_col_name=df[i].columns
+            new_col_name1=[x.replace('\n', '').replace('\r', '') for x in new_col_name]
+            df[i].columns=new_col_name1
+            
             for m in range(len(df[i].columns)):      
-                if not(is_string_dtype(df[i][m])):
-                    df[i][m] = df[i][m].astype(str)
+                if not(is_string_dtype(df[i].iloc[:,m])):
+                    df[i].iloc[:,m] = df[i].iloc[:,m].astype(str)
             df_all_row=df[i].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
-            case_no=df[i][0]
+            case_no=df[i].iloc[:,0]
             df_all_append=pd.concat([case_no, df_all_row], axis=1)  
-            df_all=df_all.append(df_all_append)
+            #df_all1=df_all.append(df_all_append)
+            df_all = pd.concat([df_all.loc[:, ~df_all.columns.duplicated()], df_all_append.loc[:, ~df_all_append.columns.duplicated()]], ignore_index=True)
     
     for i in range(len(df_all)):
         if pd.isna(df_all.iloc[i,2]):
@@ -94,7 +99,7 @@ def extract_chp(url,str1):
                         df_all.iloc[i-1,j]=df_all.iloc[i,j]
     
     
-    df_all_export=df_all[pd.isna(df_all[1])==False]
+    df_all_export=df_all[pd.isna(df_all.iloc[:,1])==False]
     df_all_export=df_all_export.loc[:, ~df_all_export.columns.duplicated()]
     
     #df_all1=df_all[df_all['Unnamed: 0'].notnull()]
@@ -120,11 +125,14 @@ def extract_chp(url,str1):
 #extract_chp();
 
 #print("Finish Processing building list")
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','covid19_tc')
-extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','covid19_en')
+extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf','local_situation_covid19_tc')
+extract_chp('https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf','local_situation_covid19_en')
 
-#extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','~/Documents/case'+timestr+'.csv','building_tc')
-#extract_chp('https://www.chp.gov.hk/files/pdf/building_list_eng.pdf','~/Documents/case'+timestr+'.csv','building_en')
+extract_chp('https://www.chp.gov.hk/files/pdf/building_list_chi.pdf','building_list_tc')
+extract_chp('https://www.chp.gov.hk/files/pdf/building_list_eng.pdf','building_list_en')
+
+extract_chp('https://www.chp.gov.hk/files/pdf/flights_trains_tc.pdf','flights_trains_tc')
+extract_chp('https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf','flights_trains_en')
 
 
 
