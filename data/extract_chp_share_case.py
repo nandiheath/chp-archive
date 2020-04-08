@@ -49,6 +49,7 @@ print("Finish Define Variable")
 
 df_log=[]
 
+
 def extract_chp(url,str1):
     os.system('mkdir -p ./'+timestr1 )
     filename = Path('./'+timestr1+'/tmp_'+str1+'.pdf')
@@ -59,47 +60,60 @@ def extract_chp(url,str1):
     #df=tabula.read_pdf('tmp_chp_'+str1+'.pdf', spreadsheet=True)
     
     new_col_name=df[0].columns
-    new_col_name1=[x.replace('\n', '').replace('\r', '') for x in new_col_name]
+    new_col_name1=[x.replace('\n', '').replace('\r', '').replace(' ', '') for x in new_col_name]
     
     #df_all.rename(columns=dict(zip(df_all.columns[0:], new_col_name1)),inplace=True)
     #df[0].columns = np.arange(len(df[0].columns))
     for m in range(len(df[0].columns)):      
         if not(is_string_dtype(df[0].iloc[:,m])):
             df[0].iloc[:,m] = df[0].iloc[:,m].astype(str)
+    
+    df[0].columns=new_col_name1
     df_all_row=df[0].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
     case_no=df[0].iloc[:,0]
     
-    df[0].columns=new_col_name1
     df_all=pd.concat([case_no, df_all_row], axis=1)  
     
     for i in range(1,len(df),1):
         #if len(df[i].columns)==len(new_col_name):
             #df[i].columns = np.arange(len(df[i].columns))
             new_col_name=df[i].columns
-            new_col_name1=[x.replace('\n', '').replace('\r', '') for x in new_col_name]
+            new_col_name1=[x.replace('\n', '').replace('\r', '').replace(' ', '') for x in new_col_name]
             df[i].columns=new_col_name1
             
             for m in range(len(df[i].columns)):      
                 if not(is_string_dtype(df[i].iloc[:,m])):
                     df[i].iloc[:,m] = df[i].iloc[:,m].astype(str)
+                    #df[i].iloc[:,m]=df[i].iloc[:,m].replace({'nan': None},inplace =True)
+                    df[i].iloc[:,m] = df[i].iloc[:,m].replace('nan', np.nan)
+                    #df[i].iloc[:,m] = df[i].iloc[:,m].where((pd.notnull(df)), None)
+            
             df_all_row=df[i].select_dtypes(include=['object']).replace({'\r':' '},regex=True).replace({'\n':' '},regex=True)
             case_no=df[i].iloc[:,0]
-            df_all_append=pd.concat([case_no, df_all_row], axis=1)  
+            df_all_append=pd.concat([case_no, df_all_row], axis=1) 
+            df_all_append1=df_all_append.replace('nan', np.NaN)
+            df_all_append2=df_all_append1.dropna(thresh=3)
+            
+            if len(df_all_append2)>0:
+            #df_all_append.notna()
             #df_all1=df_all.append(df_all_append)
-            df_all = pd.concat([df_all.loc[:, ~df_all.columns.duplicated()], df_all_append.loc[:, ~df_all_append.columns.duplicated()]], ignore_index=True)
+                df_all = pd.concat([df_all.loc[:, ~df_all.columns.duplicated()], df_all_append2.loc[:, ~df_all_append2.columns.duplicated()]], ignore_index=True)
     
     for i in range(len(df_all)):
-        if pd.isna(df_all.iloc[i,2]):
+        if pd.isna(df_all.iloc[i,0]):
             for j in range(len(new_col_name)-1):
                 if pd.isna(df_all.iloc[i,j])==False and pd.isna(df_all.iloc[i-1,1])==False:
                     if pd.isna(df_all.iloc[i-1,j])==False:
-                        print(df_all.iloc[i-1,j] + df_all.iloc[i,j])
+                        #print(df_all.iloc[i-1,j] + df_all.iloc[i,j])
                         df_all.iloc[i-1,j]=df_all.iloc[i-1,j] +' ' + df_all.iloc[i,j]
                     else:
                         df_all.iloc[i-1,j]=df_all.iloc[i,j]
     
+
     
-    df_all_export=df_all[pd.isna(df_all.iloc[:,1])==False]
+    #df_all_export=df_all[pd.isna(df_all.iloc[:,1])==False]
+    #df_all_export=df_all[not(pd.isna(df_all.iloc[:,0]))|not(pd.isna(df_all.iloc[:,1]))]
+    df_all_export=df_all
     df_all_export=df_all_export.loc[:, ~df_all_export.columns.duplicated()]
     
     #df_all1=df_all[df_all['Unnamed: 0'].notnull()]
