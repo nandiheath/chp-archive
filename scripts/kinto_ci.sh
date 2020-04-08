@@ -7,7 +7,11 @@ setup_git() {
 }
 
 commit_data() {
+  git fetch
+  
   git checkout master
+  
+  git pull
 
   git status
   # Current month and year, e.g: Apr 2018
@@ -27,15 +31,15 @@ upload_files() {
   git push --quiet --set-upstream upstream master
 }
 
-node run.js
-
 setup_git
+
+node run.js
 
 commit_data
 
 # Attempt to commit to git only if "git commit" succeeded
 if [ $? -eq 0 ]; then
-  echo "A new commit with changed data/index.html . Uploading to GitHub"
+  echo "A new commit with changed data or index.html . Uploading to GitHub"
   upload_files
 else
   echo "No changes. Skip deploying"
