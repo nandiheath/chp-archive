@@ -119,8 +119,8 @@ def extract_chp(url,str1):
     #df_all1=df_all[df_all['Unnamed: 0'].notnull()]
     df_log=DataFrame([len(df_all)])
     
-    os.system('chmod 750 '+"./logs/df_log_"+str1+".csv")
-    tmp_log = pd.read_csv("./logs/df_log_"+str1+".csv",header=0,index_col=False ) 
+    os.system('chmod 750 '+"./logs1/df_log_"+str1+".csv")
+    tmp_log = pd.read_csv("./logs1/df_log_"+str1+".csv",header=0,index_col=False ) 
     lst_log=tmp_log.loc[0,'0']
   
     if df_log.loc[0,0] != lst_log:
@@ -131,7 +131,7 @@ def extract_chp(url,str1):
         os.rename('./'+timestr1+'/tmp_'+str1+'.pdf', './'+timestr1+'/'+str1+'.pdf')
         #df_all.to_excel(r'~/Documents/chf_'+str1+'_'+timestr+'.xlsx')
         df_all_export.to_csv(r'./'+timestr1+'/'+str1+'.csv')
-        df_log.to_csv("./logs/df_log_"+str1+".csv")
+        df_log.to_csv("./logs1/df_log_"+str1+".csv")
         
     else:
         #print ('No Update')
