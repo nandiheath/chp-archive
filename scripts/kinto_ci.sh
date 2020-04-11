@@ -35,6 +35,12 @@ setup_git
 
 node run.js
 
+cd data
+
+python3 extract_chp_share_case.py
+
+cd ..
+
 commit_data
 
 # Attempt to commit to git only if "git commit" succeeded
