@@ -7,10 +7,10 @@ Created on Mon Mar 30 22:53:46 2020
 """
 
 import os
-os.system('pip install pandas')
-os.system('pip install requests')
-os.system('pip install pathlib')
-os.system('pip install tabula-py')
+os.system('pip3 install pandas')
+os.system('pip3 install requests')
+os.system('pip3 install pathlib')
+os.system('pip3 install tabula-py')
 
 
 import sys
