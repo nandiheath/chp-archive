@@ -7,9 +7,13 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "mkdirp": "^1.0.3",
+    "csv-parse": "^4.8.8",
+    "dotenv": "^8.2.0",
+    "googleapis": "^48.0.0",
+    "mkdirp": "^1.0.4",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
+    "pdf2json": "^1.2.0",
     "request": "^2.88.2"
   }
 }
