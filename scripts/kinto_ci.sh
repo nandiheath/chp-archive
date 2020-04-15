@@ -33,6 +33,12 @@ upload_files() {
 
 setup_git
 
+cd data 
+
+python extract_chp_share_case.py
+
+cd ..
+
 node run.js
 
 commit_data

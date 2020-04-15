@@ -1,18 +1,24 @@
-# Build the dependencies
-FROM node:12-alpine AS builder
+### 1. Get Linux
+FROM rappdw/docker-java-python:openjdk1.8.0_171-python3.6.6
 
-RUN apk update && apk add --no-cache git openssl ca-certificates
+RUN apt-get update && apt-get install -y git openssl apt-transport-https ca-certificates
+
+RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \
+    echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+
+RUN apt-get update && apt-get -y install yarn
+
+RUN curl -sL https://deb.nodesource.com/setup_12.x | bash - && \
+    apt-get install -y nodejs
 
 ENV NODE_ENV production
 
 ENV GH_TOKEN change_token
 
-WORKDIR /opt
+WORKDIR /app
 
-COPY package.json .
+COPY . /app
 
 RUN yarn --production --silent
-
-COPY . .
 
 CMD ["sh", "-c", "scripts/kinto_ci.sh"]

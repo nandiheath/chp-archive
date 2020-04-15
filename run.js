@@ -3,7 +3,7 @@ const request = require('request');
 const moment = require('moment-timezone');
 const mkdirp = require('mkdirp');
 const path = require('path');
-
+const { transformLocalSituation } = require('./src/pdf2csv');
 // https://www.chp.gov.hk/files/pdf/building_list_chi.pdf
 // https://www.chp.gov.hk/files/pdf/building_list_eng.pdf
 // https://www.chp.gov.hk/files/pdf/flights_trains_tc.pdf
@@ -72,9 +72,13 @@ const run = async () => {
   await downloadPdf(`data/${today}`, 'flights_trains_en.pdf', 'https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf');
   await downloadPdf(`data/${today}`, 'local_situation_covid19_tc.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf');
   await downloadPdf(`data/${today}`, 'local_situation_covid19_en.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf');
-  await downloadPdf(`data/${today}`, 'statistics_on_covid_19_testing.pdf', 'https://www.chp.gov.hk/files/pdf/statistics_on_covid_19_testing.pdf');  
-  
-  
+  await downloadPdf(`data/${today}`, 'statistics_on_covid_19_testing.pdf', 'https://www.chp.gov.hk/files/pdf/statistics_on_covid_19_testing.pdf');
+
+  // await transformLocalSituation(`data/${today}/local_situation_covid19_tc.pdf`, `data/${today}/local_situation_covid19_tc.csv`);
+  // await transformLocalSituation(`data/${today}/local_situation_covid19_en.pdf`, `data/${today}/local_situation_covid19_en.csv`);
+
+  // await uploadCSV(`data/${today}/local_situation_covid19_tc.csv`);
+  // await uploadCSV(`data/${today}/local_situation_covid19_en.csv`);
   generateHtml();
 }
 
