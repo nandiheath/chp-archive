@@ -1,4 +1,5 @@
 ,District,Buildingname,Lastdateofvisitbyanyoftheinvolvedcase(s),Relatedconfirmed/probablecases,Relatedconfirmed/probablecases
+<<<<<<< HEAD
 0,40-42 Circular Pathway,Central & Western,,916,
 1,"Block 4, South Horizons",Southern,,917,
 2,"Fujian Hotel, Mirador Mansion",Yau Tsim Mong,,918,
@@ -125,3 +126,131 @@
 123,Hong Kong Sanatorium & Hospital,Wan Chai,12/04/2020,,1013
 124,Hong Kong Sanatorium & Hospital,Wan Chai,13/04/2020,,1022
 125,Cityplaza,Eastern,14/04/2020,,1022
+=======
+0,Central & Western,40-42 Circular Pathway,916,,
+1,Southern,"Block 4, South Horizons",917,,
+2,Yau Tsim Mong,"Fujian Hotel, Mirador Mansion",918,,
+3,Sai Kung,Mau Po Road,919,,
+4,Wan Chai,Dorsett Wanchai,920,,
+5,Yau Tsim Mong,"Tower 6B, Imperial Cullinan",921,,
+6,Yuen Long,"Kat Hing Wai, Kam Tin",922,,
+7,Sha Tin,Lakeview Garden (House Zone),923,,
+8,Kwun Tong,"Sau Chi House, Sau Mau Ping Estate",924,,
+9,Kowloon City,"Tak Cheung House, Tak Long Estate",925,,
+10,Yuen Long,"Chak Fai House, Tin Chak Estate",926,,
+11,Kwai Tsing,"Luk Kwai House, Kwai Chung Estate",928,,
+12,Wan Chai,Yick Shing Mansion,929,,
+13,Eastern,Wah Yu Court,932,,
+14,Yau Tsim Mong,109 Temple Street,933,,
+15,Yuen Long,"Section C, 5th Street, Fairview Park",934,,
+16,Southern,Chung Hom Kok Road,935,,
+17,Sha Tin,"Hin Kwai House, Hin Keng Estate",936,,
+18,Yau Tsim Mong,Dorsett Mongkok,Case notified by the Health Commission of Guangdong Province,,
+19,Central & Western,Courtyard By Marriott Hong Kong,,,
+20,Wan Chai,J Residence,937,,
+21,Central & Western,288 Des Voeux Road West,938,,
+22,Sai Kung,Hang Hau Village,939,,
+23,Sai Kung,Floral Villas,940,,
+24,Tsuen Wan,"Block 2, Hong Kong Garden",943,,
+25,Tuen Mun,"Kin Tai House, Fu Tai Estate",944,,
+26,North,"Block 2, Royal Jubilee",945,,
+27,Islands,"Block 6, Coastal Skyline",946,,
+28,Central & Western,"Block D, Pearl Gardens",947,,
+29,Wan Chai,"The Park Lane Hong Kong, a Pullman Hotel",948,,
+30,Yau Tsim Mong,The Imperial Hotel,949,,
+31,Yau Tsim Mong,Prudential Hotel,949,,
+32,Yuen Long,Fan Tin Tsuen,950,,
+33,Central & Western,"Tower 2, Island Crest",953,,
+34,Eastern,"Block 6, New Jade Garden",954,,
+35,Yuen Long,Tai Tseng Wai Tsuen,955,,
+36,Tuen Mun,"Block 8, Seaview Garden",956,,
+37,Eastern,Wah Yu Court,957,,
+38,Eastern,Wah Yu Court,958,,
+39,Tsuen Wan,Silka Tsuen Wan Hotel,959,,
+40,Kwun Tong,"Block B1, Yau Tong Industrial City",960,,
+41,Yau Tsim Mong,Prat Mansions,961,,
+42,Eastern,"Han Kung Mansion, Kam Din Terrace, Taikoo Shing",962,,
+43,Eastern,Ramada Hong Kong Grand View,963,,
+44,Kowloon City,Sunderland Estate,964,,
+45,Central & Western,"Cheung Fai Building, 45 - 47 Cochrane Street",965,,
+46,Yau Tsim Mong,"Tower 6B, Imperial Cullinan",966,,
+47,Central & Western,"Harmony Court, 127 Bonham Strand",968,,
+48,Kwun Tong,"Block 2, Sceneway Garden",969,,
+49,Kwai Tsing,Dorsett Tsuen Wan,970,,
+50,Islands,"Headland Drive, Discovery Bay",971,,
+51,Yau Tsim Mong,"Golden Mansion, 83-85 Chatham Road South",972,,
+52,Central & Western,"Hillier Building, 273 - 275 Queen's Road Central",973,,
+53,Kowloon City,Tung Hei Court,974,,
+54,Tai Po,JC Castle,975,,
+55,Yuen Long,"Tung Tau Tsuen, Shap Pat Heung",976,,
+56,Tsuen Wan,"Block 30, Park Island",977,,
+57,Central & Western,Branksome Grande,978,,
+58,Wan Chai,V Wanchai,979,,
+59,Tai Po,Constellation Cove,981,,
+60,Sha Tin,"Block 6, Royal Ascot",982,,
+61,Kwun Tong,"Sau Ching House, Sau Mau Ping Estate",983,,
+62,Islands,"Crestmont Villa, Discovery Bay",984,,
+63,Yau Tsim Mong,"Tower 1, Harbour Green",985,,
+64,Central & Western,Bishop Lei International House,987,,
+65,Sha Tin,"Block 2, Carado Garden",988,,
+66,Kowloon City,"Prince Apartments, 226 Prince Edward Road West",989,,
+67,Central & Western,Kennedy Park at Central,990,,
+68,Yau Tsim Mong,YMCA of Hong Kong,992,,
+69,Central & Western,"Block 3, Garden Terrace",993,,
+70,Yuen Long,Tin Sam Village,996,,
+71,Sha Tin,St Moritz,997,,
+72,Yuen Long,"Tung Tau Tsuen, Shap Pat Heung",998,,
+73,Central & Western,Courtyard By Marriott Hong Kong,1000,,
+74,Central & Western,Beau Cloud Mansion,1001,,
+75,Tuen Mun,"Block 1, Pine Villas",1002,,
+76,Yuen Long,Yan Sau Wai,1003,,
+77,Kwai Tsing,"Fu Tai House, Tai Wo Hau Estate",1004,,
+78,Tuen Mun,"Block 8, Seaview Garden",1005,,
+79,Sha Tin,"Block 2, Carado Garden",1007,,
+80,Central & Western,"Block 3, Garden Terrace",1009,,
+81,Tuen Mun,"Tower 11, Avignon",1013,,
+82,Kwai Tsing,Silka Tsuen Wan Hotel,1015,,
+83,Wan Chai,CHI Residences 138,1017,,
+84,Yau Tsim Mong,Metropark Hotel Mongkok,1018,,
+85,Sham Shui Po,"Block 2, Cronin Garden",1018,,
+86,Eastern,"Block F, Kornhill",1022,,
+87,Islands,"Block 1, Seaview Crescent",1024,,
+88,Kowloon City,"Block A, Lux Theatre Building",1025,,
+89,Islands,"Hor Tung House, Yu Tung Court",1026,,
+90,Central & Western,Ho Lee Commercial Building,,24/03/2020,"182, 227, 276, 343, 360, 362, 367, 384, 386, 387, 389, 394, 411, 422, 432, 433, 440, 442, 453, 497, 501, 511, 513, 576, 627, 746, 877"
+91,Wan Chai,76 Jaffe Road,,24/03/2020,"276, 343, 362, 367, 386, 387, 389, 413, 432, 433, 434, 440, 477, 499, 501, 509, 513, 519, 524, 576, 635, 638, 707, 746, 864, 877, 951"
+92,Yau Tsim Mong,9 Knutsford Terrace,,24/03/2020,"387, 389, 395, 411, 428, 433, 447, 450, 458, 462, 466,483, 484, 498, 501, 510, 511, 512, 513, 514, 517, 526, 573, 581, 614, 615, 625, 663, 670, 674, 746, 755, 846, 863, 904, 906, 998"
+93,Yau Tsim Mong,10-11 Knustsford Terrace,,24/03/2020,"483, 516"
+94,Yau Tsim Mong,MW Plaza,,24/03/2020,"567, 842"
+95,Yau Tsim Mong,25 Carnarvon Road,,24/03/2020,"662, 687, 702, 704, 705, 758, 759"
+96,Wan Chai,Lok Sing Centre,,25/03/2020,"903, 923, 925, 932, 954"
+97,Wan Chai,23 Luard Road,,26/03/2020,"682, 857"
+98,Wan Chai,82 Jaffe Road,,27/03/2020,"276, 362, 367, 386, 387, 389, 432, 433, 440, 481, 501, 513, 531, 626, 746, 877, 973"
+99,Yau Tsim Mong,iSQUARE,,28/03/2020,"504, 756"
+100,Yau Tsim Mong,10 Knutsford Terrace,,28/03/2020,"567, 842"
+101,Yau Tsim Mong,K11 Musea,,28/03/2020,"687, 702, 704, 705, 758, 759"
+102,Southern,23 Yip Kan Street,,28/03/2020,"719, 801, 849"
+103,Sham Shui Po,Shek Kip Mei Reporting Centre And PTU KW Operational Base,,01/04/2020,"663, 854"
+104,Eastern,Westlands Centre,,01/04/2020,"801, 960"
+105,Wan Chai,88 Gloucester Road,,03/04/2020,"923, 925"
+106,Central & Western,Shun Tak Centre,,04/04/2020,"923, 932"
+107,Wan Chai,Windsor House,,05/04/2020,"903, 925, 944"
+108,Yau Tsim Mong,New East Ocean Centre,,07/04/2020,955
+109,Kowloon City,Festival Walk,,07/04/2020,955
+110,Central & Western,176 Queen's Road,,07/04/2020,972
+111,Central & Western,China Insurance Group Building,,07/04/2020,972
+112,Central & Western,9 Queen's Road Central,,07/04/2020,972
+113,Yuen Long,Kingswood Richly Plaza,,07/04/2020,996
+114,Yau Tsim Mong,Golden Mansion,,08/04/2020,972
+115,Yau Tsim Mong,8 Hart Avenue,,08/04/2020,972
+116,Central & Western,World-Wide House,,08/04/2020,981
+117,Yuen Long,Pak Yee Building,,08/04/2020,996
+118,Yuen Long,On Ning Building,,08/04/2020,996
+119,Yuen Long,+WOO,,09/04/2020,976
+120,Eastern,Kornhill Plaza (South),,11/04/2020,1022
+121,Wan Chai,16 Haven Street,,11/04/2020,1022
+122,Tuen Mun,Gold Coast Yacht and Country Club,,12/04/2020,1013
+123,Wan Chai,Hong Kong Sanatorium & Hospital,,12/04/2020,1013
+124,Wan Chai,Hong Kong Sanatorium & Hospital,,13/04/2020,1022
+125,Eastern,Cityplaza,,14/04/2020,1022
+>>>>>>> 030eae754c8b8e7005674f0d9e18b4b465fd181d
