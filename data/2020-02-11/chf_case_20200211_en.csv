@@ -1,0 +1,50 @@
+﻿,"Caseno.","Dateoflaboratoryconfirmation",Date of onset,Gender,Age,Name of hospital admitted,"Hospitalised/Discharged/Deceased","HK/Non-HKresident","Caseclassification*"
+0,1,23/01/2020,21/01/2020,M,39,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+1,2,23/01/2020,18/01/2020,M,56,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+2,3,24/01/2020,20/01/2020,F,62,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+3,4,24/01/2020,23/01/2020,F,62,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+4,5,24/01/2020,24/01/2020,M,63,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+5,6,26/01/2020,21/01/2020,M,47,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+6,7,26/01/2020,21/01/2020,F,68,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+7,8,26/01/2020,25/01/2020,M,64,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+8,9,29/01/2020,25/01/2020,F,73,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+9,10,29/01/2020,25/01/2020,M,72,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+10,11,30/01/2020,28/01/2020,F,37,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofimported case"
+0,12,30/01/2020,22/01/2020,M,75,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+1,13,31/01/2020,29/01/2020,M,39,Princess Margaret Hospital,Deceased,HK resident,Imported
+2,14,01/02/2020,23/01/2020,M,80,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+3,15,02/02/2020,01/02/2020,F,72,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofimported case"
+4,16,04/02/2020,23/01/2020,F,64,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+5,17,04/02/2020,22/01/2020,M,60,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+6,18,04/02/2020,28/01/2020,M,25,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+7,19,05/02/2020,30/01/2020,F,28,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+8,20,05/02/2020,04/02/2020,F,56,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+9,21,05/02/2020,30/01/2020,M,56,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+10,22,06/02/2020,01/02/2020,F,55,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+11,23,06/02/2020,26/01/2020,F,63,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Localcasewithunknown source"
+12,24,06/02/2020,28/01/2020,F,65,Prince of Wales Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+13,25,07/02/2020,04/02/2020,M,58,North District Hospital,Hospitalised,HK resident,Imported
+14,26,07/02/2020,03/02/2020,M,42,Prince of Wales Hospital,Hospitalised,HK resident,Imported
+15,27,09/02/2020,30/01/2020,M,24,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local
+0,28,09/02/2020,30/01/2020,M,70,United Christian Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+1,29,09/02/2020,01/02/2020,F,91,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+2,30,09/02/2020,29/01/2020,M,68,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+3,31,09/02/2020,28/01/2020,F,57,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+4,32,09/02/2020,04/02/2020,M,22,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+5,33,09/02/2020,02/02/2020,F,50,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+6,34,09/02/2020,30/01/2020,F,25,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+7,35,09/02/2020,04/02/2020,F,51,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+8,36,09/02/2020,07/02/2020,M,23,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+9,37,10/02/2020,30/01/2020,F,55,Prince of Wales Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+10,38,10/02/2020,30/01/2020,M,69,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Localcasewithunknown source"
+11,39,10/02/2020,30/01/2020,F,63,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Close contact oflocal case"
+12,40,10/02/2020,28/01/2020,F,86,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Close contact oflocal case"
+0,41,10/02/2020,08/02/2020,M,52,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+1,42,10/02/2020,03/02/2020,F,62,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+2,43,11/02/2020,02/02/2020,M,59,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Localcasewithunknown source"
+3,44,11/02/2020,01/02/2020,F,60,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+4,45,11/02/2020,05/02/2020,M,71,Tseung Kwan O Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+5,46,11/02/2020,03/02/2020,M,75,Queen Mary Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+6,47,11/02/2020,31/01/2020,M,66,Tuen Mun Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+7,48,11/02/2020,02/02/2020,F,37,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+8,49,11/02/2020,30/01/2020,M,37,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"

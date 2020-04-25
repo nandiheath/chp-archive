@@ -1,0 +1,43 @@
+﻿,個 案,實驗室確診報,發病日期,性別 ,年齡,入住醫院名稱,住院/出院,香港 /非香港, 個案分類,"Dateoflaboratoryconfirmation",Date of onset,Gender,Age,Name of hospital admitted,"Hospitalised/Discharged/Deceased","HK/Non-HKresident","Caseclassification*"
+1,1,23/01/2020,21/01/2020,男,39,瑪嘉烈醫院,住院,非香港居民,輸入個案,23/01/2020,21/01/2020,M,39,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+2,2,23/01/2020,18/01/2020,男,56,瑪嘉烈醫院,住院,香港居民,輸入個案,23/01/2020,18/01/2020,M,56,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+3,3,24/01/2020,20/01/2020 ,女,62,瑪嘉烈醫院,住院,非香港居民,輸入個案,24/01/2020,20/01/2020,F,62,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+4,4,24/01/2020,23/01/2020,女,62,瑪嘉烈醫院,住院,非香港居民,輸入個案,24/01/2020,23/01/2020,F,62,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+5,5,24/01/2020,24/01/2020,男,63,瑪嘉烈醫院,住院,非香港居民,輸入個案,24/01/2020,24/01/2020,M,63,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+6,6,26/01/2020,21/01/2020,男,47,瑪嘉烈醫院,住院,香港居民,輸入個案,26/01/2020,21/01/2020,M,47,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+7,7,26/01/2020,21/01/2020,女,68,瑪嘉烈醫院,住院,香港居民,輸入個案,26/01/2020,21/01/2020,F,68,Princess Margaret Hospital,Hospitalised,HK resident,Imported
+8,8,26/01/2020,25/01/2020,男,64,瑪嘉烈醫院,住院,非香港居民,輸入個案,26/01/2020,25/01/2020,M,64,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+9,9,29/01/2020,25/01/2020,女,73,瑪嘉烈醫院,住院,非香港居民,輸入個案,29/01/2020,25/01/2020,F,73,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+10,10,29/01/2020,25/01/2020,男,72,瑪嘉烈醫院,住院,非香港居民,輸入個案,29/01/2020,25/01/2020,M,72,Princess Margaret Hospital,Hospitalised,"Non-HKresident",Imported
+11,11,30/01/2020,28/01/2020,女,37,瑪嘉烈醫院,住院,香港居民,輸入個案的密切接觸者,30/01/2020,28/01/2020,F,37,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofimported case"
+12,12,30/01/2020,22/01/2020,男,75,瑪嘉烈醫院,住院,香港居民,可能本地個案,30/01/2020,22/01/2020,M,75,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+13,13,31/01/2020,29/01/2020,男,39,瑪嘉烈醫院,死亡,香港居民,輸入個案,31/01/2020,29/01/2020,M,39,Princess Margaret Hospital,Deceased,HK resident,Imported
+14,14,01/02/2020,23/01/2020,男,80,瑪嘉烈醫院,住院,香港居民,可能本地個案,01/02/2020,23/01/2020,M,80,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+0,15,02/02/2020,01/02/2020,女,72,瑪嘉烈醫院,住院,香港居民,輸入個案的密切接觸者,02/02/2020,01/02/2020,F,72,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofimported case"
+1,16,04/02/2020,23/01/2020,女,64,瑪嘉烈醫院,住院,香港居民,"本地個案(源頭不明)",04/02/2020,23/01/2020,F,64,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+2,17,04/02/2020,22/01/2020,男,60,瑪嘉烈醫院,住院,香港居民,"本地個案(源頭不明)",04/02/2020,22/01/2020,M,60,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+3,18,04/02/2020,28/01/2020,男,25,瑪嘉烈醫院,住院,香港居民,"本地個案(源頭不明)",04/02/2020,28/01/2020,M,25,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+4,19,05/02/2020,30/01/2020,女,28,瑪嘉烈醫院,住院,香港居民,"本地個案的密切接觸者",05/02/2020,30/01/2020,F,28,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+5,20,05/02/2020,04/02/2020,女,56,瑪嘉烈醫院,住院,香港居民,"本地個案的密切接觸者",05/02/2020,04/02/2020,F,56,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactoflocal case"
+6,21,05/02/2020,30/01/2020,男,56,瑪嘉烈醫院,住院,香港居民,可能本地個案,05/02/2020,30/01/2020,M,56,Princess Margaret Hospital,Hospitalised,HK resident,Possibly local
+7,22,06/02/2020,01/02/2020,女,55,瑪嘉烈醫院,住院,香港居民,可能本地個案的密切接觸者,06/02/2020,01/02/2020,F,55,Princess Margaret Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+8,23,06/02/2020,26/01/2020,女,63,東區尤德夫人那打素醫院,住院,香港居民,"本地個案(源頭不明)",06/02/2020,26/01/2020,F,63,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Localcasewithunknown source"
+9,24,06/02/2020,28/01/2020,女,65,威爾斯親王醫院,住院,香港居民,"本地個案(源頭不明)",06/02/2020,28/01/2020,F,65,Prince of Wales Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+10,25,07/02/2020,04/02/2020,男,58,北區醫院,住院,香港居民,輸入個案,07/02/2020,04/02/2020,M,58,North District Hospital,Hospitalised,HK resident,Imported
+11,26,07/02/2020,03/02/2020,男,42,威爾斯親王醫院,住院,香港居民,輸入個案,07/02/2020,03/02/2020,M,42,Prince of Wales Hospital,Hospitalised,HK resident,Imported
+12,27,09/02/2020,30/01/2020,男,24,律敦治醫院,住院,香港居民,可能本地個案,09/02/2020,30/01/2020,M,24,Ruttonjee Hospital,Hospitalised,HK resident,Possibly local
+13,28,09/02/2020,30/01/2020,男,70,基督教聯合醫院,住院,香港居民,"本地個案(源頭不明)",09/02/2020,30/01/2020,M,70,United Christian Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
+0,29,09/02/2020,01/02/2020,女,91,東區尤德夫人那打素醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,01/02/2020,F,91,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+1,30,09/02/2020,29/01/2020,男,68,律敦治醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,29/01/2020,M,68,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+2,31,09/02/2020,28/01/2020,女,57,律敦治醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,28/01/2020,F,57,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+3,32,09/02/2020,04/02/2020,男,22,東區尤德夫人那打素醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,04/02/2020,M,22,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+4,33,09/02/2020,02/02/2020,女,50,律敦治醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,02/02/2020,F,50,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+5,34,09/02/2020,30/01/2020,女,25,東區尤德夫人那打素醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,30/01/2020,F,25,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+6,35,09/02/2020,04/02/2020,女,51,東區尤德夫人那打素醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,04/02/2020,F,51,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+7,36,09/02/2020,07/02/2020,男,23,律敦治醫院,住院,香港居民,"可能本地個案的密切接觸者",09/02/2020,07/02/2020,M,23,Ruttonjee Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+8,37,10/02/2020,30/01/2020,女,55,威爾斯親王醫院,住院,香港居民,"可能本地個案的密切接觸者",10/02/2020,30/01/2020,F,55,Prince of Wales Hospital,Hospitalised,HK resident,"Closecontactofpossibly local case"
+9,38,10/02/2020,30/01/2020,男,69,東區尤德夫人那打素醫院,住院,香港居民,"本地個案(源頭不明)",10/02/2020,30/01/2020,M,69,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Localcasewithunknown source"
+10,39,10/02/2020,30/01/2020,女,63,東區尤德夫人那打素醫院,住院,香港居民,"本地個案的密切接觸者",10/02/2020,30/01/2020,F,63,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Close contact oflocal case"
+11,40,10/02/2020,28/01/2020,女,86,東區尤德夫人那打素醫院,住院,香港居民,"本地個案的密切接觸者",10/02/2020,28/01/2020,F,86,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Close contact oflocal case"
+0,41,10/02/2020,08/02/2020,男,52,東區尤德夫人那打素醫院,住院,香港居民,"可能本地個案的密切接觸者",10/02/2020,08/02/2020,M,52,"PamelaYoudeNethersoleEastern Hospital",Hospitalised,HK resident,"Closecontactofpossibly local case"
+1,42,10/02/2020,03/02/2020,女,62,瑪嘉烈醫院,住院,香港居民,"本地個案(源頭不明)",10/02/2020,03/02/2020,F,62,Princess Margaret Hospital,Hospitalised,HK resident,"Localcasewithunknown source"
