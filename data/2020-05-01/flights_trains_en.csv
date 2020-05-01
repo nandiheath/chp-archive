@@ -1,0 +1,13 @@
+,FlightNumber,DepartureCity,SeatNumber*(ifknown),ArrivalDate,RelatedConfirmed/ProbableCase
+0,CX906,Manila,63D,17/04/2020,1024
+1,QR818,Doha,28K,17/04/2020,1025
+2,CX881,Los Angeles,22D,20/04/2020,1027
+3,CX881,Los Angeles,20G,20/04/2020,1028
+4,VS206,London,58J,20/04/2020,1029
+5,VS206,London,47A,20/04/2020,1030
+6,CX252,London,17A,21/04/2020,1031
+7,CX252,London,63D,21/04/2020,1032
+8,CX252,London,48A,21/04/2020,1033
+9,QR818,Doha,17H,21/04/2020,1035
+10,CX252,London,65G,24/04/2020,1037
+11,CX252,London,48D,28/04/2020,Case confirmed in United Kingdom
