@@ -1,0 +1,1066 @@
+,Caseno.,Reportdate,Dateofonset,Gender,Age,Nameofhospitaladmitted,Hospitalised/Discharged/Deceased,HK/Non-HKresident,Caseclassification*,Confirmed/probable,Cumulativeconfirmed/probablecaseswithhospitalisationstatus1200Totalnumberofconfirmed/probablecase1000DischargedHospitalised8006004002000Date,Unnamed:0,Dateof,Unnamed:1,Importedcase,Localcase,Possiblylocal,Unnamed:3,Epidemiologicallylinked,AgedistributionofcasesofCOVID-19inHongKong300250200Numberofcases1501005000-910-1920-2930-3940-4950-5960-6970-7980-8990-99100-109Agegroup(years)MaleFemale,Unnamed:2,Category,Numberofcases(percentage),Cluster,Involvedcasenumber,Numberofcases,Reportdate,Dateofonset,Gender
+0,No new case of COVID-19 is reported on 3 May 2020,nan,nan,nan,nan,nan,nan,nan,nan,nan,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,DischargedHospitalised,Discharged Hospitalised,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,DischargedHospitalised,Discharged Hospitalised,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,DischargedHospitalised,Discharged Hospitalised,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,reporting (7-,,,with imported case,linked with local,linked with,,,,,,,,,,,,
+5,,,,,,,,,,,,day period),,,case,possibly local case,,,,,,,,,,,,,
+6,,,,,,,,,,,,6/4 - 12/4,79 (69.3%),5 (4.4%),4 (3.5%),2 (1.8%),24 (21.1%),0 (0.0%),114 (100.0%),,,,,,,,,,
+7,,,,,,,,,,,,13/4 - 19/4,17 (81.0%),1 (4.8%),2 (9.5%),0 (0.0%),1 (4.8%),0 (0.0%),21 (100.0%),,,,,,,,,,
+8,,,,,,,,,,,,20/4 - 26/4,11 (91.7%),0 (0.0%),0 (0.0%),1 (8.3%),0 (0.0%),0 (0.0%),12 (100.0%),,,,,,,,,,
+9,,,,,,,,,,,,27/4 - 3/5,2 (100.0%),0 (0.0%),0 (0.0%),0 (0.0%),0 (0.0%),0 (0.0%),2 (100.0%),,,,,,,,,,
+10,,,,,,,,,,,,N,,mbe,,,,,,,of,,,,,,,,
+11,,,,,,,,,,,,N,,mbe,,,,,,,of,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,,,,(1)Cases fulfilling the reporting criteria of COVID-19,333 (32.0%),,,,,,
+13,,,,,,,,,,,,,,,,,,,,,,(2)Enhanced laboratory surveillance in public hospitals,48 (4.6%),,,,,,
+14,,,,,,,,,,,,,,,,,,,,,,(3)Enhanced surveillance at Accident and Emergency Departments / General Outpatient Clinics,122 (11.7%),,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,(4)Diagnosis / Enhanced surveillance in private hospitals and clinics,85 (8.2%),,,,,,
+16,,,,,,,,,,,,,,,,,,,,,,(5)Medical surveillance / Contact tracing by the Centre for Health Protection,211 (20.3%),,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,(6)Enhanced surveillance for asymptomatic inbound travelers,241 (23.2%),,,,,,
+18,,,,,,,,,,,,,,,,,,,,,,Total,1040 (100.0%),,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,Diamond Princess Cruise Ship,"14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97",11,,,
+20,,,,,,,,,,,,,,,,,,,,,,,,Hotpot dinner gathering at Kwun Tong,"27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 44, 50",13,,,
+21,,,,,,,,,,,,,,,,,,,,,,,,Fook Wai Ching Che in MaylunApartments in North Point,"64, 65, 70, 73, 74, 76, 77, 83, 84, 86, 89, 91, 92, 93, 95, 98, 102, 103, 112",19,,,
+22,,,,,,,,,,,,,,,,,,,,,,,,Travel tour to Egypt / Heng Tai Houseof Fu Heng Estate,"119, 120, 121, 123, 124, 125, 126, 127, 129, 140",10,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,Bar and band cluster,"182, 227, 276, 343, 360, 362, 367, 384, 386, 387, 389, 394, 395, 411, 413, 422, 428, 432, 433, 434, 440, 442, 447, 450, 453, 458, 462, 466, 477, 481, 483, 484, 497, 498, 499, 501, 504, 509, 510, 511, 512, 513, 514, 515, 516, 517, 519, 524, 525, 526, 531, 573, 576, 577, 578, 579, 581, 614, 615, 625, 626, 627, 630, 632, 635, 638, 663, 670, 674, 691, 707, 738, 746, 755, 756, 757, 760, 796, 810, 838, 844, 846, 855, 863, 864, 877, 884, 891, 904, 905, 906, 912, 913, 926, 928, 929, 930, 951, 973, 974, 976, 998, 1008",103,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,Wedding party at Lantau Island,"191, 217, 233, 237, 250, 253, 258, 259, 287, 295, 303, 304, 332, 373, 378",15,,,
+25,1,,,,39,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/01/2020,21/01/2020,M
+26,2,,,,56,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/01/2020,18/01/2020,M
+27,3,,,,62,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/01/2020,20/01/2020,F
+28,4,,,,62,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/01/2020,23/01/2020,F
+29,5,,,,63,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/01/2020,23/01/2020,M
+30,6,,,,47,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/01/2020,21/01/2020,M
+31,7,,,,68,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/01/2020,21/01/2020,F
+32,8,,,,64,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/01/2020,25/01/2020,M
+33,9,,,,73,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/01/2020,25/01/2020,F
+34,10,,,,72,Princess Margaret Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/01/2020,25/01/2020,M
+35,11,,,,37,Princess Margaret Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,30/01/2020,28/01/2020,F
+36,12,,,,75,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,30/01/2020,22/01/2020,M
+37,13,,,,39,Princess Margaret Hospital,Deceased,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/01/2020,29/01/2020,M
+38,14,,,,80,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/02/2020,23/01/2020,M
+39,15,,,,72,Princess Margaret Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,02/02/2020,01/02/2020,F
+40,16,,,,64,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,04/02/2020,23/01/2020,F
+41,17,,,,60,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,04/02/2020,22/01/2020,M
+42,18,,,,25,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,04/02/2020,28/01/2020,M
+43,19,,,,28,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/02/2020,30/01/2020,F
+44,20,,,,56,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/02/2020,04/02/2020,F
+45,21,,,,56,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,05/02/2020,30/01/2020,M
+46,22,,,,55,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,06/02/2020,01/02/2020,F
+47,23,,,,63,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,06/02/2020,26/01/2020,F
+48,24,,,,65,Prince of Wales Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,06/02/2020,28/01/2020,F
+49,25,,,,58,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/02/2020,04/02/2020,M
+50,26,,,,42,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/02/2020,03/02/2020,M
+51,27,,,,24,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,30/01/2020,M
+52,28,,,,70,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,30/01/2020,M
+53,29,,,,91,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,01/02/2020,F
+54,30,,,,68,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,29/01/2020,M
+55,31,,,,57,Ruttonjee Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,28/01/2020,F
+56,32,,,,22,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,04/02/2020,M
+57,33,,,,50,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,02/02/2020,F
+58,34,,,,25,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,30/01/2020,F
+59,35,,,,51,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,04/02/2020,F
+60,36,,,,23,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/02/2020,07/02/2020,M
+61,37,,,,55,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,30/01/2020,F
+62,38,,,,69,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,30/01/2020,M
+63,39,,,,63,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,30/01/2020,F
+64,40,,,,86,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,28/01/2020,F
+65,41,,,,52,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,08/02/2020,M
+66,42,,,,62,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,10/02/2020,03/02/2020,F
+67,43,,,,59,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,02/02/2020,M
+68,44,,,,60,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,01/02/2020,F
+69,45,,,,71,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,05/02/2020,M
+70,46,,,,75,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,03/02/2020,M
+71,47,,,,66,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,31/01/2020,M
+72,48,,,,37,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,02/02/2020,F
+73,49,,,,37,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,11/02/2020,30/01/2020,M
+74,50,,,,51,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,12/02/2020,03/02/2020,M
+75,51,,,,43,Tuen Mun Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,13/02/2020,29/01/2020,M
+76,52,,,,67,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,13/02/2020,31/01/2020,F
+77,53,,,,37,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,13/02/2020,08/02/2020,M
+78,54,,,,41,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,14/02/2020,03/02/2020,F
+79,55,,,,70,Princess Margaret Hospital,Deceased,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,14/02/2020,02/02/2020,M
+80,56,,,,61,Queen Mary Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,14/02/2020,12/02/2020,F
+81,57,,,,54,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,16/02/2020,07/02/2020,M
+82,58,,,,69,Caritas Medical Centre,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,17/02/2020,08/02/2020,M
+83,59,,,,45,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,17/02/2020,12/02/2020,M
+84,60,,,,46,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,17/02/2020,08/02/2020,F
+85,61,,,,32,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,18/02/2020,02/02/2020,F
+86,62,,,,58,United Christian Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,18/02/2020,11/02/2020,M
+87,63,,,,83,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,19/02/2020,14/02/2020,F
+88,64,,,,68,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,19/02/2020,12/02/2020,M
+89,65,,,,70,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,19/02/2020,12/02/2020,F
+90,66,,,,75,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/02/2020,25/01/2020,M
+91,67,,,,38,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,20/02/2020,10/02/2020,F
+92,68,,,,58,North District Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,20/02/2020,08/02/2020,M
+93,69,,,,48,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,20/02/2020,18/02/2020,M
+94,70,,,,96,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/02/2020,13/02/2020,F
+95,71,,,,68,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/02/2020,20/02/2020,M
+96,72,,,,62,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,23/02/2020,10/02/2020,M
+97,73,,,,80,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,23/02/2020,08/02/2020,F
+98,74,,,,76,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,23/02/2020,13/02/2020,F
+99,75,,,,35,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/02/2020,19/02/2020,M
+100,76,,,,57,Ruttonjee Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,08/02/2020,F
+101,77,,,,68,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,19/02/2020,F
+102,78,,,,59,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,24/02/2020,F
+103,79,,,,58,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,04/02/2020,F
+104,80,,,,57,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,Asymptomatic,M
+105,81,,,,57,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/02/2020,Asymptomatic,F
+106,82,,,,33,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,25/02/2020,20/02/2020,M
+107,83,,,,55,Ruttonjee Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,25/02/2020,17/02/2020,F
+108,84,,,,24,Ruttonjee Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,25/02/2020,Asymptomatic,M
+109,85,,,,60,Queen Mary Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,25/02/2020,12/02/2020,F
+110,86,,,,49,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,18/02/2020,F
+111,87,,,,21,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,12/02/2020,F
+112,88,,,,16,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,17/02/2020,M
+113,89,,,,80,Pamela Youde Nethersole Eastern Hospital,Deceased,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,25/02/2020,M
+114,90,,,,29,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,16/02/2020,F
+115,91,,,,26,Ruttonjee Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,26/02/2020,20/02/2020,M
+116,92,,,,70,United Christian Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,27/02/2020,13/02/2020,F
+117,93,,,,89,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,27/02/2020,25/02/2020,F
+118,94,,,,61,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/02/2020,Asymptomatic,F
+119,95,,,,46,United Christian Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,29/02/2020,29/02/2020,F
+120,96,,,,68,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/03/2020,15/02/2020,F
+121,97,,,,56,Queen Mary Hospital,Discharged,HK resident,I,Probable,,,,,,,,,,,,,,,,,01/03/2020,Asymptomatic,M
+122,98,,,,71,United Christian Hospital,Hospitalised,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,01/03/2020,12/02/2020,F
+123,99,,,,76,Caritas Medical Centre,Deceased,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/03/2020,28/02/2020,F
+124,100,,,,79,Caritas Medical Centre,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/03/2020,28/02/2020,M
+125,101,,,,63,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,02/03/2020,Asymptomatic,M
+126,102,,,,43,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,04/03/2020,Asymptomatic,M
+127,103,,,,57,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,04/03/2020,Asymptomatic,F
+128,104,,,,62,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,04/03/2020,Asymptomatic,F
+129,105,,,,69,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/03/2020,23/02/2020,F
+130,106,,,,56,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,06/03/2020,04/03/2020,M
+131,107,,,,84,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/03/2020,28/02/2020,M
+132,108,,,,69,Queen Mary Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,06/03/2020,Asymptomatic,M
+133,109,,,,38,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/03/2020,Asymptomatic,F
+134,110,,,,73,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/03/2020,Asymptomatic,F
+135,111,,,,76,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/03/2020,23/02/2020,M
+136,112,,,,55,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,08/03/2020,Asymptomatic,M
+137,113,,,,47,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/03/2020,Asymptomatic,F
+138,114,,,,41,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,08/03/2020,06/03/2020,M
+139,115,,,,59,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/03/2020,Asymptomatic,F
+140,116,,,,44,Ruttonjee Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,09/03/2020,07/03/2020,M
+141,117,,,,52,Queen Mary Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,10/03/2020,09/03/2020,F
+142,118,,,,48,Queen Mary Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,10/03/2020,04/03/2020,F
+143,119,,,,59,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/03/2020,07/03/2020,M
+144,120,,,,59,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/03/2020,07/03/2020,M
+145,121,,,,59,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/03/2020,07/03/2020,F
+146,122,,,,22,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,06/03/2020,F
+147,123,,,,57,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,08/03/2020,M
+148,124,,,,59,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,06/03/2020,F
+149,125,,,,23,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,10/03/2020,M
+150,126,,,,63,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,10/03/2020,M
+151,127,,,,63,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,10/03/2020,F
+152,128,,,,36,Caritas Medical Centre,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,08/03/2020,F
+153,129,,,,52,Yan Chai Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,08/03/2020,F
+154,130,,,,31,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/03/2020,03/03/2020,F
+155,131,,,,37,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,12/03/2020,03/03/2020,M
+156,132,,,,31,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,12/03/2020,08/03/2020,M
+157,133,,,,1,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,12/03/2020,M
+158,134,,,,67,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,10/03/2020,M
+159,135,,,,30,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,08/03/2020,F
+160,136,,,,61,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,07/03/2020,M
+161,137,,,,54,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,06/03/2020,F
+162,138,,,,66,Princess Margaret Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,13/03/2020,Asymptomatic,M
+163,139,,,,39,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,14/03/2020,12/03/2020,F
+164,140,,,,59,Prince of Wales Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,14/03/2020,10/03/2020,M
+165,141,,,,28,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,14/03/2020,12/03/2020,F
+166,142,,,,59,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,14/03/2020,02/03/2020,M
+167,143,,,,35,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,11/03/2020,M
+168,144,,,,29,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,11/03/2020,M
+169,145,,,,37,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,10/03/2020,M
+170,146,,,,39,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,13/03/2020,M
+171,147,,,,61,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,10/03/2020,F
+172,148,,,,58,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,10/03/2020,M
+173,149,,,,32,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,15/03/2020,14/03/2020,M
+174,150,,,,37,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,13/03/2020,M
+175,151,,,,30,Queen Elizabeth Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,08/03/2020,M
+176,152,,,,73,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,13/03/2020,M
+177,153,,,,26,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,15/03/2020,F
+178,154,,,,42,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,11/03/2020,F
+179,155,,,,58,North District Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,15/03/2020,M
+180,156,,,,59,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,09/03/2020,M
+181,157,,,,42,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,15/03/2020,F
+182,158,,,,41,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/03/2020,Asymptomatic,F
+183,159,,,,69,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,15/03/2020,M
+184,160,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,09/03/2020,F
+185,161,,,,37,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,12/03/2020,F
+186,162,,,,36,Queen Elizabeth Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,12/03/2020,M
+187,163,,,,30,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,10/03/2020,F
+188,164,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,10/03/2020,M
+189,165,,,,24,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,05/03/2020,M
+190,166,,,,27,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,10/03/2020,M
+191,167,,,,25,United Christian Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,Asymptomatic,M
+192,168,,,,43,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/03/2020,09/03/2020,M
+193,169,,,,34,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,M
+194,170,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,14/03/2020,M
+195,171,,,,27,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,17/03/2020,M
+196,172,,,,28,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,15/03/2020,M
+197,173,,,,55,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,17/03/2020,M
+198,174,,,,31,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,09/03/2020,M
+199,175,,,,29,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,13/03/2020,M
+200,176,,,,29,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,15/03/2020,F
+201,177,,,,28,Queen Mary Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,F
+202,178,,,,29,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,M
+203,179,,,,63,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,M
+204,180,,,,38,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,M
+205,181,,,,63,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,15/03/2020,F
+206,182,,,,50,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,11/03/2020,F
+207,183,,,,24,Yan Chai Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,12/03/2020,F
+208,184,,,,64,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,12/03/2020,F
+209,185,,,,23,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,12/03/2020,M
+210,186,,,,46,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,02/03/2020,F
+211,187,,,,20,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,09/03/2020,F
+212,188,,,,16,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,11/03/2020,M
+213,189,,,,49,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,12/03/2020,M
+214,190,,,,12,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,17/03/2020,M
+215,191,,,,34,Prince of Wales Hospital,Hospitalised,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,16/03/2020,F
+216,192,,,,46,Queen Elizabeth Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,11/03/2020,F
+217,193,,,,33,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,18/03/2020,11/03/2020,F
+218,194,,,,44,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,15/03/2020,M
+219,195,,,,29,Kwong Wah Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,17/03/2020,M
+220,196,,,,48,Princess Margaret Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,13/03/2020,F
+221,197,,,,19,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,10/03/2020,F
+222,198,,,,21,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,18/03/2020,M
+223,199,,,,29,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,16/03/2020,M
+224,200,,,,22,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,16/03/2020,M
+225,201,,,,35,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,18/03/2020,M
+226,202,,,,19,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,14/03/2020,F
+227,203,,,,29,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,18/03/2020,M
+228,204,,,,43,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,18/03/2020,F
+229,205,,,,35,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,16/03/2020,M
+230,206,,,,40,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,13/03/2020,M
+231,207,,,,32,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,16/03/2020,F
+232,208,,,,44,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,18/03/2020,M
+233,209,,,,51,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/03/2020,12/03/2020,M
+234,210,,,,46,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,12/03/2020,M
+235,211,,,,33,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,14/03/2020,F
+236,212,,,,44,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,F
+237,213,,,,4,United Christian Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,Asymptomatic,F
+238,214,,,,41,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,M
+239,215,,,,61,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,Asymptomatic,M
+240,216,,,,21,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,12/03/2020,M
+241,217,,,,35,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,13/03/2020,M
+242,218,,,,54,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+243,219,,,,13,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,F
+244,220,,,,57,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,11/03/2020,M
+245,221,,,,62,Caritas Medical Centre,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,M
+246,222,,,,31,Caritas Medical Centre,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,F
+247,223,,,,31,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,F
+248,224,,,,38,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,09/03/2020,M
+249,225,,,,61,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,M
+250,226,,,,17,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,M
+251,227,,,,28,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,M
+252,228,,,,50,United Christian Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+253,229,,,,40,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,M
+254,230,,,,23,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,F
+255,231,,,,24,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,F
+256,232,,,,16,Alice Ho Miu Ling,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,F
+257,233.0,,,,31.0,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+258,234.0,,,,52.0,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,F
+259,235.0,,,,18.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,M
+260,236.0,,,,32.0,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+261,237.0,,,,29.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,F
+262,238.0,,,,69.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,F
+263,239.0,,,,50.0,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,09/03/2020,M
+264,240.0,,,,33.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,11/03/2020,F
+265,241.0,,,,60.0,United Christian Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,15/03/2020,M
+266,242.0,,,,61.0,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,15/03/2020,F
+267,243.0,,,,25.0,Queen Elizabeth Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,13/03/2020,F
+268,244.0,,,,36.0,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,F
+269,245.0,,,,46.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,09/03/2020,M
+270,246.0,,,,58.0,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,M
+271,247.0,,,,34.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,09/03/2020,F
+272,248.0,,,,33.0,Ruttonjee Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,14/03/2020,M
+273,249.0,,,,19.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,M
+274,250.0,,,,27.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,F
+275,251.0,,,,38.0,Queen Mary Hospital,Discharged,Non-HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,16/03/2020,M
+276,252.0,,,,23.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+277,253.0,,,,31.0,Prince of Wales Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,F
+278,254,,,,27,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,F
+279,255,,,,22,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,19/03/2020,F
+280,256,,,,30,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,17/03/2020,F
+281,257,,,,18,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,20/03/2020,18/03/2020,M
+282,258,,,,58,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,18/03/2020,F
+283,259,,,,35,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,15/03/2020,F
+284,260,,,,43,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,19/03/2020,M
+285,261,,,,61,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,16/03/2020,F
+286,262,,,,70,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,13/03/2020,F
+287,263,,,,50,Tuen Mun Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,15/03/2020,F
+288,264,,,,28,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,17/03/2020,M
+289,265,,,,20,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,Asymptomatic,F
+290,266,,,,48,Queen Elizabeth Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,17/03/2020,M
+291,267,,,,30,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,13/03/2020,F
+292,268,,,,60,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,14/03/2020,F
+293,269,,,,15,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,19/03/2020,F
+294,270,,,,35,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,17/03/2020,F
+295,271,,,,51,Princess Margaret Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,18/03/2020,F
+296,272,,,,11,Princess Margaret Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,18/03/2020,M
+297,273,,,,36,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,06/03/2020,M
+298,274,,,,36,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/03/2020,18/03/2020,F
+299,275,,,,30,Kwong Wah Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,18/03/2020,M
+300,276,,,,29,Caritas Medical Centre,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,17/03/2020,M
+301,277,,,,27,Prince of Wales Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,15/03/2020,F
+302,278,,,,28,Tuen Mun Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,18/03/2020,M
+303,279,,,,30,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+304,280,,,,20,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+305,281,,,,33,Caritas Medical Centre,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,M
+306,282,,,,39,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,17/03/2020,F
+307,283,,,,20,North District Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,F
+308,284,,,,26,Tuen Mun Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,17/03/2020,F
+309,285,,,,41,United Christian Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,M
+310,286,,,,37,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,Asymptomatic,M
+311,287,,,,31,United Christian Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,Asymptomatic,M
+312,288,,,,20,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,14/03/2020,M
+313,289,,,,20,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,F
+314,290,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,F
+315,291,,,,32,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,18/03/2020,M
+316,292,,,,17,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,M
+317,293,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,M
+318,294,,,,30,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+319,295,,,,31,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,17/03/2020,M
+320,296,,,,24,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,03/03/2020,M
+321,297,,,,18,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,12/03/2020,F
+322,298,,,,1,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,F
+323,299,,,,40,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,14/03/2020,M
+324,300,,,,36,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,M
+325,301,,,,72,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,14/03/2020,F
+326,302,,,,19,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,M
+327,303,,,,1,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,F
+328,304,,,,69,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,18/03/2020,M
+329,305,,,,26,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,15/03/2020,F
+330,306,,,,64,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,03/03/2020,M
+331,307,,,,31,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,17/03/2020,F
+332,308,,,,39,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,M
+333,309,,,,56,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,15/03/2020,M
+334,310,,,,33,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,F
+335,311,,,,16,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,19/03/2020,F
+336,312,,,,56,Princess Margaret Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,F
+337,313,,,,29,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,18/03/2020,F
+338,314,,,,28,Caritas Medical Centre,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,M
+339,315,,,,45,Yan Chai Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,20/03/2020,M
+340,316,,,,29,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+341,317,,,,24,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+342,318,,,,41,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,22/03/2020,16/03/2020,M
+343,319,,,,25,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,F
+344,320,,,,20,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,F
+345,321,,,,57,United Christian Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,F
+346,322,,,,61,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,F
+347,323,,,,20,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,F
+348,324,,,,36,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,M
+349,325,,,,34,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,M
+350,326,,,,48,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,M
+351,327,,,,51,Queen Mary Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,F
+352,328,,,,47,North District Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,16/03/2020,F
+353,329,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,17/03/2020,M
+354,330,,,,30,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,M
+355,331,,,,21,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,17/03/2020,F
+356,332,,,,32,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,Asymptomatic,M
+357,333,,,,56,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,22/03/2020,M
+358,334,,,,18,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,Asymptomatic,M
+359,335,,,,19,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,15/03/2020,F
+360,336,,,,43,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,18/03/2020,F
+361,337,,,,66,Princess Margaret Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,13/03/2020,M
+362,338,,,,62,Princess Margaret Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,11/03/2020,M
+363,339,,,,32,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,M
+364,340,,,,39,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,F
+365,341,,,,54,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,M
+366,342,,,,41,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,Asymptomatic,M
+367,343,,,,39,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,M
+368,344,,,,23,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,Asymptomatic,M
+369,345,,,,37,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,13/03/2020,F
+370,346,,,,30,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,11/03/2020,M
+371,347,,,,54,Prince of Wales Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,22/03/2020,F
+372,348,,,,66,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,F
+373,349,,,,26,Prince of Wales Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,M
+374,350,,,,57,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,18/03/2020,F
+375,351,,,,58,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,14/03/2020,M
+376,352,,,,43,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,20/03/2020,M
+377,353,,,,33,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,F
+378,354,,,,50,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,18/03/2020,M
+379,355,,,,25,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,19/03/2020,M
+380,356,,,,18,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,M
+381,357,,,,18,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/03/2020,21/03/2020,F
+382,358,,,,41,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,22/03/2020,M
+383,359,,,,61,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,21/03/2020,M
+384,360,,,,30,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,22/03/2020,F
+385,361,,,,38,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,16/03/2020,F
+386,362,,,,34,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,Asymptomatic,F
+387,363,,,,52,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,20/03/2020,M
+388,364,,,,21,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,14/03/2020,M
+389,365,,,,44,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,11/03/2020,M
+390,366,,,,42,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,Asymptomatic,M
+391,367,,,,38,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,22/03/2020,M
+392,368,,,,32,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,17/03/2020,F
+393,369,,,,36,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,19/03/2020,M
+394,370,,,,26,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,19/03/2020,F
+395,371,,,,66,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,15/03/2020,M
+396,372,,,,54,Kwong Wah Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,20/03/2020,M
+397,373,,,,33,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,20/03/2020,M
+398,374,,,,60,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,19/03/2020,F
+399,375,,,,39,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,Asymptomatic,M
+400,376,,,,40,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,20/03/2020,F
+401,377,,,,40,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,19/03/2020,M
+402,378,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,21/03/2020,F
+403,379,,,,47,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,20/03/2020,M
+404,380,,,,42,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,18/03/2020,M
+405,381,,,,15,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,18/03/2020,F
+406,382,,,,26,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,02/03/2020,F
+407,383,,,,39,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,22/03/2020,F
+408,384,,,,26,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,23/03/2020,F
+409,385,,,,50,Tseung Kwan O Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,17/03/2020,M
+410,386,,,,48,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,21/03/2020,M
+411,387,,,,38,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,24/03/2020,22/03/2020,M
+412,388,,,,36,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,22/03/2020,M
+413,389,,,,43,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,21/03/2020,M
+414,390,,,,30,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,22/03/2020,F
+415,391,,,,57,Pok Oi Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,19/03/2020,F
+416,392,,,,33,Yan Chai Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,20/03/2020,F
+417,393,,,,18,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,12/03/2020,F
+418,394,,,,28,North District Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,10/03/2020,M
+419,395,,,,29,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,21/03/2020,F
+420,396,,,,28,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,19/03/2020,M
+421,397,,,,48,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,22/03/2020,F
+422,398,,,,16,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,23/03/2020,M
+423,399,,,,21,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,09/03/2020,F
+424,400,,,,11,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,Asymptomatic,M
+425,401,,,,51,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,Asymptomatic,F
+426,402,,,,26,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,13/03/2020,M
+427,403,,,,45,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,23/03/2020,M
+428,404,,,,50,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,23/03/2020,F
+429,405,,,,41,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,20/03/2020,M
+430,406,,,,50,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,23/03/2020,M
+431,407,,,,20,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,17/03/2020,F
+432,408,,,,18,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,24/03/2020,F
+433,409,,,,20,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,16/03/2020,M
+434,410,,,,36,Queen Mary Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,17/03/2020,M
+435,411,,,,38,Tuen Mun Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,25/3/2020,20/03/2020,M
+436,412,,,,32,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,20/03/2020,F
+437,413,,,,48,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,F
+438,414,,,,46,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,22/03/2020,M
+439,415,,,,47,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,16/03/2020,F
+440,416,,,,20,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,Asymptomatic,M
+441,417,,,,65,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,17/03/2020,M
+442,418,,,,20,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,21/03/2020,F
+443,419,,,,20,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,25/03/2020,F
+444,420,,,,27,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,18/03/2020,F
+445,421,,,,25,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,22/03/2020,M
+446,422,,,,31,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,M
+447,423,,,,36,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,M
+448,424,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,M
+449,425,,,,18,North Lantau Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,21/03/2020,M
+450,426,,,,19,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,F
+451,427,,,,74,Tuen Mun Hospital,Hospitalised,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,25/03/2020,F
+452,428,,,,22,Caritas Medical Centre,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,F
+453,429,,,,48,Yan Chai Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,20/03/2020,F
+454,430,,,,19,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,22/03/2020,F
+455,431,,,,20,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,M
+456,432,,,,39,Kwong Wah Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,M
+457,433,,,,47,North District Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,21/03/2020,M
+458,434,,,,30,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,17/03/2020,F
+459,435,,,,44,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,13/03/2020,F
+460,436,,,,23,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,18/03/2020,F
+461,437,,,,27,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,17/03/2020,F
+462,438,,,,42,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,20/03/2020,F
+463,439,,,,19,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,F
+464,440,,,,40,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,22/03/2020,M
+465,441,,,,30,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,17/03/2020,F
+466,442,,,,58,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,M
+467,443,,,,78,Tuen Mun Hospital,Hospitalised,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,25/03/2020,M
+468,444,,,,63,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,20/03/2020,F
+469,445,,,,26,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,17/03/2020,F
+470,446,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,M
+471,447,,,,37,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,24/03/2020,F
+472,448,,,,20,Tseung Kwan O Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,23/03/2020,M
+473,449,,,,19,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,19/03/2020,F
+474,450,,,,38,Queen Elizabeth Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,25/03/2020,F
+475,451,,,,30,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,19/03/2020,F
+476,452,,,,25,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,14/03/2020,M
+477,453,,,,50,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,11/03/2020,F
+478,454,,,,32,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,26/03/2020,20/03/2020,M
+479,455,,,,33,Tuen Mun Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,15/03/2020,M
+480,456,,,,62,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,15/03/2020,M
+481,457,,,,45,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,19/03/2020,M
+482,458,,,,25,Kwong Wah Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,F
+483,459,,,,23,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,19/03/2020,M
+484,460,,,,56,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,F
+485,461,,,,60,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,M
+486,462,,,,34,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,F
+487,463,,,,51,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,F
+488,464,,,,61,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,20/03/2020,M
+489,465,,,,56,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,19/03/2020,F
+490,466,,,,36,Tuen Mun Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,22/03/2020,M
+491,467,,,,48,Ruttonjee Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,M
+492,468,,,,15,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,F
+493,469,,,,24,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,M
+494,470,,,,18,Queen Elizabeth Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,21/03/2020,F
+495,471,,,,19,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,M
+496,472,,,,22,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,14/03/2020,M
+497,473,,,,23,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,F
+498,474,,,,26,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,21/03/2020,F
+499,475,,,,33,Tseung Kwan O Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+500,476,,,,47,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,13/03/2020,M
+501,477,,,,52,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,22/03/2020,F
+502,478,,,,22,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,21/03/2020,F
+503,479,,,,71,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,19/03/2020,M
+504,480,,,,52,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,F
+505,481,,,,31,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,M
+506,482,,,,17,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,20/03/2020,F
+507,483,,,,41,Tuen Mun Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,18/03/2020,F
+508,484,,,,34,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,20/03/2020,F
+509,485,,,,18,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,22/03/2020,F
+510,486,,,,21,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+511,487,,,,39,Pamela Youde Nethersole Eastern Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,M
+512,488,,,,19,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+513,489,,,,23,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,F
+514,490,,,,27,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,M
+515,491,,,,15,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+516,492,,,,50,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,F
+517,493,,,,50,Kwong Wah Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+518,494,,,,18,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,M
+519,495,,,,31,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+520,496,,,,17,Queen Mary Hospital,Discharged (Readmitted on 18/4),HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,M
+521,497,,,,27,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,F
+522,498,,,,58,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,F
+523,499,,,,48,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,21/03/2020,M
+524,500,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,F
+525,501,,,,35,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,22/03/2020,M
+526,502,,,,42,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,16/03/2020,M
+527,503,,,,12,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,January,M
+528,504,,,,62,Tuen Mun Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,F
+529,505,,,,23,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,12/03/2020,M
+530,506,,,,18,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,19/03/2020,F
+531,507,,,,49,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,F
+532,508,,,,48,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,23/03/2020,F
+533,509,,,,40,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,F
+534,510,,,,62,Tseung Kwan O Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,Asymptomatic,F
+535,511,,,,37,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,F
+536,512,,,,23,North District Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,F
+537,513,,,,36,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,M
+538,514,,,,45,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,M
+539,515,,,,30,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,M
+540,516,,,,38,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,25/03/2020,F
+541,517,,,,30,Queen Elizabeth Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,26/03/2020,F
+542,518,,,,20,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,13/03/2020,M
+543,519,,,,37,Kwong Wah Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,27/03/2020,24/03/2020,M
+544,520,,,,35,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,19/03/2020,F
+545,521,,,,56,Prince of Wales Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,F
+546,522,,,,38,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,21/03/2020,F
+547,523,,,,38,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,22/03/2020,M
+548,524,,,,56,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,M
+549,525,,,,63,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,24/03/2020,M
+550,526,,,,52,Yan Chai Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,22/03/2020,F
+551,527,,,,48,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,22/03/2020,M
+552,528,,,,29,Ruttonjee Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,20/03/2020,F
+553,529,,,,41,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+554,530,,,,60,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,15/03/2020,M
+555,531,,,,42,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,F
+556,532,,,,19,Yan Chai Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,20/03/2020,M
+557,533,,,,25,Queen Mary Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,20/03/2020,F
+558,534,,,,24,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,21/03/2020,M
+559,535,,,,28,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,19/03/2020,F
+560,536,,,,31,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,15/03/2020,F
+561,537,,,,20,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,F
+562,538,,,,19,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+563,539,,,,19,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+564,540,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+565,541,,,,17,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,10/03/2020,F
+566,542,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+567,543,,,,25,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+568,544,,,,20,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+569,545,,,,19,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,27/03/2020,M
+570,546,,,,23,Caritas Medical Centre,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,F
+571,547,,,,18,Alice Ho Miu Ling,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+572,548.0,,,,16.0,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+573,549.0,,,,16.0,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,M
+574,550.0,,,,18.0,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,F
+575,551.0,,,,20.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,M
+576,552.0,,,,20.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,27/03/2020,F
+577,553.0,,,,20.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,27/03/2020,M
+578,554.0,,,,21.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,Asymptomatic,F
+579,555.0,,,,23.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,11/03/2020,M
+580,556.0,,,,20.0,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,16/03/2020,F
+581,557.0,,,,19.0,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,17/03/2020,M
+582,558.0,,,,20.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,23/03/2020,F
+583,559.0,,,,19.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,15/03/2020,F
+584,560.0,,,,20.0,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,M
+585,561.0,,,,67.0,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,12/03/2020,F
+586,562.0,,,,25.0,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+587,563.0,,,,27.0,Queen Mary Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,24/03/2020,M
+588,564.0,,,,33.0,Prince of Wales Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,23/03/2020,M
+589,565.0,,,,66.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+590,566.0,,,,31.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,F
+591,567.0,,,,21.0,Tuen Mun Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,M
+592,568.0,,,,26.0,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,24/03/2020,M
+593,569.0,,,,61.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,F
+594,570.0,,,,15.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+595,571,,,,76,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,15/03/2020,F
+596,572,,,,56,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,18/03/2020,M
+597,573,,,,65,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,22/03/2020,M
+598,574,,,,56,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+599,575,,,,31,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,22/03/2020,M
+600,576,,,,36,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,24/03/2020,M
+601,577,,,,15,Queen Mary Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,M
+602,578,,,,7,Queen Mary Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,27/03/2020,M
+603,579,,,,34,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,26/03/2020,F
+604,580,,,,26,Pok Oi Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,21/03/2020,F
+605,581,,,,42,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,24/03/2020,M
+606,582,,,,31,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,25/03/2020,F
+607,583,,,,19,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,28/03/2020,27/03/2020,M
+608,584,,,,63,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,19/03/2020,M
+609,585,,,,28,Tuen Mun Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,F
+610,586,,,,38,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,21/03/2020,M
+611,587,,,,29,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,14/03/2020,F
+612,588,,,,29,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,M
+613,589,,,,22,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+614,590,,,,56,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+615,591,,,,15,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+616,592,,,,14,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+617,593,,,,20,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+618,594,,,,16,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+619,595,,,,75,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,F
+620,596,,,,67,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+621,597,,,,21,Ruttonjee Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,19/03/2020,M
+622,598,,,,17,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+623,599,,,,62,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,25/03/2020,F
+624,600,,,,23,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,M
+625,601,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+626,602,,,,19,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,25/03/2020,M
+627,603,,,,16,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,22/03/2020,M
+628,604,,,,38,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,M
+629,605,,,,19,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,19/03/2020,M
+630,606,,,,28,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+631,607,,,,46,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+632,608,,,,27,North District Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,21/03/2020,F
+633,609,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+634,610,,,,35,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,F
+635,611,,,,56,Tuen Mun Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,F
+636,612,,,,11,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,F
+637,613,,,,14,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,M
+638,614,,,,31,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,M
+639,615,,,,28,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,F
+640,616,,,,20,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,M
+641,617,,,,31,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,F
+642,618,,,,29,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,17/03/2020,M
+643,619,,,,58,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,F
+644,620,,,,58,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,23/03/2020,M
+645,621,,,,59,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,25/03/2020,M
+646,622,,,,47,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,F
+647,623,,,,38,Caritas Medical Centre,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,25/03/2020,F
+648,624,,,,47,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,25/03/2020,M
+649,625,,,,51,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,M
+650,626,,,,37,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+651,627,,,,67,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,F
+652,628,,,,21,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,F
+653,629,,,,36,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,M
+654,630,,,,32,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,28/03/2020,M
+655,631,,,,49,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,F
+656,632,,,,77,Tuen Mun Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,Asymptomatic,M
+657,633,,,,74,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,21/03/2020,F
+658,634,,,,48,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,F
+659,635,,,,40,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,F
+660,636,,,,21,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,28/03/2020,F
+661,637,,,,28,Queen Elizabeth Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,24/03/2020,M
+662,638,,,,39,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,M
+663,639,,,,21,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,27/03/2020,F
+664,640,,,,23,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,22/03/2020,F
+665,641,,,,34,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,26/03/2020,M
+666,642,,,,23,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,29/03/2020,17/03/2020,F
+667,643,,,,32,Tseung Kwan O Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,21/03/2020,M
+668,644,,,,13,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,22/03/2020,M
+669,645,,,,27,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,14/03/2020,F
+670,646,,,,23,Prince of Wales Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,F
+671,647,,,,36,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,F
+672,648,,,,19,Queen Elizabeth Hospital,Discharged (Readmitted on 21/4),HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,24/03/2020,M
+673,649,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,28/03/2020,M
+674,650,,,,24,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,12/03/2020,F
+675,651,,,,21,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,F
+676,652,,,,30,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,F
+677,653,,,,52,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+678,654,,,,30,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,24/03/2020,F
+679,655,,,,19,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+680,656,,,,58,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+681,657,,,,25,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,15/03/2020,M
+682,658,,,,18,Caritas Medical Centre,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,23/03/2020,F
+683,659,,,,32,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+684,660,,,,20,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,F
+685,661,,,,21,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,29/03/2020,F
+686,662,,,,28,Prince of Wales Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,28/03/2020,M
+687,663,,,,31,Caritas Medical Centre,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,29/03/2020,M
+688,664,,,,17,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,F
+689,665,,,,59,Queen Elizabeth Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,20/03/2020,F
+690,666,,,,65,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+691,667,,,,11,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,F
+692,668,,,,34,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+693,669,,,,32,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,29/03/2020,F
+694,670,,,,32,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,22/03/2020,F
+695,671,,,,19,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+696,672,,,,16,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,Asymptomatic,M
+697,673,,,,52,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,29/03/2020,M
+698,674,,,,23,North District Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,26/03/2020,M
+699,675,,,,19,Tseung Kwan O Hospital,Discharged,Non-HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,21/03/2020,F
+700,676,,,,20,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,M
+701,677,,,,59,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,29/03/2020,F
+702,678,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,28/03/2020,F
+703,679,,,,19,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,M
+704,680,,,,19,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,F
+705,681,,,,17,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,18/03/2020,M
+706,682,,,,38,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,M
+707,683,,,,34,Queen Mary Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,30/03/2020,27/03/2020,F
+708,684,,,,21,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,22/03/2020,M
+709,685,,,,60,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,14/03/2020,M
+710,686,,,,30,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,23/03/2020,M
+711,687,,,,29,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,F
+712,688,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+713,689,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,22/03/2020,F
+714,690,,,,17,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,28/03/2020,M
+715,691,,,,72,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,29/03/2020,F
+716,692,,,,20,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+717,693,,,,21,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,29/03/2020,M
+718,694,,,,71,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,F
+719,695,,,,18,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,M
+720,696,,,,15,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+721,697,,,,21,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,F
+722,698,,,,62,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,28/03/2020,M
+723,699,,,,11,Queen Mary Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+724,700,,,,21,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+725,701,,,,61,Tseung Kwan O Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,M
+726,702,,,,29,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,F
+727,703,,,,41,Yan Chai Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,17/03/2020,M
+728,704,,,,32,Yan Chai Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,24/03/2020,F
+729,705,,,,35,Yan Chai Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,F
+730,706,,,,17,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,30/03/2020,F
+731,707,,,,44,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,25/03/2020,F
+732,708,,,,47,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,27/03/2020,F
+733,709,,,,56,North Lantau Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,29/03/2020,M
+734,710,,,,86,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,22/03/2020,F
+735,711,,,,84,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,19/03/2020,M
+736,712,,,,19,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,29/03/2020,F
+737,713,,,,62,Queen Mary Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,30/03/2020,M
+738,714,,,,21,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,Asymptomatic,M
+739,715,,,,58,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,31/03/2020,29/03/2020,M
+740,716,,,,24,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,18/03/2020,F
+741,717,,,,29,United Christian Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,23/03/2020,M
+742,718,,,,26,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,25/03/2020,M
+743,719,,,,39,Ruttonjee Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,29/03/2020,M
+744,720,,,,61,North District Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,12/03/2020,F
+745,721,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,26/03/2020,F
+746,722,,,,16,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,F
+747,723,,,,15,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,26/03/2020,M
+748,724,,,,59,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,28/03/2020,M
+749,725,,,,58,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,F
+750,726,,,,16,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,F
+751,727,,,,49,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,24/02/2020,M
+752,728,,,,21,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,13/03/2020,F
+753,729,,,,53,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,19/03/2020,M
+754,730,,,,15,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,M
+755,731,,,,21,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,31/03/2020,F
+756,732,,,,59,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,31/03/2020,F
+757,733,,,,17,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,24/03/2020,M
+758,734,,,,37,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,M
+759,735,,,,53,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,F
+760,736,,,,22,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,31/03/2020,F
+761,737,,,,25,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,17/03/2020,M
+762,738,,,,32,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,F
+763,739,,,,38,Prince of Wales Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,10/03/2020,M
+764,740,,,,65,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,M
+765,741,,,,25,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,27/03/2020,M
+766,742,,,,25,Caritas Medical Centre,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,30/03/2020,F
+767,743,,,,35,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,24/03/2020,F
+768,744,,,,57,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,23/03/2020,F
+769,745,,,,15,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,20/03/2020,F
+770,746,,,,58,Kwong Wah Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,26/03/2020,M
+771,747,,,,43,Tseung Kwan O Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,M
+772,748,,,,25,Queen Mary Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,27/03/2020,M
+773,749,,,,38,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,16/03/2020,F
+774,750,,,,24,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,Asymptomatic,M
+775,751,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,28/03/2020,F
+776,752,,,,29,Yan Chai Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,29/03/2020,M
+777,753,,,,41,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,29/03/2020,F
+778,754,,,,43,Tseung Kwan O Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,23/03/2020,M
+779,755,,,,34,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,23/03/2020,F
+780,756,,,,33,Kwong Wah Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,29/03/2020,F
+781,757,,,,1 mon th,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,30/03/2020,M
+782,758,,,,33,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,25/03/2020,M
+783,759,,,,33,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,27/03/2020,M
+784,760,,,,61,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,31/03/2020,M
+785,761,,,,40,Tuen Mun Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,27/03/2020,F
+786,762,,,,20,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,28/03/2020,F
+787,763,,,,21,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,28/03/2020,M
+788,764,,,,48,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,29/03/2020,M
+789,765,,,,18,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,23/03/2020,M
+790,766,,,,22,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/04/2020,12/03/2020,M
+791,767,,,,64,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,23/03/2020,F
+792,768,,,,34,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,25/03/2020,M
+793,769,,,,39,Princess Margaret Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,26/03/2020,M
+794,770,,,,38,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,27/03/2020,F
+795,771,,,,61,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,F
+796,772,,,,14,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,25/03/2020,M
+797,773,,,,50,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,F
+798,774,,,,54,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+799,775,,,,30,Tuen Mun Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,24/03/2020,F
+800,776,,,,18,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,31/03/2020,M
+801,777,,,,36,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,30/03/2020,F
+802,778,,,,53,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,01/04/2020,M
+803,779,,,,21,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+804,780,,,,27,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,F
+805,781,,,,71,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,31/03/2020,F
+806,782,,,,20,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+807,783,,,,17,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+808,784,,,,22,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,09/03/2020,F
+809,785,,,,18,Yan Chai Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,F
+810,786,,,,24,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,29/03/2020,M
+811,787,,,,19,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,31/03/2020,M
+812,788,,,,19,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+813,789,,,,22,Yan Chai Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,29/03/2020,F
+814,790,,,,19,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+815,791,,,,20,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+816,792,,,,23,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,30/03/2020,M
+817,793,,,,49,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,31/03/2020,F
+818,794,,,,2,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,Asymptomatic,M
+819,795,,,,56,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,29/03/2020,F
+820,796,,,,37,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,30/03/2020,F
+821,797,,,,33,Tseung Kwan O Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,25/03/2020,F
+822,798,,,,55,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,29/03/2020,M
+823,799,,,,18,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,01/04/2020,M
+824,800,,,,19,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,24/03/2020,F
+825,801,,,,50,Ruttonjee Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,31/03/2020,M
+826,802,,,,60,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,24/03/2020,M
+827,803,,,,22,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,02/04/2020,24/03/2020,M
+828,804,,,,52,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+829,805,,,,41,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,25/03/2020,F
+830,806,,,,27,Prince of Wales Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,28/03/2020,M
+831,807,,,,27,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,23/03/2020,M
+832,808,,,,24,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+833,809,,,,21,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,31/03/2020,M
+834,810,,,,37,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,02/04/2020,F
+835,811,,,,21,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,30/03/2020,M
+836,812,,,,60,United Christian Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+837,813,,,,38,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+838,814,,,,33,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,F
+839,815,,,,29,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,31/03/2020,M
+840,816,,,,16,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+841,817,,,,19,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+842,818,,,,52,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,F
+843,819,,,,23,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,18/03/2020,F
+844,820,,,,20,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,26/03/2020,F
+845,821,,,,20,Yan Chai Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,16/03/2020,F
+846,822,,,,20,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,31/03/2020,F
+847,823,,,,44,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,F
+848,824,,,,16,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,F
+849,825,,,,20,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,19/03/2020,F
+850,826,,,,19,Tseung Kwan O Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,23/03/2020,M
+851,827,,,,52,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,F
+852,828,,,,19,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,29/03/2020,M
+853,829,,,,20,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,Asymptomatic,M
+854,830,,,,59,Queen Elizabeth Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,21/03/2020,M
+855,831,,,,21,Ruttonjee Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,29/03/2020,M
+856,832,,,,18,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,01/04/2020,F
+857,833,,,,48,Tseung Kwan O Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,26/03/2020,M
+858,834,,,,60,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,24/03/2020,F
+859,835,,,,48,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,27/03/2020,F
+860,836,,,,33,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,02/04/2020,F
+861,837,,,,56,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,18/03/2020,M
+862,838,,,,33,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,31/03/2020,M
+863,839,,,,35,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,29/03/2020,F
+864,840,,,,47,Queen Elizabeth Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,25/03/2020,M
+865,841,,,,55,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,27/03/2020,M
+866,842,,,,20,North District Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,02/04/2020,M
+867,843,,,,19,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,02/04/2020,F
+868,844,,,,59,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,02/04/2020,F
+869,845,,,,47,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,31/03/2020,F
+870,846,,,,51,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,03/04/2020,24/03/2020,M
+871,847,,,,20,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,Asymptomatic,M
+872,848,,,,25,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,Asymptomatic,F
+873,849,,,,44,North District Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,31/03/2020,F
+874,850,,,,21,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,22/03/2020,F
+875,851,,,,21,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,02/04/2020,F
+876,852,,,,18,Pamela Youde Nethersole,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,29/03/2020,F
+877,853.0,,,,23.0,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,Asymptomatic,M
+878,854.0,,,,46.0,Queen Elizabeth Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,01/04/2020,M
+879,855.0,,,,36.0,North District Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,25/03/2020,F
+880,856.0,,,,93.0,Tuen Mun Hospital,Discharged,HK resident,Epi-PL,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,24/03/2020,M
+881,857.0,,,,71.0,Ruttonjee Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,25/03/2020,M
+882,858.0,,,,38.0,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,29/03/2020,M
+883,859.0,,,,38.0,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,Asymptomatic,F
+884,860.0,,,,6.0,Kwong Wah Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,30/03/2020,M
+885,861.0,,,,18.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,16/03/2020,M
+886,862.0,,,,23.0,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,30/03/2020,M
+887,863.0,,,,24.0,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,04/04/2020,Asymptomatic,F
+888,864.0,,,,40.0,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+889,865.0,,,,18.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+890,866.0,,,,20.0,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,23/03/2020,M
+891,867.0,,,,29.0,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,25/03/2020,F
+892,868.0,,,,61.0,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,01/04/2020,F
+893,869.0,,,,18.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,15/03/2020,F
+894,870.0,,,,60.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,F
+895,871.0,,,,19.0,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,03/04/2020,F
+896,872.0,,,,33.0,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,31/03/2020,M
+897,873.0,,,,48.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+898,874.0,,,,20.0,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,20/03/2020,M
+899,875.0,,,,19.0,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,12/03/2020,M
+900,876,,,,20,United Christian Hospital,Discharged (Readmitted on 24/4),HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,21/03/2020,F
+901,877,,,,39,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+902,878,,,,64,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,28/03/2020,M
+903,879,,,,60,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,03/04/2020,F
+904,880,,,,21,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+905,881,,,,35,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,10/03/2020,M
+906,882,,,,22,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,11/03/2020,F
+907,883,,,,49,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,17/03/2020,M
+908,884,,,,23,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,30/03/2020,M
+909,885,,,,20,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,M
+910,886,,,,46,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,31/03/2020,F
+911,887,,,,62,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,02/04/2020,M
+912,888,,,,20,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,16/03/2020,M
+913,889,,,,19,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,31/03/2020,M
+914,890,,,,16,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,Asymptomatic,F
+915,891,,,,35,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,05/04/2020,03/04/2020,F
+916,892,,,,56,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,04/04/2020,M
+917,893,,,,20,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,24/03/2020,M
+918,894,,,,16,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,M
+919,895,,,,48,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,31/03/2020,M
+920,896,,,,61,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,F
+921,897,,,,39,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,01/04/2020,F
+922,898,,,,18,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,03/04/2020,M
+923,899,,,,28,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,F
+924,900,,,,40,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,F
+925,901,,,,21,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,21/03/2020,F
+926,902,,,,61,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,28/03/2020,M
+927,903,,,,48,Princess Margaret Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,23/03/2020,M
+928,904,,,,44,United Christian Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,M
+929,905,,,,35,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,F
+930,906,,,,56,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,M
+931,907,,,,54,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,F
+932,908,,,,64,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,M
+933,909,,,,60,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,Asymptomatic,M
+934,910,,,,29,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,27/03/2020,F
+935,911,,,,29,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,23/03/2020,M
+936,912,,,,3,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,27/03/2020,M
+937,913,,,,8,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,27/03/2020,M
+938,914,,,,60,Queen Mary Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,30/03/2020,F
+939,915,,,,48,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,06/04/2020,03/04/2020,F
+940,916,,,,22,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,14/03/2020,M
+941,917,,,,21,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,Asymptomatic,F
+942,918,,,,53,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,04/04/2020,M
+943,919,,,,40,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,Asymptomatic,M
+944,920,,,,22,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,23/03/2020,M
+945,921,,,,40,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,31/03/2020,F
+946,922,,,,20,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,Asymptomatic,M
+947,923,,,,31,Prince of Wales Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,03/04/2020,F
+948,924,,,,54,Princess Margaret Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,03/04/2020,F
+949,925,,,,19,Kwong Wah Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,04/04/2020,F
+950,926,,,,40,Princess Margaret Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,01/04/2020,F
+951,927,,,,19,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,05/04/2020,M
+952,928,,,,55,Yan Chai Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,03/04/2020,M
+953,929,,,,21,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,06/04/2020,M
+954,930,,,,16,Prince of Wales Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,Asymptomatic,M
+955,931,,,,59,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,Asymptomatic,F
+956,932,,,,24,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,29/03/2020,M
+957,933,,,,39,Queen Elizabeth Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,02/04/2020,F
+958,934,,,,29,North District Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,06/04/2020,F
+959,935,,,,61,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,11/03/2020,M
+960,936,,,,35,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,07/04/2020,04/04/2020,M
+961,937,,,,27,Ruttonjee Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,01/04/2020,F
+962,938,,,,20,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,F
+963,939,,,,26,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,31/03/2020,F
+964,940,,,,5,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+965,941,,,,57,Ruttonjee Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+966,942,,,,71,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,04/04/2020,F
+967,943,,,,31,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,04/04/2020,F
+968,944,,,,37,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+969,945,,,,57,North District Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,03/04/2020,F
+970,946,,,,35,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,30/03/2020,M
+971,947,,,,20,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,02/04/2020,F
+972,948,,,,61,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+973,949,,,,37,Alice Ho Miu Ling Nethersole Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,F
+974,950,,,,68,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,01/04/2020,M
+975,951,,,,47,United Christian Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,05/04/2020,F
+976,952,,,,22,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,F
+977,953,,,,2 mon ths,Queen Mary Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+978,954,,,,27,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,01/04/2020,F
+979,955,,,,33,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,Asymptomatic,M
+980,956,,,,28,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,04/04/2020,M
+981,957,,,,55,Queen Mary Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,30/03/2020,F
+982,958,,,,57,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,07/04/2020,M
+983,959,,,,20,Yan Chai Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,30/03/2020,F
+984,960,,,,25,Ruttonjee Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,03/04/2020,M
+985,961,,,,31,Queen Elizabeth Hospital,Discharged,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,08/04/2020,01/04/2020,F
+986,962,,,,63,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,08/04/2020,M
+987,963,,,,31,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,25/03/2020,F
+988,964,,,,65,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,29/03/2020,F
+989,965,,,,66,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,14/03/2020,F
+990,966,,,,35,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,10/03/2020,F
+991,967,,,,21,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,25/03/2020,M
+992,968,,,,43,Queen Mary Hospital,Discharged (Readmitted on 21/4),HK resident,L,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,04/04/2020,M
+993,969,,,,22,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,20/03/2020,M
+994,970,,,,26,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,05/04/2020,F
+995,971,,,,55,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,Asymptomatic,M
+996,972,,,,39,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,27/03/2020,M
+997,973,,,,38,Queen Mary Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,21/03/2020,M
+998,974,,,,37,Queen Elizabeth Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,09/04/2020,08/04/2020,M
+999,975,,,,24,Princess Margaret Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,F
+1000,976,,,,28,Tuen Mun Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,28/03/2020,M
+1001,977,,,,32,Princess Margaret Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,17/03/2020,M
+1002,978,,,,51,Queen Mary Hospital,Discharged,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,M
+1003,979,,,,19,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,M
+1004,980,,,,20,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,30/03/2020,F
+1005,981,,,,38,North District Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,F
+1006,982,,,,22,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,08/04/2020,M
+1007,983,,,,41,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,30/03/2020,M
+1008,984,,,,50,Tseung Kwan O Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,19/03/2020,M
+1009,985,,,,22,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,26/03/2020,M
+1010,986,,,,17,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,F
+1011,987,,,,20,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,08/04/2020,M
+1012,988,,,,75,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,02/04/2020,F
+1013,989,,,,25,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,Asymptomatic,F
+1014,990,,,,19,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,10/04/2020,09/04/2020,F
+1015,991,,,,45,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,Asymptomatic,F
+1016,992,,,,38,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,01/04/2020,M
+1017,993,,,,32,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,28/03/2020,F
+1018,994,,,,38,Queen Mary Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,Asymptomatic,F
+1019,995,,,,19,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,Asymptomatic,M
+1020,996,,,,27,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,07/04/2020,M
+1021,997,,,,24,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,31/03/2020,F
+1022,998,,,,29,Princess Margaret Hospital,Discharged,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,25/03/2020,F
+1023,999,,,,26,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,25/03/2020,F
+1024,1000,,,,37,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,Asymptomatic,M
+1025,1001,,,,59,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,11/04/2020,31/03/2020,M
+1026,1002,,,,56,Tuen Mun Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,12/04/2020,Asymptomatic,M
+1027,1003,,,,63,Prince of Wales Hospital,Discharged,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,12/04/2020,01/04/2020,F
+1028,1004,,,,20,Prince of Wales Hospital,Discharged (Readmitted on 21/4),HK resident,I,Confirmed,,,,,,,,,,,,,,,,,12/04/2020,08/04/2020,M
+1029,1005,,,,21,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,12/04/2020,08/04/2020,F
+1030,1006,,,,72,Queen Elizabeth Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/04/2020,Asymptomatic,F
+1031,1007,,,,79,Prince of Wales Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/04/2020,29/03/2020,M
+1032,1008,,,,66,Queen Elizabeth Hospital,Hospitalised,HK resident,Epi-L,Confirmed,,,,,,,,,,,,,,,,,13/04/2020,Asymptomatic,M
+1033,1009,,,,1,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/04/2020,Asymptomatic,F
+1034,1010,,,,51,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,13/04/2020,25/03/2020,M
+1035,1011,,,,53,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,14/04/2020,Asymptomatic,M
+1036,1012,,,,16,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,14/04/2020,Asymptomatic,M
+1037,1013,,,,22,Tuen Mun Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,14/04/2020,Asymptomatic,M
+1038,1014,,,,22,Ruttonjee Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/04/2020,Asymptomatic,M
+1039,1015,,,,60,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/04/2020,Asymptomatic,F
+1040,1016,,,,42,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/04/2020,17/03/2020,M
+1041,1017,,,,36,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,15/04/2020,Asymptomatic,M
+1042,1018,,,,19,Caritas Medical Centre,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,16/04/2020,13/04/2020,F
+1043,1019,,,,13,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/04/2020,Asymptomatic,F
+1044,1020,,,,21,Pamela Youde Nethersole Eastern Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/04/2020,02/04/2020,M
+1045,1021,,,,55,Pamela Youde Nethersole,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,17/04/2020,17/03/2020,F
+1046,1022.0,,,,20.0,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,PL,Confirmed,,,,,,,,,,,,,,,,,17/04/2020,11/04/2020,F
+1047,1023.0,,,,4.0,Queen Mary Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/04/2020,16/04/2020,F
+1048,1024.0,,,,29.0,Princess Margaret Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,18/04/2020,Asymptomatic,M
+1049,1025.0,,,,35.0,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,19/04/2020,Asymptomatic,M
+1050,1026.0,,,,47.0,Queen Elizabeth Hospital,Hospitalised,HK resident,L,Confirmed,,,,,,,,,,,,,,,,,19/04/2020,06/04/2020,F
+1051,1027.0,,,,38.0,Queen Elizabeth Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/04/2020,15/04/2020,F
+1052,1028.0,,,,39.0,Queen Elizabeth Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/04/2020,07/04/2020,M
+1053,1029.0,,,,13.0,United Christian Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/04/2020,Asymptomatic,F
+1054,1030.0,,,,25.0,United Christian Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,21/04/2020,Asymptomatic,M
+1055,1031.0,,,,68.0,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/04/2020,Asymptomatic,M
+1056,1032.0,,,,52.0,Princess Margaret Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/04/2020,24/03/2020,F
+1057,1033.0,,,,26.0,Queen Elizabeth Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/04/2020,Asymptomatic,F
+1058,1034.0,,,,2.0,Alice Ho Miu Ling Nethersole Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,22/04/2020,Asymptomatic,M
+1059,1035.0,,,,27.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/04/2020,16/03/2020,M
+1060,1036.0,,,,58.0,Pamela Youde Nethersole Eastern Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,23/04/2020,26/03/2020,M
+1061,1037.0,,,,18.0,Queen Mary Hospital,Discharged,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,25/04/2020,28/03/2020,F
+1062,1038.0,,,,61.0,Queen Elizabeth Hospital,Hospitalised,HK resident,Epi-I,Confirmed,,,,,,,,,,,,,,,,,25/04/2020,Asymptomatic,M
+1063,1039.0,,,,35.0,Prince of Wales Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/05/2020,Asymptomatic,M
+1064,1040.0,,,,16.0,Tuen Mun Hospital,Hospitalised,HK resident,I,Confirmed,,,,,,,,,,,,,,,,,01/05/2020,Asymptomatic,F
