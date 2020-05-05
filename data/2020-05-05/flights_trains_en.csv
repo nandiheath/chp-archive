@@ -1,0 +1,8 @@
+,FlightNumber,DepartureCity,SeatNumber*(ifknown),ArrivalDate,RelatedConfirmed/ProbableCase(s)
+0,CX252,London,17A,21/04/2020,1031
+1,CX252,London,63D,21/04/2020,1032
+2,CX252,London,48A,21/04/2020,1033
+3,QR818,Doha,17H,21/04/2020,1035
+4,CX252,London,65G,24/04/2020,1037
+5,CX252,London,48D,28/04/2020,Case confirmed in United Kingdom
+6,CX881,Los Angeles,48H,04/05/2020,1041
