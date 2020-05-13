@@ -1,0 +1,11 @@
+,FlightNumber,DepartureCity,SeatNumber*(ifknown),ArrivalDate,RelatedConfirmed/ProbableCase(s)
+0,CX252,London,48D,28/04/2020,Case confirmed in United Kingdom
+1,CX881,Los Angeles,48H,04/05/2020,1041
+2,QR818,Doha,42K,06/05/2020,1042
+3,QR818,Doha,35F,06/05/2020,1043
+4,QR818,Doha,28H,06/05/2020,1044
+5,QR818,Doha,33E,06/05/2020,1045
+6,QR818,Doha,17H,09/05/2020,1046
+7,QR818,Doha,2J,09/05/2020,1047
+8,CX252,London,62G,10/05/2020,1048
+9,BA27,London,32F,10/05/2020,Overseas case
