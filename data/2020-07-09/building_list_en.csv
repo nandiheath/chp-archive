@@ -22,56 +22,113 @@
 20,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1295
 21,Siu Lung Court,Tuen Mun,,1296
 22,"Cherry Mansion, 39A Oak Street",Yau Tsim Mong,,1297
-23,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1298
-24,Dorsett Tsuen Wan,Kwai Tsing,,1299
-25,Dorsett Tsuen Wan,Kwai Tsing,,1300
-26,"Lai Yuen House, Chuk Yuen South Estate",Wong Tai Sin,,1301
-27,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1302
-28,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1304
-29,"Yuk Shek House, Ping Shek Estate",Kwun Tong,,1305
-30,"Ching Yuen House, Tsz Ching Estate",Wong Tai Sin,,1306
-31,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1307
-32,Dorsett Tsuen Wan,Kwai Tsing,,1309
-33,5 Tsz Wah Lane,Wong Tai Sin,,1310
-34,ManningTheatre Building,Wong Tai Sin,,1311
-35,"Block A, Gomme House",Wong Tai Sin,,1312
-36,"Block 1, BayviewGarden",Tsuen Wan,,1313
-37,"Hoi Wen House , Hoi Fu Court",Yau Tsim Mong,,1314
-38,"Pik Fung House, Fung Tak Estate",Wong Tai Sin,,1315
-39,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1316
-40,"Block 10, Kwai Shing West Estate",Kwai Tsing,,1317
-41,"Tower 3, LeightonHill",Wan Chai,,1319
-42,Panda Hotel,Tsuen Wan,,1320
-43,"Choi Foon House, Choi Fook Estate",Kwun Tong,,1321
-44,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1322
-45,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1323
-46,"Kwai Hei House, Kwai Fong Estate",Kwai Tsing,,1324
-47,Tai Wai Market,Sha Tin,24/06/2020,1233
-48,Dragon Centre,Sham Shui Po,24/06/2020,"1233, 1263"
-49,Mei Tin Shopping Centre,Sha Tin,25/06/2020,1233
-50,On Tat ShoppingCentre North Wing,Kwun Tong,26/06/2020,1289
-51,Lei Cheng Uk Plaza,Sham Shui Po,29/06/2020,1289
-52,Hong Kong River Trade Terminal,Tuen Mun,30/06/2020,1269
-53,"HA IT Block, Kowloon Hospital",Kowloon City,02/07/2020,1292
-54,Tanner Garden Block 3,Eastern,02/07/2020,1296
-55,"Treasure World, Site 11, Whampoa Garden",Kowloon City,02/07/2020,1296
-56,113-115 Tung Choi Street,Yau Tsim Mong,02/07/2020,1296
-57,"Home World (Site 12), The Whampoa",Kowloon City,02/07/2020,1296
-58,Island Place,Eastern,02/07/2020,1296
-59,261 Castle Peak Road,Sham Shui Po,03/07/2020,1263
-60,Hong Kong Disneyland Hotel,Islands,03/07/2020,1292
-61,60 Yen Chow Street,Sham Shui Po,04/07/2020,1263
-62,Ma On Shan Plaza,Sha Tin,04/07/2020,1292
-63,LanghamPllace,Yau Tsim Mong,04/07/2020,1297
-64,"Yuk Shek House, Ping Shek Estate",Kwun Tong,04/07/2020,"1269, 1283, 1291, 1297"
-65,Lek Yuen Shopping Centre,Sha Tin,05/07/2020,1293
-66,New Town Plaza,Sha Tin,05/07/2020,1294
-67,13 Tai Wai Road,Sha Tin,05/07/2020,1294
-68,"CommericalComplex, Choi Wan Estate",Wong Tai Sin,05/07/2020,1305
-69,26-38 Man Ying Street,Yau Tsim Mong,05/07/2020,"1289, 1301, 1317, 1324"
-70,Kings Wing Plaza 1,Sha Tin,06/07/2020,1293
-71,Shui Chuen O Plaza,Sha Tin,06/07/2020,1294
-72,The Church of Christ in China Rotary Secondary School,Wong Tai Sin,06/07/2020,1295
-73,RichlandGarden Shopping Arcade,Tuen Mun,06/07/2020,1296
-74,"60A, Lung Chi Path",Wong Tai Sin,07/07/2020,1305
-75,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,07/07/2020,"1310, 1311, 1312, 1321"
+23,Block 3 Hampton Place,Yau Tsim Mong,,1297
+24,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1298
+25,Dorsett Tsuen Wan,Kwai Tsing,,1299
+26,Dorsett Tsuen Wan,Kwai Tsing,,1300
+27,"Lai Yuen House, Chuk Yuen South Estate",Wong Tai Sin,,1301
+28,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1302
+29,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1304
+30,"Yuk Shek House, Ping Shek Estate",Kwun Tong,,1305
+31,"Ching Yuen House, Tsz Ching Estate",Wong Tai Sin,,1306
+32,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1307
+33,Dorsett Tsuen Wan,Kwai Tsing,,1309
+34,5 Tsz Wah Lane,Wong Tai Sin,,1310
+35,ManningTheatre Building,Wong Tai Sin,,1311
+36,"Block A, Gomme House",Wong Tai Sin,,1312
+37,"Block 1, BayviewGarden",Tsuen Wan,,1313
+38,"Hoi Wen House , Hoi Fu Court",Yau Tsim Mong,,1314
+39,"Pik Fung House, Fung Tak Estate",Wong Tai Sin,,1315
+40,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1316
+41,"Block 10, Kwai Shing West Estate",Kwai Tsing,,1317
+42,"Tower 3, LeightonHill",Wan Chai,,1319
+43,Panda Hotel,Tsuen Wan,,1320
+44,"Choi Foon House, Choi Fook Estate",Kwun Tong,,1321
+45,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1322
+46,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1323
+47,"Kwai Hei House, Kwai Fong Estate",Kwai Tsing,,1324
+48,Crowne Plaza Hong Kong Causeway Bay,Wan Chai,,1325
+49,Crowne Plaza Hong Kong Causeway Bay,Wan Chai,,1326
+50,"On Chung House, Shun On Estate",Kwun Tong,,1329
+51,"Pik Fung House, Fung Tak Estate",Wong Tai Sin,,1331
+52,"Pik Fung House, Fung Tak Estate",Wong Tai Sin,,1332
+53,"La Rossa A, Coastal Skyline",Islands,,1333
+54,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1334
+55,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1335
+56,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1336
+57,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1337
+58,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1338
+59,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1339
+60,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1340
+61,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1341
+62,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1342
+63,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1343
+64,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1344
+65,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1345
+66,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1346
+67,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1347
+68,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1348
+69,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1349
+70,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1350
+71,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1351
+72,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1352
+73,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1353
+74,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1354
+75,"Shin Chi House,ShinMing Estate",Sai Kung,,1356
+76,"Ching Fai House, Tsz Ching Estate",Wong Tai Sin,,1357
+77,"Ching Fai House, Tsz Ching Estate",Wong Tai Sin,,1358
+78,"Ching Fai House, Tsz Ching Estate",Wong Tai Sin,,1359
+79,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,,1360
+80,"Choi Wah House, Choi Fai Estate",Wong Tai Sin,,1361
+81,Crowne Plaza Hong Kong Causeway Bay,Wan Chai,,1362
+82,"Hoi Wen House , Hoi Fu Court",Yau Tsim Mong,,1364
+83,"On Hong House, Tsz On Court",Wong Tai Sin,,1365
+84,"Wing Loong Building,260-266 Castle Peak Road",Sham Shui Po,,1366
+85,Dragon Centre,Sham Shui Po,24/06/2020,"1233, 1263"
+86,Mei Tin Shopping Centre,Sha Tin,25/06/2020,1233
+87,On Tat ShoppingCentre North Wing,Kwun Tong,26/06/2020,1289
+88,Lei Cheng Uk Plaza,Sham Shui Po,29/06/2020,1289
+89,Hong Kong River Trade Terminal,Tuen Mun,30/06/2020,1269
+90,17-19 Man Wai Street 慶豐燒鵝餐廳小廚,Yau Tsim Mong,01/07/2020,1317
+91,Shing Wah Mansion Van Gogh Kitchen,Wan Chai,01/07/2020,1319
+92,"HA IT Block, Kowloon Hospital",Kowloon City,02/07/2020,1292
+93,Block 3 Tanner Garden,Eastern,02/07/2020,1296
+94,"Treasure World, Site 11, Whampoa Garden",Kowloon City,02/07/2020,1296
+95,113-115 Tung Choi Street,Yau Tsim Mong,02/07/2020,1296
+96,"Home World (Site 12), The Whampoa",Kowloon City,02/07/2020,1296
+97,Island Place,Eastern,02/07/2020,1296
+98,261 Castle Peak Road,Sham Shui Po,03/07/2020,1263
+99,Hong Kong Disneyland Hotel,Islands,03/07/2020,1292
+100,12A-12H Westlands RoadLadies & GentlemenRestaurant,Eastern,03/07/2020,1304
+101,DominionCentre,Wan Chai,03/07/2020,1319
+102,Hysan Place Ippudo HK,Wan Chai,03/07/2020,1319
+103,60 Yen Chow Street,Sham Shui Po,04/07/2020,1263
+104,Ma On Shan Plaza,Sha Tin,04/07/2020,1292
+105,LanghamPllace,Yau Tsim Mong,04/07/2020,1297
+106,30-36 Mongkok Road Mcdonald's,Yau Tsim Mong,04/07/2020,1305
+107,Diocesan Boys' School PrimaryDivision,Kowloon City,04/07/2020,1313
+108,PrudentialCentre Food Republic,Yau Tsim Mong,04/07/2020,1313
+109,Causeway Bay Plaza DeluxeDaikiyaJapanese Restaurant,Wan Chai,04/07/2020,1319
+110,Harbour City Shake Shack,Yau Tsim Mong,04/07/2020,1319
+111,5 Luard Road Feather & Bone,Wan Chai,04/07/2020,1319
+112,"Yuk Shek House, Ping Shek EstateBun Kee Congee & Noodle Foods",Kwun Tong,04/07/2020,"1269, 1283, 1291, 1297, 1361"
+113,Lek Yuen Shopping Centre,Sha Tin,05/07/2020,1293
+114,New Town Plaza,Sha Tin,05/07/2020,1294
+115,13 Tai Wai Road,Sha Tin,05/07/2020,1294
+116,Mongkok City Building,Yau Tsim Mong,05/07/2020,1304
+117,CommericalComplex Choi Wan Estate McDonald's,Wong Tai Sin,05/07/2020,1305
+118,RenaissanceHong Kong Harbour View Hotel,Wan Chai,05/07/2020,1313
+119,Tseun Wan Plaza Mou Mou Club,Tsuen Wan,05/07/2020,1313
+120,Lee Theatre Plaza The Graces Restaurant,Wan Chai,05/07/2020,1319
+121,26-38 Man Ying Street Sun Fat Restaurant,Yau Tsim Mong,05/07/2020,"1289, 1301, 1317, 1324, 1329"
+122,Kings Wing Plaza 1,Sha Tin,06/07/2020,1293
+123,Shui Chuen O Plaza,Sha Tin,06/07/2020,1294
+124,The Church of Christ in China Rotary Secondary School,Wong Tai Sin,06/07/2020,1295
+125,RichlandGarden Shopping Arcade,Tuen Mun,06/07/2020,1296
+126,Westlands Centre,Eastern,06/07/2020,1304
+127,Trade Square,Sham Shui Po,06/07/2020,1313
+128,60A Lung Chi Path 新志興至尊燒鵝大王,Wong Tai Sin,07/07/2020,1305
+129,Argyle Centre Phase 1,Yau Tsim Mong,07/07/2020,1315
+130,4-24 Ting Fu Street Ping Wheat Noodles,Kwun Tong,07/07/2020,1329
+131,Our Lady's College,Wong Tai Sin,07/07/2020,1331
+132,"No. 6, 8, 10, 12 Po Ming Lane & No. 11 Po Wai Lane",Wong Tai Sin,07/07/2020,"1310, 1311, 1312, 1321"

@@ -1,16 +1,16 @@
 ,District,BuildingName,LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
-0,Tsuen Wan,"Block 5, Lei Muk Shue Estate",1049,
-1,Tsuen Wan,"Cheuk Ming Building, 10 Tsuen Wan Market Street",1050,
-2,Yau Tsim Mong,"Block 8, Charming Garden",1050,
-3,Tsuen Wan,"Block 5, Lei Muk Shue Estate",1052,
-4,Islands,"Block 5, Le Bleu Deux",1053,
-5,Central & Western,PMQ,1053,06/05/2020
-6,Islands,35 Cheung Sha Ha Tsuen,1053,07/05/2020
-7,Tsuen Wan,"Cheuk Ming Building, 10 Tsuen Wan Market Street",1049,08/05/2020
-8,Tsuen Wan,9 San Tsuen Street,1049,08/05/2020
-9,Tsuen Wan,Hau Tei Square,1049,08/05/2020
-10,Tsuen Wan,32-34 Chuen Lung Street,1049,08/05/2020
-11,Tsuen Wan,Hang Seng Tsuen Wan Building,1050,09/05/2020
-12,Central & Western,Manning House,1053,09/05/2020
-13,Yau Tsim Mong,Olympian City 2,1050,10/05/2020
-14,Tsuen Wan,"Cheuk Ming Building, 10 Tsuen Wan Market Street",1052,11/05/2020
+0,"Block 5, Lei Muk Shue Estate",Tsuen Wan,,1049
+1,"Cheuk Ming Building, 10 Tsuen Wan Market Street",Tsuen Wan,,1050
+2,"Block 8, Charming Garden",Yau Tsim Mong,,1050
+3,"Block 5, Lei Muk Shue Estate",Tsuen Wan,,1052
+4,"Block 5, Le Bleu Deux",Islands,,1053
+5,PMQ,Central & Western,06/05/2020,1053
+6,35 Cheung Sha Ha Tsuen,Islands,07/05/2020,1053
+7,"Cheuk Ming Building, 10 Tsuen Wan Market Street",Tsuen Wan,08/05/2020,1049
+8,9 San Tsuen Street,Tsuen Wan,08/05/2020,1049
+9,Hau Tei Square,Tsuen Wan,08/05/2020,1049
+10,32-34 Chuen Lung Street,Tsuen Wan,08/05/2020,1049
+11,Hang Seng Tsuen Wan Building,Tsuen Wan,09/05/2020,1050
+12,Manning House,Central & Western,09/05/2020,1053
+13,Olympian City 2,Yau Tsim Mong,10/05/2020,1050
+14,"Cheuk Ming Building, 10 Tsuen Wan Market Street",Tsuen Wan,11/05/2020,1052

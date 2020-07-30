@@ -1,35 +1,35 @@
 ,District,BuildingName,LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
-0,Central & Western,Mier Serviced Apartments,132,
-1,Kowloon City,Pearl Court,351,
-2,Southern,Kam Fung Building,496,
-3,Wan Chai,The Park Lane Hong Kong,648,
-4,Wan Chai,The Emperor Hotel,648,
-5,Yau Tsim Mong,Royal Plaza Hotel,648,
-6,Yuen Long,"Block 4, Locwood Court, Kingswood Villas",876,
-7,Yau Tsim Mong,Prudential Hotel,949,
-8,Yau Tsim Mong,Imperial Hotel,949,
-9,Yau Tsim Mong,Best Western Plus Hotel Kowloon,949,
-10,Central & Western,"Harmony Court, 127 Bonham Strand",968,
-11,Kwai Tsing,"Fu Tai House, Tai Wo Hau Estate",1004,
-12,Kwai Tsing,Silka Tsuen Wan Hotel,1015,
-13,Wan Chai,CHI Residences 138,1017,
-14,Yau Tsim Mong,Metropark Hotel Mongkok,1018,
-15,Sham Shui Po,"Block 2, Cronin Garden",1018,
-16,Eastern,"Block F, Kornhill",1022,
-17,Islands,"Block 1, Seaview Crescent",1024,
-18,Kowloon City,"Block A, Lux Theatre Building",1025,
-19,Islands,"Hor Tung House, Yu Tung Court",1026,
-20,North,Louver Mansion,1034,
-21,Central & Western,3 Square Street,1035,
-22,Wan Chai,The Ellipsis,1036,
-23,Sham Shui Po,Shek Kip Mei Reporting Centre And PTU KW Operational Base,"663, 854",01/04/2020
-24,Eastern,Westlands Centre,"801, 960",01/04/2020
-25,Wan Chai,88 Gloucester Road,"923, 925",03/04/2020
-26,Central & Western,Shun Tak Centre,"923, 932",04/04/2020
-27,Wan Chai,Windsor House,"903, 925, 944",05/04/2020
-28,Southern,Marina Square East Centre,496,16/04/2020
-29,Sha Tin,Yu Chui Shopping Centre,1004,17/04/2020
-30,Tsuen Wan,Tai Wo Hau Commerical Centre 2,1004,20/04/2020
-31,Tsuen Wan,Smartland,1004,20/04/2020
-32,Central & Western,Mandarin Oriental Hotel,1036,21/04/2020
-33,Central & Western,the L. place,1036,21/04/2020
+0,Mier Serviced Apartments,Central & Western,,132
+1,Pearl Court,Kowloon City,,351
+2,Kam Fung Building,Southern,,496
+3,The Park Lane Hong Kong,Wan Chai,,648
+4,The Emperor Hotel,Wan Chai,,648
+5,Royal Plaza Hotel,Yau Tsim Mong,,648
+6,"Block 4, Locwood Court, Kingswood Villas",Yuen Long,,876
+7,Prudential Hotel,Yau Tsim Mong,,949
+8,Imperial Hotel,Yau Tsim Mong,,949
+9,Best Western Plus Hotel Kowloon,Yau Tsim Mong,,949
+10,"Harmony Court, 127 Bonham Strand",Central & Western,,968
+11,"Fu Tai House, Tai Wo Hau Estate",Kwai Tsing,,1004
+12,Silka Tsuen Wan Hotel,Kwai Tsing,,1015
+13,CHI Residences 138,Wan Chai,,1017
+14,Metropark Hotel Mongkok,Yau Tsim Mong,,1018
+15,"Block 2, Cronin Garden",Sham Shui Po,,1018
+16,"Block F, Kornhill",Eastern,,1022
+17,"Block 1, Seaview Crescent",Islands,,1024
+18,"Block A, Lux Theatre Building",Kowloon City,,1025
+19,"Hor Tung House, Yu Tung Court",Islands,,1026
+20,Louver Mansion,North,,1034
+21,3 Square Street,Central & Western,,1035
+22,The Ellipsis,Wan Chai,,1036
+23,Shek Kip Mei Reporting Centre And PTU KW Operational Base,Sham Shui Po,01/04/2020,"663, 854"
+24,Westlands Centre,Eastern,01/04/2020,"801, 960"
+25,88 Gloucester Road,Wan Chai,03/04/2020,"923, 925"
+26,Shun Tak Centre,Central & Western,04/04/2020,"923, 932"
+27,Windsor House,Wan Chai,05/04/2020,"903, 925, 944"
+28,Marina Square East Centre,Southern,16/04/2020,496
+29,Yu Chui Shopping Centre,Sha Tin,17/04/2020,1004
+30,Tai Wo Hau Commerical Centre 2,Tsuen Wan,20/04/2020,1004
+31,Smartland,Tsuen Wan,20/04/2020,1004
+32,Mandarin Oriental Hotel,Central & Western,21/04/2020,1036
+33,the L. place,Central & Western,21/04/2020,1036

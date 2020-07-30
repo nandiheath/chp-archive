@@ -1,0 +1,23 @@
+,District,BuildingName,LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
+0,"Hoi Shui House, Hoi Lai Estate",Sham Shui Po,,1066
+1,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1084
+2,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1085
+3,"Luen Yuet House, Kwai Luen Estate",Kwai Tsing,,1086
+4,"Luen Yuet House, Kwai Luen Estate",Kwai Tsing,,1087
+5,"Fook Hoi House, Lek Yuen Estate",Sha Tin,,1088
+6,Hin Tin Village,Sha Tin,,1088
+7,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1089
+8,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1090
+9,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1091
+10,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1092
+11,"Luk Chuen House, Lek Yuen Estate",Sha Tin,,1100
+12,Wai Wah Centre,Sha Tin,26/05/2020,1091
+13,Shatin Plaza,Sha Tin,26/05/2020,1091
+14,Kwai Shing East Shopping Centre,Kwai Tsing,29/05/2020,"1086, 1087"
+15,Festival Walk,Sham Shui Po,30/05/2020,1088
+16,Kerry TC Warehouse 1,Kwai Tsing,30/05/2020,"1084, 1086, 1087"
+17,Hilton Plaza,Sha Tin,31/05/2020,1090
+18,Lek Yuen Plaza,Sha Tin,01/06/2020,"1084, 1085, 1089, 1090, 1092"
+19,Wo Che Plaza,Sha Tin,01/06/2020,"1085, 1089, 1091"
+20,Lucky Plaza,Sha Tin,01/06/2020,"1089, 1091, 1092"
+21,Sha Tin Market,Sha Tin,01/06/2020,"1090, 1091, 1092"

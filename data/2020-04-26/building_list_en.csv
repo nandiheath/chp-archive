@@ -1,48 +1,48 @@
 ,District,BuildingName,LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
-0,Central & Western,"Mier, 8 Hospital Road",132,
-1,Kowloon City,Pearl Court,351,
-2,Southern,Kam Fung Building,496,
-3,Wan Chai,The Park Lane Hong Kong,648,
-4,Wan Chai,The Emperor Hotel,648,
-5,Yau Tsim Mong,Royal Plaza Hotel,648,
-6,Yuen Long,"Block 4, Locwood Court, Kingswood Villas",876,
-7,Yau Tsim Mong,Prudential Hotel,949,
-8,Yau Tsim Mong,Imperial Hotel,949,
-9,Yau Tsim Mong,Best Western Plus Hotel Kowloon,949,
-10,Central & Western,"Harmony Court, 127 Bonham Strand",968,
-11,Tuen Mun,"Block 1, Pine Villas",1002,
-12,Yuen Long,Yan Sau Wai,1003,
-13,Kwai Tsing,"Fu Tai House, Tai Wo Hau Estate",1004,
-14,Tuen Mun,"Block 8, Seaview Garden",1005,
-15,Sha Tin,"Block 2, Carado Garden",1007,
-16,Central & Western,"Block 3, Garden Terrace",1009,
-17,Tuen Mun,"Tower 11, Avignon",1013,
-18,Kwai Tsing,Silka Tsuen Wan Hotel,1015,
-19,Wan Chai,CHI Residences 138,1017,
-20,Yau Tsim Mong,Metropark Hotel Mongkok,1018,
-21,Sham Shui Po,"Block 2, Cronin Garden",1018,
-22,Eastern,"Block F, Kornhill",1022,
-23,Islands,"Block 1, Seaview Crescent",1024,
-24,Kowloon City,"Block A, Lux Theatre Building",1025,
-25,Islands,"Hor Tung House, Yu Tung Court",1026,
-26,North,Louver Mansion,1034,
-27,Central & Western,3 Square Street,1035,
-28,Wan Chai,The Ellipsis,1036,
-29,Kowloon City,"Tower 17, Laguna Verde",1038,
-30,Sham Shui Po,Shek Kip Mei Reporting Centre And PTU KW Operational Base,"663, 854",01/04/2020
-31,Eastern,Westlands Centre,"801, 960",01/04/2020
-32,Wan Chai,88 Gloucester Road,"923, 925",03/04/2020
-33,Central & Western,Shun Tak Centre,"923, 932",04/04/2020
-34,Wan Chai,Windsor House,"903, 925, 944",05/04/2020
-35,Wan Chai,4 Yiu Wa Street,648,12/04/2020
-36,Wan Chai,Lei Wen Court,648,12/04/2020
-37,Tuen Mun,Gold Coast Yacht and Country Club,1013,12/04/2020
-38,Wan Chai,Hong Kong Sanatorium & Hospital,1013,12/04/2020
-39,Wan Chai,Hong Kong Sanatorium & Hospital,1022,13/04/2020
-40,Eastern,Cityplaza,1022,14/04/2020
-41,Southern,Marina Square East Centre,496,16/04/2020
-42,Sha Tin,Yu Chui Shopping Centre,1004,17/04/2020
-43,Tsuen Wan,Tai Wo Hau Commerical Centre 2,1004,20/04/2020
-44,Tsuen Wan,Smartland,1004,20/04/2020
-45,Central & Western,Mandarin Oriental Hotel,1036,21/04/2020
-46,Central & Western,the L. place,1036,21/04/2020
+0,"Mier, 8 Hospital Road",Central & Western,,132
+1,Pearl Court,Kowloon City,,351
+2,Kam Fung Building,Southern,,496
+3,The Park Lane Hong Kong,Wan Chai,,648
+4,The Emperor Hotel,Wan Chai,,648
+5,Royal Plaza Hotel,Yau Tsim Mong,,648
+6,"Block 4, Locwood Court, Kingswood Villas",Yuen Long,,876
+7,Prudential Hotel,Yau Tsim Mong,,949
+8,Imperial Hotel,Yau Tsim Mong,,949
+9,Best Western Plus Hotel Kowloon,Yau Tsim Mong,,949
+10,"Harmony Court, 127 Bonham Strand",Central & Western,,968
+11,"Block 1, Pine Villas",Tuen Mun,,1002
+12,Yan Sau Wai,Yuen Long,,1003
+13,"Fu Tai House, Tai Wo Hau Estate",Kwai Tsing,,1004
+14,"Block 8, Seaview Garden",Tuen Mun,,1005
+15,"Block 2, Carado Garden",Sha Tin,,1007
+16,"Block 3, Garden Terrace",Central & Western,,1009
+17,"Tower 11, Avignon",Tuen Mun,,1013
+18,Silka Tsuen Wan Hotel,Kwai Tsing,,1015
+19,CHI Residences 138,Wan Chai,,1017
+20,Metropark Hotel Mongkok,Yau Tsim Mong,,1018
+21,"Block 2, Cronin Garden",Sham Shui Po,,1018
+22,"Block F, Kornhill",Eastern,,1022
+23,"Block 1, Seaview Crescent",Islands,,1024
+24,"Block A, Lux Theatre Building",Kowloon City,,1025
+25,"Hor Tung House, Yu Tung Court",Islands,,1026
+26,Louver Mansion,North,,1034
+27,3 Square Street,Central & Western,,1035
+28,The Ellipsis,Wan Chai,,1036
+29,"Tower 17, Laguna Verde",Kowloon City,,1038
+30,Shek Kip Mei Reporting Centre And PTU KW Operational Base,Sham Shui Po,01/04/2020,"663, 854"
+31,Westlands Centre,Eastern,01/04/2020,"801, 960"
+32,88 Gloucester Road,Wan Chai,03/04/2020,"923, 925"
+33,Shun Tak Centre,Central & Western,04/04/2020,"923, 932"
+34,Windsor House,Wan Chai,05/04/2020,"903, 925, 944"
+35,4 Yiu Wa Street,Wan Chai,12/04/2020,648
+36,Lei Wen Court,Wan Chai,12/04/2020,648
+37,Gold Coast Yacht and Country Club,Tuen Mun,12/04/2020,1013
+38,Hong Kong Sanatorium & Hospital,Wan Chai,12/04/2020,1013
+39,Hong Kong Sanatorium & Hospital,Wan Chai,13/04/2020,1022
+40,Cityplaza,Eastern,14/04/2020,1022
+41,Marina Square East Centre,Southern,16/04/2020,496
+42,Yu Chui Shopping Centre,Sha Tin,17/04/2020,1004
+43,Tai Wo Hau Commerical Centre 2,Tsuen Wan,20/04/2020,1004
+44,Smartland,Tsuen Wan,20/04/2020,1004
+45,Mandarin Oriental Hotel,Central & Western,21/04/2020,1036
+46,the L. place,Central & Western,21/04/2020,1036

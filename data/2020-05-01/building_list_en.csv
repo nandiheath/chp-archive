@@ -1,27 +1,27 @@
 ,District,BuildingName,LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
-0,Kowloon City,Pearl Court,351,
-1,Southern,Kam Fung Building,496,
-2,Wan Chai,The Park Lane Hong Kong,648,
-3,Wan Chai,The Emperor Hotel,648,
-4,Yau Tsim Mong,Royal Plaza Hotel,648,
-5,Yuen Long,"Block 4, Locwood Court, Kingswood Villas",876,
-6,Yau Tsim Mong,Prudential Hotel,949,
-7,Yau Tsim Mong,Imperial Hotel,949,
-8,Yau Tsim Mong,Best Western Plus Hotel Kowloon,949,
-9,Central & Western,"Harmony Court, 127 Bonham Strand",968,
-10,Kwai Tsing,"Fu Tai House, Tai Wo Hau Estate",1004,
-11,Eastern,"Block F, Kornhill",1022,
-12,Islands,"Block 1, Seaview Crescent",1024,
-13,Kowloon City,"Block A, Lux Theatre Building",1025,
-14,Islands,"Hor Tung House, Yu Tung Court",1026,
-15,North,Louver Mansion,1034,
-16,Central & Western,3 Square Street,1035,
-17,Wan Chai,The Ellipsis,1036,
-18,Wan Chai,88 Gloucester Road,"923, 925",03/04/2020
-19,Central & Western,Shun Tak Centre,"923, 932",04/04/2020
-20,Wan Chai,Windsor House,"903, 925, 944",05/04/2020
-21,Sha Tin,Yu Chui Shopping Centre,1004,17/04/2020
-22,Tsuen Wan,Tai Wo Hau Commerical Centre 2,1004,20/04/2020
-23,Tsuen Wan,Smartland,1004,20/04/2020
-24,Central & Western,Mandarin Oriental Hotel,1036,21/04/2020
-25,Central & Western,the L. place,1036,21/04/2020
+0,Pearl Court,Kowloon City,,351
+1,Kam Fung Building,Southern,,496
+2,The Park Lane Hong Kong,Wan Chai,,648
+3,The Emperor Hotel,Wan Chai,,648
+4,Royal Plaza Hotel,Yau Tsim Mong,,648
+5,"Block 4, Locwood Court, Kingswood Villas",Yuen Long,,876
+6,Prudential Hotel,Yau Tsim Mong,,949
+7,Imperial Hotel,Yau Tsim Mong,,949
+8,Best Western Plus Hotel Kowloon,Yau Tsim Mong,,949
+9,"Harmony Court, 127 Bonham Strand",Central & Western,,968
+10,"Fu Tai House, Tai Wo Hau Estate",Kwai Tsing,,1004
+11,"Block F, Kornhill",Eastern,,1022
+12,"Block 1, Seaview Crescent",Islands,,1024
+13,"Block A, Lux Theatre Building",Kowloon City,,1025
+14,"Hor Tung House, Yu Tung Court",Islands,,1026
+15,Louver Mansion,North,,1034
+16,3 Square Street,Central & Western,,1035
+17,The Ellipsis,Wan Chai,,1036
+18,88 Gloucester Road,Wan Chai,03/04/2020,"923, 925"
+19,Shun Tak Centre,Central & Western,04/04/2020,"923, 932"
+20,Windsor House,Wan Chai,05/04/2020,"903, 925, 944"
+21,Yu Chui Shopping Centre,Sha Tin,17/04/2020,1004
+22,Tai Wo Hau Commerical Centre 2,Tsuen Wan,20/04/2020,1004
+23,Smartland,Tsuen Wan,20/04/2020,1004
+24,Mandarin Oriental Hotel,Central & Western,21/04/2020,1036
+25,the L. place,Central & Western,21/04/2020,1036
