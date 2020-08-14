@@ -1,0 +1,38 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,FlightNumber,RelatedConfirmed/ProbableCase(s),Relatedprobable/confirmedcases,SeatNumber*(ifknown),Train/Ship/Vehiclenumber
+0,25/07/2020,,Manila,CX906,2614,,65C,
+1,26/07/2020,,Doha,QR818,2731,,27K,
+2,26/07/2020,,Moscow,RU645,2780,,Cabin crew,
+3,26/07/2020,,Manila,CX906,2781,,62K,
+4,26/07/2020,,Manila,CX906,2885,,65C,
+5,26/07/2020,,Addis Ababa,ETH3716,2930,,Cabin crew,
+6,26/07/2020,,Jakarta,CX798,Overseas case,,17K,
+7,26/07/2020,,Jakarta,CX798,Overseas case,,18K,
+8,26/07/2020,,Manila,CX906,Overseas case,,31J,
+9,27/07/2020,,Vancouver,AC007,2892,,25K,
+10,27/07/2020,,Doha,QR818,2931,,23H,
+11,27/07/2020,,Manila,CX906,2971,,62G,
+12,27/07/2020,,Manila,CX906,2977,,69K,
+13,28/07/2020,,Manila,ET644,3004,,Cabin crew,
+14,29/07/2020,,Doha,QR818,3006,,40D,
+15,29/07/2020,,Amsterdam,KL887,3255,,10C,
+16,31/07/2020,,London,CX252,3282,,Unknown,
+17,31/07/2020,,Manila,CX906,Overseas case,,74G,
+18,01/08/2020,,Jakarta,CX798,3513,,Cabin crew,
+19,02/08/2020,,London,BA031,3591,,37C,
+20,02/08/2020,,Manila,ET645,3592,,Cabin crew,
+21,04/08/2020,,New Delhi,AI310,3796,,20F,
+22,04/08/2020,,New Delhi,AI310,3797,,23C,
+23,04/08/2020,,New Delhi,AI310,3798,,22C,
+24,04/08/2020,,New Delhi,AI310,4008,,12F,
+25,05/08/2020,,Singapore,SQ890,3851,,53J,
+26,05/08/2020,,Singapore,SQ890,3852,,53K,
+27,05/08/2020,,Amsterdam,KL887,3853,,1A,
+28,05/08/2020,,Amsterdam,KL887,3854,,1C,
+29,05/08/2020,,Doha,QR818,3863,,38H,
+30,05/08/2020,,Manila,CX906,3887,,46D,
+31,05/08/2020,,Singapore,SQ890,3944,,53H,
+32,,22-24/07/2020 & 28-31/07/2020 25/07/2020,,,,3550,,Taxi SK3360
+33,,25/07/2020 01/08/2020,,,,2981,,Taxi KD6323
+34,,01/08/2020 03/08/2020,,,,3911,,Taxi HF8999
+35,,03/08/2020 04/08/2020,,,,3911,,Taxi CM3870
+36,,04/08/2020,,,,3911,,Taxi MN7894

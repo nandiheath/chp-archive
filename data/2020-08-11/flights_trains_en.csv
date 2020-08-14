@@ -1,0 +1,28 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,FlightNumber,RelatedConfirmed/ProbableCase(s),Relatedprobable/confirmedcases,SeatNumber*(ifknown),Train/Ship/Vehiclenumber
+0,28/07/2020,,Manila,ET644,3004,,Cabin crew,
+1,29/07/2020,,Doha,QR818,3006,,40D,
+2,29/07/2020,,Amsterdam,KL887,3255,,10C,
+3,31/07/2020,,London,CX252,3282,,Unknown,
+4,31/07/2020,,Manila,CX906,Overseas case,,74G,
+5,01/08/2020,,Jakarta,CX798,3513,,Cabin crew,
+6,02/08/2020,,London,BA031,3591,,37C,
+7,02/08/2020,,Manila,ET645,3592,,Cabin crew,
+8,04/08/2020,,New Delhi,AI310,3796,,20F,
+9,04/08/2020,,New Delhi,AI310,3797,,23C,
+10,04/08/2020,,New Delhi,AI310,3798,,22C,
+11,04/08/2020,,New Delhi,AI310,4008,,12F,
+12,05/08/2020,,Singapore,SQ890,3851,,53J,
+13,05/08/2020,,Singapore,SQ890,3852,,53K,
+14,05/08/2020,,Amsterdam,KL887,3853,,1A,
+15,05/08/2020,,Amsterdam,KL887,3854,,1C,
+16,05/08/2020,,Doha,QR818,3863,,38H,
+17,05/08/2020,,Manila,CX906,3887,,46D,
+18,05/08/2020,,Singapore,SQ890,3944,,53H,
+19,05/08/2020,,Singapore,SQ890,4120,,53E,
+20,07/08/2020,,Bangkok,ET608,4014,,C1,
+21,07/08/2020,,Manila,CX906,4025,,69D,
+22,10/08/2020,,Doha,QR818,4182,,37G,
+23,,22-24/07/2020 & 28-31/07/2020 01/08/2020,,,,3550,,Taxi SK3360
+24,,01/08/2020 03/08/2020,,,,3911,,Taxi HF8999
+25,,03/08/2020 04/08/2020,,,,3911,,Taxi CM3870
+26,,04/08/2020,,,,3911,,Taxi MN7894

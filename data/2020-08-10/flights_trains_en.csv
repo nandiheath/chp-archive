@@ -1,0 +1,31 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,FlightNumber,RelatedConfirmed/ProbableCase(s),Relatedprobable/confirmedcases,SeatNumber*(ifknown),Train/Ship/Vehiclenumber
+0,27/07/2020,,Vancouver,AC007,2892,,25K,
+1,27/07/2020,,Doha,QR818,2931,,23H,
+2,27/07/2020,,Manila,CX906,2971,,62G,
+3,27/07/2020,,Manila,CX906,2977,,69K,
+4,28/07/2020,,Manila,ET644,3004,,Cabin crew,
+5,29/07/2020,,Doha,QR818,3006,,40D,
+6,29/07/2020,,Amsterdam,KL887,3255,,10C,
+7,31/07/2020,,London,CX252,3282,,Unknown,
+8,31/07/2020,,Manila,CX906,Overseas case,,74G,
+9,01/08/2020,,Jakarta,CX798,3513,,Cabin crew,
+10,02/08/2020,,London,BA031,3591,,37C,
+11,02/08/2020,,Manila,ET645,3592,,Cabin crew,
+12,04/08/2020,,New Delhi,AI310,3796,,20F,
+13,04/08/2020,,New Delhi,AI310,3797,,23C,
+14,04/08/2020,,New Delhi,AI310,3798,,22C,
+15,04/08/2020,,New Delhi,AI310,4008,,12F,
+16,05/08/2020,,Singapore,SQ890,3851,,53J,
+17,05/08/2020,,Singapore,SQ890,3852,,53K,
+18,05/08/2020,,Amsterdam,KL887,3853,,1A,
+19,05/08/2020,,Amsterdam,KL887,3854,,1C,
+20,05/08/2020,,Doha,QR818,3863,,38H,
+21,05/08/2020,,Manila,CX906,3887,,46D,
+22,05/08/2020,,Singapore,SQ890,3944,,53H,
+23,05/08/2020,,Singapore,SQ890,4120,,53E,
+24,07/08/2020,,Bangkok,ET608,4014,,C1,
+25,07/08/2020,,Manila,CX906,4025,,69D,
+26,,22-24/07/2020 & 28-31/07/2020 01/08/2020,,,,3550,,Taxi SK3360
+27,,01/08/2020 03/08/2020,,,,3911,,Taxi HF8999
+28,,03/08/2020 04/08/2020,,,,3911,,Taxi CM3870
+29,,04/08/2020,,,,3911,,Taxi MN7894
