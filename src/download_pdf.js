@@ -3,7 +3,6 @@ const request = require('request');
 const moment = require('moment-timezone');
 const mkdirp = require('mkdirp');
 const path = require('path');
-const { transformLocalSituation } = require('./src/pdf2csv');
 // https://www.chp.gov.hk/files/pdf/building_list_chi.pdf
 // https://www.chp.gov.hk/files/pdf/building_list_eng.pdf
 // https://www.chp.gov.hk/files/pdf/flights_trains_tc.pdf
@@ -42,28 +41,6 @@ const downloadPdf = async (folder, filename, url) => {
   })
 }
 
-const generateHtml = () => {
-  const folders = fs.readdirSync('data');
-  const paths = [];
-  folders.forEach(dir => {
-    const stat = fs.statSync('data/' + dir);
-    if (!stat.isDirectory()) {
-      return;
-    }
-    const dateDir = fs.readdirSync('data/' + dir);
-    dateDir.forEach(file => {
-      paths.push({
-        date: dir,
-        file,
-        path: `data/${dir}/${file}`
-      });
-    })
-  })
-
-  const html = `<ul>${paths.map(p => `<li><a href="${p.path}">${p.date}/${p.file}</a></li>`).join('')}</ul>`
-  fs.writeFileSync('index.html', fs.readFileSync('index.html.template').toString().replace('__TEMPLATE__', html));
-}
-
 const run = async () => {
   const today = moment().tz("Asia/Hong_Kong").format('YYYY-MM-DD');
   await downloadPdf(`data/${today}`, 'building_list_chi.pdf', 'https://www.chp.gov.hk/files/pdf/building_list_chi.pdf');
@@ -73,13 +50,6 @@ const run = async () => {
   await downloadPdf(`data/${today}`, 'local_situation_covid19_tc.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf');
   await downloadPdf(`data/${today}`, 'local_situation_covid19_en.pdf', 'https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf');
   await downloadPdf(`data/${today}`, 'statistics_on_covid_19_testing.pdf', 'https://www.chp.gov.hk/files/pdf/statistics_on_covid_19_testing.pdf');
-
-  // await transformLocalSituation(`data/${today}/local_situation_covid19_tc.pdf`, `data/${today}/local_situation_covid19_tc.csv`);
-  // await transformLocalSituation(`data/${today}/local_situation_covid19_en.pdf`, `data/${today}/local_situation_covid19_en.csv`);
-
-  // await uploadCSV(`data/${today}/local_situation_covid19_tc.csv`);
-  // await uploadCSV(`data/${today}/local_situation_covid19_en.csv`);
-  generateHtml();
 }
 
 // don't cache. throw the error to let travis know

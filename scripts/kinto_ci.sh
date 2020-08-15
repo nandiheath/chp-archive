@@ -4,22 +4,21 @@
 setup_git() {
   git config --global user.email "ci@kintohub.com"
   git config --global user.name "Kinto CI"
+
+
+  # update to the latest changes
+  git fetch  
+  git pull
 }
 
 commit_data() {
-  git fetch
-  
-  git checkout master
-  
-  git pull
-
   git status
   # Current month and year, e.g: Apr 2018
   dateAndMonth=`date "+%b %Y"`
   # Stage the modified files in dist/output
   git add -f data
 
-  git add index.html
+  git add -f index.html
   # Create a new commit with a custom build message
   # with "[skip ci]" to avoid a build loop
   # and Travis build number for reference
@@ -33,13 +32,15 @@ upload_files() {
 
 setup_git
 
+yarn download
+
 cd data 
 
 python extract_chp_share_case.py
 
 cd ..
 
-node run.js
+yarn publish
 
 commit_data
 
