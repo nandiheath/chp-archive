@@ -1,4 +1,4 @@
-name: Node Build
+name: Upload CSV
 
 on:
   push:
@@ -24,4 +24,7 @@ jobs:
     - run: yarn install
     - run: yarn upload
       with:
-        super_secret: ${{ secrets.SuperSecret }}
+        GCLOUD_PROJECT: ${{ secrets.GCLOUD_PROJECT }}
+        CREDENTIAL_JSON: ${{ secrets.CREDENTIAL_JSON }}
+        GOOGLE_APPLICATION_CREDENTIALS: ./tmp/credential.json
+        SPREADSHEET_ID: 1DD8OGWY-6f9oN0hkEH7kTnPk66km0jJls_gVoYxdAb0
