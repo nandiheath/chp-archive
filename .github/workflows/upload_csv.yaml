@@ -23,7 +23,7 @@ jobs:
         node-version: 14
     - run: yarn install
     - run: yarn upload
-      with:
+      env:
         GCLOUD_PROJECT: ${{ secrets.GCLOUD_PROJECT }}
         CREDENTIAL_JSON: ${{ secrets.CREDENTIAL_JSON }}
         GOOGLE_APPLICATION_CREDENTIALS: ./tmp/credential.json
