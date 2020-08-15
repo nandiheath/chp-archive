@@ -6,7 +6,8 @@
   "author": "Nandiheath <nandi0315@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "run": "node run.js",
+    "download": "node src/download_pdf.js",
+    "publish": "node src/generate_html.js",
     "upload": "node src/upload_csv.js"
   },
   "dependencies": {
