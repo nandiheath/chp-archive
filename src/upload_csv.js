@@ -25,7 +25,7 @@ const main = async () => {
         spreadsheetId: process.env.SPREADSHEET_ID,
         sheetName: date,
         columnMap: [
-          1, 9, 1, 1
+          1, 9, 1, 1, 2
         ],
         headers: [
           'enabled',
@@ -47,7 +47,7 @@ const main = async () => {
         spreadsheetId: process.env.SPREADSHEET_ID,
         sheetName: date,
         columnMap: [
-          1, 6, 2, 8, 1
+          1, 6, 8, 1, 2
         ],
         headers: [
           'enabled',
