@@ -11,19 +11,62 @@ const { uploadCSV } = require('./google-uploader');
 const DATA_DIR = './data';
 
 const main = async () => {
-  const yesterday = moment().add(-2, 'day').format('YYYY-MM-DD');
-  const yesterdayDir = path.join(DATA_DIR, yesterday);
-  if (!fs.existsSync(yesterdayDir)) {
-    console.error('The file for yesterday does not ready yet.')
-    process.exit(0);
+  for (let i = 5; i >= 0; i--) {
+    const date = moment().add(- i, 'day').format('YYYY-MM-DD');
+    const dateDir = path.join(DATA_DIR, date);
+    if (!fs.existsSync(dateDir)) {
+      continue;
+    }
+
+    const buildingListEn = path.join(dateDir, 'building_list_en.csv');
+
+    try {
+      await uploadCSV(buildingListEn, {
+        spreadsheetId: process.env.SPREADSHEET_ID,
+        sheetName: date,
+        columnMap: [
+          1, 9, 1, 1
+        ],
+        headers: [
+          'enabled',
+          'case_no',
+          'start_date',
+          'start_time_period',
+          'end_date', 'type',
+          'sub_district_zh', ' ', 'location_zh',
+          'location_en', 'action_zh', 'action_en',
+          'remarks_zh', 'remarks_en', 'lat', 'lng',
+          'source_url_1', 'source_url_2', 'source_file_date', 'source_file_type'
+        ],        
+      });
+
+      const buildingListZh = path.join(dateDir, 'building_list_tc.csv');
+
+
+      await uploadCSV(buildingListZh, {
+        spreadsheetId: process.env.SPREADSHEET_ID,
+        sheetName: date,
+        columnMap: [
+          1, 6, 2, 8, 1
+        ],
+        headers: [
+          'enabled',
+          'case_no',
+          'start_date',
+          'start_time_period',
+          'end_date', 'type',
+          'sub_district_zh', ' ', 'location_zh',
+          'location_en', 'action_zh', 'action_en',
+          'remarks_zh', 'remarks_en', 'lat', 'lng',
+          'source_url_1', 'source_url_2', 'source_file_date', 'source_file_type'
+        ],
+      });
+    } catch (error) {
+      console.error(`cannot upload ${date}`);
+      console.error(error);
+    }
   }
 
-  const buildingListEn = path.join(yesterdayDir, 'building_list_en.csv');
-
-  await uploadCSV(buildingListEn, {
-    spreadsheetId: process.env.SPREADSHEET_ID,
-    sheetName: yesterday
-  });
 }
 
 main()
