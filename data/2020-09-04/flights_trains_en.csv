@@ -1,0 +1,25 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,BG078,Dhaka,41A,21/08/2020,4659,,,
+1,PR300,Manila,57A,21/08/2020,Overseas case,,,
+2,LX138,Zurich,34J,23/08/2020,4687,,,
+3,EK384,Bangkok,28A,23/08/2020,4698,,,
+4,CX906,Manila,50C,24/08/2020,4847,,,
+5,CX906,Manila,50A,24/08/2020,4848,,,
+6,EK384,Dubai,44E,24/08/2020,4849,,,
+7,TK070,Istanbul,14C,25/08/2020,4736,,,
+8,ET3703,Addis Ababa,Cabin Crew,25/08/2020,4737,,,
+9,QR818,Doha,27C,26/08/2020,4750,,,
+10,EK384,Bangkok,Unknown,26/08/2020,4775,,,
+11,HX782,Manila,60G,28/08/2020,4782,,,
+12,CX906,Manila,68F,28/08/2020,4793,,,
+13,CX906,Manila,72G,28/08/2020,4794,,,
+14,KA734,Kuala Lumpur,61C,28/08/2020,4795,,,
+15,KA734,Kuala Lumpur,61A,28/08/2020,4796,,,
+16,CX5734,Kuala Lumpur,34C,28/08/2020,4797,,,
+17,KA734,Kuala Lumpur,61B,28/08/2020,4821,,,
+18,CX906,Manila,40G,29/08/2020,4804,,,
+19,QR818,Doha,32A,02/09/2020,4836,,,
+20,GA876,Jakarta,43G,02/09/2020,4842,,,
+21,,,,,,Taxi TS473 (morning shift),"14/08/2020, 18-21/08/2020 & 24-27/08/2020",4788
+22,,,,,,Taxi UW3237 (morning shift),21/08/2020,4742
+23,,,,,,Taxi RY9747 (night shift),21/08/2020,4755
