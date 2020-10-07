@@ -1,0 +1,99 @@
+,District,BuildingName,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
+0,Islands,Hong Kong SkyCity Marriott Hotel,5048,
+1,Tuen Mun,"Tai Sang House, Kin Sang Estate",5049,
+2,Kowloon City,"Block A, Fok Lin Building",5050,
+3,Islands,Hong Kong SkyCity Marriott Hotel,5051,
+4,Wan Chai,Dorsett Wanchai,5052,
+5,Wan Chai,Dorsett Wanchai,5053,
+6,Yau Tsim Mong,"Silka Seaview, Hong Kong",5054,
+7,Yuen Long,"Block 7, Kenswood Court, Kingswood Villas",5056,
+8,Tuen Mun,"Tai Sang House, Kin Sang Estate",5057,
+9,Islands,Hong Kong SkyCity Marriott Hotel,5060,
+10,Kwai Tsing,Dorsett Tsuen Wan,5062,
+11,Central & Western,Tai Hing Building,5063,
+12,Sham Shui Po,Hang Cheong Building,5064,
+13,Yau Tsim Mong,The Luxe Manor,5066,
+14,Kowloon City,Hung Hing Court,5071,
+15,Sha Tin,"Lung Yiu House, Kam Lung Court",5072,
+16,Wan Chai,Dorsett Wanchai,5076,
+17,Yau Tsim Mong,Best Western PLUS Hotel Kowloon,5079,
+18,Yau Tsim Mong,Best Western PLUS Hotel Kowloon,5080,
+19,Yau Tsim Mong,Novotel Nathan Road Kowloon Hong Kong,5081,
+20,Islands,Hong Kong SkyCity Marriott Hotel,5082,
+21,Yuen Long,Fung Cheung Building,5083,
+22,Yau Tsim Mong,Harbour Plaza Metropolis,5084,
+23,Yau Tsim Mong,"Silka Seaview, Hong Kong",5085,
+24,Yau Tsim Mong,Best Western PLUS Hotel Kowloon,5086,
+25,Central & Western,Po Hing Court,5095,
+26,Yau Tsim Mong,Harbour Bay Hotel,5096,
+27,Yau Tsim Mong,"Tower 2, The Hermitage",5097,
+28,Yau Tsim Mong,Fook Kiu Mansion,5098,
+29,Kwun Tong,Dorsett KwunTong,5098,
+30,Kwun Tong,Hotel COZi Harbour View,5098,
+31,Islands,Hong Kong SkyCity Marriott Hotel,5099,
+32,Wan Chai,Glory House,5102,
+33,Yau Tsim Mong,Wai Yuen Building,5104,
+34,Eastern,Ramada Hong Kong Grand View,5105,
+35,Sha Tin,"Tower 2, Greenheight Villa",5107,
+36,Yau Tsim Mong,Best Western PLUS Hotel Kowloon,5110,
+37,Yau Tsim Mong,Lap Tak House,5110,
+38,Kwai Tsing,"Wang Yung House, Cheung Wang Estate",5111,
+39,Sha Tin,"Tower 2, Greenheight Villa",5112,
+40,Islands,Hong Kong SkyCity Marriott Hotel,5113,
+41,Yau Tsim Mong,Kimberley Hotel,5114,
+42,Kwai Tsing,"Block 5, Rambler Crest",5122,
+43,Yau Tsim Mong,Holly Mansion,5123,
+44,Yau Tsim Mong,Stanford Hillview Hotel,5123,
+45,Yau Tsim Mong,Lap Tak House,5124,
+46,Yau Tsim Mong,Lap Tak House,5125,
+47,Eastern,Wealthy Court,5126,
+48,Yau Tsim Mong,The Kimberley Hotel,5130,
+49,Yau Tsim Mong,Holly Mansion,5130,
+50,Yau Tsim Mong,177A Portland Street,5131,
+51,Wan Chai,Fasteem Mansion,5132,
+52,Tuen Mun,"Block 15, Lung Mun Oasis",5133,
+53,Yau Tsim Mong,"Block 3, Prosperous Garden",5136,
+54,Tuen Mun,"Block 6, Po Tin Estate",5137,
+55,Kwai Tsing,Kwok Po Building,5140,
+56,Yau Tsim Mong,The Royal Garden,5141,
+57,Sai Kung,"Kin Ching House, Kin Ming Estate",5143,
+58,Sai Kung,"Kin Ching House, Kin Ming Estate",5144,
+59,Yau Tsim Mong,Wah Yuen Factory Building,"4185, 4294, 4710, 4918, 4939, 4941",09/09/2020
+60,Tsuen Wan,Hang Seng Tsuen Wan Building,"4938, 4965",09/09/2020
+61,Sham Shui Po,Un Chau Shopping Centre,"4498, 4586, 4957",11/09/2020
+62,Kowloon City,75 Waterloo Road,"4956, 4967",11/09/2020
+63,Sham Shui Po,Po On Road Municipal Services Building,"2234, 2410, 2728, 2924, 3351, 3831, 3992, 4115, 4226, 4291, 4840, 4983",12/09/2020
+64,Tuen Mun,H.A.N.D.S. Do Shing Restaurant,"4968, 4969, 4972",13/09/2020
+65,Yau Tsim Mong,Langham Place,"1297, 1641, 2008, 2186, 3296, 3369, 3386, 3826, 4447, 4573, 4841, 4996",14/09/2020
+66,Sha Tin,Transport City Building,"4824, 4854, 4881, 4884, 4888, 4892, 4977",15/09/2020
+67,Tuen Mun,H.A.N.D.S.,"4820, 4894, 4927, 4948, 4968, 4969, 5002",16/09/2020
+68,Tsuen Wan,Goodman Global Gateway,"4933, 5008, 5059",18/09/2020
+69,Tuen Mun,San Hui Market,5049,21/09/2020
+70,Kowloon City,Po Sun Mansion,5050,21/09/2020
+71,Tuen Mun,113 Tuen Mun Heung Sze Wui Road,"5049, 5057",21/09/2020
+72,Yau Tsim Mong,Lee Chau Commerical Building China Secret,"5098, 5107, 5141",23/09/2020
+73,Kwai Tsing,Chiap Luen Industrial Building,5122,28/09/2020
+74,Kwai Tsing,Kowloon Commerce Centre Oliver's Super Sandwich,5122,28/09/2020
+75,Kowloon City,39-43 Hau Wong Road,"4938, 4965, 5098",28/09/2020
+76,Central & Western,IFC Mall Mu-ni by La Bombance,5102,29/09/2020
+77,Sai Kung,Hong Kong Institute of Vocational Education (Lee Wai Lee),5107,29/09/2020
+78,Kwai Tsing,Cheung Fat Plaza,5111,29/09/2020
+79,Kwai Tsing,Maritime Square,5111,29/09/2020
+80,Tuen Mun,22 & 28 Yan Oi Tong Circuit 高富餐廳,5133,29/09/2020
+81,Kowloon City,"David C Lee Building, Hong Kong Baptist University",5143,29/09/2020
+82,Kowloon City,"Academic and Administration Building, Hong Kong Baptist University",5143,30/09/2020
+83,Yuen Long,Wing Fung Building Total Dessert,5133,01/10/2020
+84,Eastern,Cityplaza,5126,02/10/2020
+85,Eastern,City Garden Sour and Spicy Noodle,5126,02/10/2020
+86,Kwun Tong,APM TeaWood Taiwanese Café & Restaurant,5135,02/10/2020
+87,Kwun Tong,Shui Wo Street Municipal Services Building,5135,02/10/2020
+88,Kwun Tong,Lei Yue Mun Municipal Services Building,"2634, 2647, 2656, 3908, 4800, 4928, 5135",02/10/2020
+89,Yau Tsim Mong,The Royal Garden Le Soleil,5132,03/10/2020
+90,Tuen Mun,Yan Oi Tong Cheng Yiu Yuen Memorial Fitness Centre,5133,03/10/2020
+91,Tuen Mun,Eldo Shopping Centre Tamjai Samgor,5133,03/10/2020
+92,Yau Tsim Mong,Wing On Kowloon Centre Golden Federal Restaurant,5136,03/10/2020
+93,Tuen Mun,Kam Men Mansion Kam Ming Congee & Noodles,5133,04/10/2020
+94,Tuen Mun,Lung Mun Oasis The Vermicelli House,5133,04/10/2020
+95,Yau Tsim Mong,158 Sai Yeung Choi Street South,5135,04/10/2020
+96,Yau Tsim Mong,"27 B & C, Soy Street",5136,04/10/2020
+97,Wan Chai,Hong Kong Sanatorium & Hospital,"5135, 5136, 5137",05/10/2020
