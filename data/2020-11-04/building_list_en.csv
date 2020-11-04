@@ -1,4 +1,4 @@
-,District,BuildingName,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s),"KwongYeeHouse,KwongFukEstate",5336,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s)
+,District,BuildingName,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s),"WaiTauTsuen,TaiPo",5332,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s)
 0,Islands,Regal Airport Hotel,5263,,,,
 1,Wan Chai,Mini Hotel Causeway Bay,5269,,,,
 2,Central & Western,Bishop Lei International House,5270,,,,
@@ -28,49 +28,50 @@
 26,Wan Chai,The Charterhouse Causeway Bay,5326,,,,
 27,Islands,Novotel Citygate Hong Kong,5328,,,,
 28,Yau Tsim Mong,Oriental Lander Hotel,5331,,,,
-29,Islands,Seaview Holiday Resort,5332,,,,
-30,Tai Po,"Wai Tau Tsuen, Tai Po",5332,,,,
-31,,,,Tai Po,Wai Tau Tsuen,5337,
-32,,,,Tai Po,"Shin Lun House, Fu Shin Estate",5338,
-33,,,,Eastern,Harbour Grand Hong Kong,5340,
-34,,,,Eastern,Harbour Grand Hong Kong,5341,
-35,,,,Tai Po,Wai Tau Tsuen,5342,
-36,,,,Wan Chai,Yan Wo Yuet Building,5343,
-37,,,,Yau Tsim Mong,Silka Seaview Hotel Hong Kong,5344,
-38,,,,Yau Tsim Mong,Ramada Hong Kong Grand,5345,
-39,,,,Tai Po,"Kwong Yee House, Kwong Yau House",5347,
-40,,,,Tai Po,"Shin Lun House, Fu Shin Estate",5348,
-41,Wan Chai,Hong Kong Sanatorium & Hospital,"5135, 5136, 5137, 5166",,,,07/10/2020
-42,Yau Tsim Mong,The Royal Garden,"5170, 5240",,,,08/10/2020
-43,Sai Kung,Yu Cheong House Yu Ming Court,"5200, 5206",,,,09/10/2020
-44,Sai Kung,Shop 12 Ground Floor Bauhinia Garden,"5200, 5206",,,,10/10/2020
-45,Islands,Yat Tung Shopping Centre Phase I TamJai SamGor Mixian,5281,,,,21/10/2020
-46,Central & Western,340 Queen's Road Central,5293,,,,21/10/2020
-47,Yau Tsim Mong,Manly Commercial Building,5288,,,,22/10/2020
-48,Kowloon City,Pine Manor,5288,,,,22/10/2020
-49,Wan Chai,Harbour Road Sports Centre,5321,,,,23/10/2020
-50,Central & Western,Siu Ying Commercial Building,"5293, 5312",,,,23/10/2020
-51,Eastern,Metropole Building Fulum Palace (North Point),5321,,,,24/10/2020
-52,Islands,Mui Wo Cooked Food Market Ke Ho Resturant,5332,,,,26/10/2020
-53,Islands,1 Chung Hau Street Tak Chai Kee,5332,,,,26/10/2020
-54,Wan Chai,203 Wan Chai Road New Forest Restaurant,5312,,,,27/10/2020
-55,Islands,Mui Wo Cooked Food Market Shun Hing Seafood,5332,,,,27/10/2020
-56,Kwun Tong,Kai Yip Shopping Centre Cooked Food Stall 德源 極上串王,5321,,,,28/10/2020
-57,Tai Po,Central Plaza,5332,,,,28/10/2020
-58,Wan Chai,Pearl City,5338,,,,28/10/2020
-59,Central & Western,99 Queen's Road Central,5343,,,,28/10/2020
-60,Central & Western,Shun Tak Centre West Tower,5321,,,,29/10/2020
-61,Tai Po,Fortune Plaza Arcade Tai Wing Wah,5336,,,,29/10/2020
-62,North,Commune Modern Tamjai Yunnan Mixian,5337,,,,29/10/2020
-63,Central & Western,"Three Garden Road, Central",5343,,,,29/10/2020
-64,Tai Po,Tai Po Plaza 萬利小食店,5347,,,,29/10/2020
-65,Yau Tsim Mong,Mong Kok Police Station,5331,,,,30/10/2020
-66,Tai Po,Kwong Fuk Commercial Centre Café decoral,5336,,,,30/10/2020
-67,Tai Po,Merit Place Asahi Kawa Japanese Casual Restaurant,5336,,,,30/10/2020
-68,North,3 Luen Hing Street Forever Tea,5337,,,,30/10/2020
-69,Tai Po,Ting Kok Rd 同信士多,5337,,,,30/10/2020
-70,Kwai Tsing,Hong Kong Institute of Vocational Education (Tsing Yi),5342,,,,30/10/2020
-71,Tai Po,Kwong Fuk Road 三不館 車仔麵,5336,,,,31/10/2020
-72,Wong Tai Sin,182-188 Junction Road Eat Chinese Restaurant,5337,,,,31/10/2020
-73,Southern,1 Heung Yip Road,"5332, 5342",,,,31/10/2020
-74,Wan Chai,Chun Hing Mansion McDonald's,5343,,,,01/11/2020
+29,Sha Tin,Kai Yuen Building,5331,,,,
+30,Islands,Seaview Holiday Resort,5332,,,,
+31,,,,Tai Po,"Kwong Yee House, Kwong Fuk Estate",5336,
+32,,,,Tai Po,Wai Tau Tsuen,5337,
+33,,,,Tai Po,"Shin Lun House, Fu Shin Estate",5338,
+34,,,,Eastern,Harbour Grand Hong Kong,5340,
+35,,,,Eastern,Harbour Grand Hong Kong,5341,
+36,,,,Tai Po,Wai Tau Tsuen,5342,
+37,,,,Wan Chai,Yan Wo Yuet Building,5343,
+38,,,,Yau Tsim Mong,Silka Seaview Hotel Hong Kong,5344,
+39,,,,Yau Tsim Mong,Ramada Hong Kong Grand,5345,
+40,,,,Tai Po,"Kwong Yee House, Kwong Yau House",5347,
+41,,,,Tai Po,"Shin Lun House, Fu Shin Estate",5348,
+42,Wan Chai,Hong Kong Sanatorium & Hospital,"5135, 5136, 5137, 5166",,,,07/10/2020
+43,Yau Tsim Mong,The Royal Garden,"5170, 5240",,,,08/10/2020
+44,Sai Kung,Yu Cheong House Yu Ming Court,"5200, 5206",,,,09/10/2020
+45,Sai Kung,Bauhinia Garden,"5200, 5206",,,,10/10/2020
+46,Islands,Yat Tung Shopping Centre Phase I TamJai SamGor Mixian,5281,,,,21/10/2020
+47,Central & Western,340 Queen's Road Central,5293,,,,21/10/2020
+48,Yau Tsim Mong,Manly Commercial Building,5288,,,,22/10/2020
+49,Kowloon City,Pine Manor,5288,,,,22/10/2020
+50,Wan Chai,Harbour Road Sports Centre,5321,,,,23/10/2020
+51,Central & Western,Siu Ying Commercial Building,"5293, 5312",,,,23/10/2020
+52,Eastern,Metropole Building Fulum Palace (North Point),5321,,,,24/10/2020
+53,Islands,Mui Wo Cooked Food Market Ke Ho Resturant,5332,,,,26/10/2020
+54,Islands,1 Chung Hau Street Tak Chai Kee,5332,,,,26/10/2020
+55,Wan Chai,203 Wan Chai Road New Forest Restaurant,5312,,,,27/10/2020
+56,Islands,Mui Wo Cooked Food Market Shun Hing Seafood,5332,,,,27/10/2020
+57,Kwun Tong,Kai Yip Shopping Centre Cooked Food Stall 德源 極上串王,5321,,,,28/10/2020
+58,Tai Po,Central Plaza,5332,,,,28/10/2020
+59,Wan Chai,Pearl City,5338,,,,28/10/2020
+60,Central & Western,99 Queen's Road Central,5343,,,,28/10/2020
+61,Central & Western,Shun Tak Centre West Tower,5321,,,,29/10/2020
+62,Tai Po,Fortune Plaza Arcade Tai Wing Wah,5336,,,,29/10/2020
+63,North,Commune Modern Tamjai Yunnan Mixian,5337,,,,29/10/2020
+64,Central & Western,3 Garden Road,5343,,,,29/10/2020
+65,Tai Po,Tai Po Plaza 萬利小食店,5347,,,,29/10/2020
+66,Yau Tsim Mong,Mong Kok Police Station,5331,,,,30/10/2020
+67,Tai Po,Kwong Fuk Commercial Centre Café de Coral,5336,,,,30/10/2020
+68,Tai Po,Merit Place Asahi Kawa Japanese Casual Restaurant,5336,,,,30/10/2020
+69,North,3 Luen Hing Street Forever Tea,5337,,,,30/10/2020
+70,Tai Po,Ting Kok Rd 同信士多,5337,,,,30/10/2020
+71,Kwai Tsing,Hong Kong Institute of Vocational Education (Tsing Yi),5342,,,,30/10/2020
+72,Tai Po,Kwong Fuk Road 三不館 車仔麵,5336,,,,31/10/2020
+73,Wong Tai Sin,182-188 Junction Road Eat Chinese Restaurant,5337,,,,31/10/2020
+74,Southern,1 Heung Yip Road,"5332, 5342",,,,31/10/2020
+75,Wan Chai,Chun Hing Mansion McDonald's,5343,,,,01/11/2020
