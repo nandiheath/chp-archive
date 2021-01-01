@@ -1,0 +1,38 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,CX881,Los Angeles,16K,18/12/2020,8016,,,
+1,TR980,Singapore,16A,18/12/2020,8080,,,
+2,PR300,Manila,37K,18/12/2020,8086,,,
+3,CX252,London,61A,18/12/2020,8492,,,
+4,CX796,Jakarta,64C,19/12/2020,8157,,,
+5,CX796,Jakarta,66J,19/12/2020,8163,,,
+6,EK384,Dubai,28K,19/12/2020,8184,,,
+7,BA027,London,Cabin crew,19/12/2020,8185,,,
+8,CX796,Jakarta,71B,19/12/2020,8885,,,
+9,CX252,London,33A,20/12/2020,8259,,,
+10,GA876,Jakarta,21A,20/12/2020,8260,,,
+11,GA876,Jakarta,44K,20/12/2020,8261,,,
+12,GA876,Jakarta,48A,20/12/2020,8262,,,
+13,EK384,Dubai,41H,20/12/2020,8268,,,
+14,EK384,Dubai,41G,20/12/2020,8486,,,
+15,ET3728,Liege,Cabin crew,21/12/2020,8328,,,
+16,CX252,London,70K,21/12/2020,8735,,,
+17,CX252,London,71H,21/12/2020,8739,,,
+18,TK070,Istanbul,16A,22/12/2020,8356,,,
+19,RA409,Kathmandu,20F,22/12/2020,8368,,,
+20,EK384,Bangkok,42K,22/12/2020,8379,,,
+21,TK070,Istanbul,26K,22/12/2020,8380,,,
+22,KE607,Seoul,30A,22/12/2020,8381,,,
+23,HX782,Manila,41H,23/12/2020,8426,,,
+24,CX796,Jakarta,45C,25/12/2020,8538,,,
+25,5J272,Manila,2A,26/12/2020,8612,,,
+26,CX796,Jarkarta,63B,26/12/2020,8850,,,
+27,CX906,Manila,70A,28/12/2020,8833,,,
+28,AI1310,Kolkata,17G,29/12/2020,8801,,,
+29,AI1310,Kolkata,24J,30/12/2020,8879,,,
+30,CX845,New York,61K,31/12/2020,8883,,,
+31,,,,,,Citybus Route 307,17-18/12/2020,8214
+32,,,,,,Taxi DE7696 Night-shift,18-20/12/2020,8292
+33,,,,,,Taxi DE7696 Day-shift,19-20/12/2020,8432
+34,,,,,,Taxi PK8728 Night-shift,24-25/12/2020,8669
+35,,,,,,Taxi LL4250,20-28/12/2020,8770
+36,,,,,,Taxi TH8378,29/12/2020,8854
