@@ -1,0 +1,29 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,TK070,Istanbul,16A,22/12/2020,8356,,,
+1,RA409,Kathmandu,20F,22/12/2020,8368,,,
+2,EK384,Bangkok,42K,22/12/2020,8379,,,
+3,TK070,Istanbul,26K,22/12/2020,8380,,,
+4,KE607,Seoul,30A,22/12/2020,8381,,,
+5,RA409,Kathmandu,37G,22/12/2020,8993,,,
+6,RA409,Kathmandu,33F,22/12/2020,8999,,,
+7,RA409,Kathmandu,33E,22/12/2020,9001,,,
+8,RA409,Kathmandu,33D,22/12/2020,9002,,,
+9,PR300,Manila,40A,22/12/2020,9003,,,
+10,RA409,Kathmandu,19E,22/12/2020,9004,,,
+11,RA409,Kathmandu,39C,22/12/2020,9007,,,
+12,RA409,Kathmandu,39A,22/12/2020,9008,,,
+13,HX782,Manila,41H,23/12/2020,8426,,,
+14,CX796,Jakarta,45C,25/12/2020,8538,,,
+15,5J272,Manila,2A,26/12/2020,8612,,,
+16,CX796,Jarkarta,63B,26/12/2020,8850,,,
+17,CX906,Manila,70A,28/12/2020,8833,,,
+18,AI1310,Kolkata,17G,29/12/2020,8801,,,
+19,AI1310,Kolkata,24J,30/12/2020,8879,,,
+20,CX845,New York,61K,31/12/2020,8883,,,
+21,5J272,Manila,39A,02/01/2021,9005,,,
+22,KL847,Amsderdam,2A,02/01/2021,9006,,,
+23,LX138,Zurich,34H,03/01/2021,9026,,,
+24,,,,,,Taxi PK8728 Night-shift,24-25/12/2020,8669
+25,,,,,,Taxi LL4250,20-28/12/2020,8770
+26,,,,,,Taxi TH8378,29/12/2020,8854
+27,,,,,,Taxi RB9813 Night-shift,29/11-31/12/2020,8900
