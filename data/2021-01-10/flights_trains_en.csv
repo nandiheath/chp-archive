@@ -1,0 +1,28 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,5J272,Manila,2A,26/12/2020,8612,,,
+1,CX796,Jakarta,63B,26/12/2020,8850,,,
+2,CX507,Osaka,42H,26/12/2020,9151,,,
+3,CX906,Manila,70A,28/12/2020,8833,,,
+4,AI1310,Kolkata,17G,29/12/2020,8801,,,
+5,AI1310,Kolkata,24J,30/12/2020,8879,,,
+6,CX845,New York,61K,31/12/2020,8883,,,
+7,5J272,Manila,39A,02/01/2021,9005,,,
+8,KL847,Amsterdam,2A,02/01/2021,9006,,,
+9,LX138,Zurich,34H,03/01/2021,9026,,,
+10,EK384,Dubai,26H,04/01/2021,9075,,,
+11,EK384,Dubai,40D,04/01/2021,9158,,,
+12,RA409,Kathmandu,23C,05/01/2021,9080,,,
+13,EK384,Dubai,32D,05/01/2021,9085,,,
+14,EK384,Dubai,38C,05/01/2021,9106,,,
+15,EK384,Dubai,34K,05/01/2021,9107,,,
+16,EK384,Dubai,34H,05/01/2021,9209,,,
+17,QR818,Doha,20K,06/01/2021,9133,,,
+18,CX906,Manila,66D,07/01/2021,9171,,,
+19,EK384,Dubai,21F,07/01/2021,9159,,,
+20,EK384,Dubai,33K,07/01/2021,9160,,,
+21,SQ882,Singapore,54D,07/01/2021,9188,,,
+22,,,,,,Taxi LL4250,20-28/12/2020,8770
+23,,,,,,Taxi TH8378,29/12/2020,8854
+24,,,,,,Taxi RB9813 Night-shift,29/11-31/12/2020,8900
+25,,,,,,KMB Route 234A,01/01/2021,9054
+26,,,,,,KMB Route 32H,03/01/2021,9054
