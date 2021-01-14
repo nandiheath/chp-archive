@@ -1,0 +1,26 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,CX845,New York,61K,31/12/2020,8883,,,
+1,5J272,Manila,39A,02/01/2021,9005,,,
+2,KL847,Amsterdam,2A,02/01/2021,9006,,,
+3,LX138,Zurich,34H,03/01/2021,9026,,,
+4,EK384,Dubai,26H,04/01/2021,9075,,,
+5,EK384,Dubai,40D,04/01/2021,9158,,,
+6,RA409,Kathmandu,23C,05/01/2021,9080,,,
+7,EK384,Dubai,32D,05/01/2021,9085,,,
+8,EK384,Dubai,38C,05/01/2021,9106,,,
+9,EK384,Dubai,34K,05/01/2021,9107,,,
+10,EK384,Dubai,34H,05/01/2021,9209,,,
+11,QR818,Doha,20K,06/01/2021,9133,,,
+12,CX906,Manila,66D,07/01/2021,9171,,,
+13,EK384,Dubai,21F,07/01/2021,9159,,,
+14,EK384,Dubai,33K,07/01/2021,9160,,,
+15,SQ882,Singapore,54D,07/01/2021,9188,,,
+16,TK070,Istanbul,Cabin Crew,08/01/2021,9214,,,
+17,CX881,Los Angeles,68A,12/01/2021,9389,,,
+18,TK070,Istanbul,26B,12/01/2021,9402,,,
+19,,,,,,Taxi RB9813 Night-shift,29/11-31/12/2020,8900
+20,,,,,,KMB Route 234A,01/01/2021,9054
+21,,,,,,KMB Route 32H,03/01/2021,9054
+22,,,,,,Hong Kong & Kowloon FerryCentral - Peng Chau,07-08/01/2021,"9277, 9342"
+23,,,,,,Hong Kong & Kowloon FerryCentral - Yung Shue Wan,05-09/01/2021,"9267, 9276, 9277"
+24,,,,,,Taxi KT1281 Day-shift,10/01/2021,9396
