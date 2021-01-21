@@ -1,22 +1,30 @@
-,HongKong&KowloonFerryCentral-YungShueWan,05-09/01/2021,"9267,9276,9277",ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,HongKong&KowloonFerryCentral-YungShueWan,05-09/01/2021,"9267,9276,9277"
-0,QR818,Doha,20K,06/01/2021,9133,,,,,,
-1,CX906,Manila,66D,07/01/2021,9171,,,,,,
-2,EK384,Dubai,21F,07/01/2021,9159,,,,,,
-3,EK384,Dubai,33K,07/01/2021,9160,,,,,,
-4,SQ882,Singapore,54D,07/01/2021,9188,,,,,,
-5,TK070,Istanbul,Cabin Crew,08/01/2021,9214,,,,,,
-6,CX881,Los Angeles,68A,12/01/2021,9389,,,,,,
-7,TK070,Istanbul,26B,12/01/2021,9402,,,,,,
-8,LX138,Zurich,Cabin Crew,13/01/2021,9416,,,,,,
-9,CX796,Jakarta,74A,15/01/2021,9509,,,,,,
-10,CX796,Jakarta,74B,15/01/2021,9535,,,,,,
-11,CX796,Jakarta,31D,15/01/2021,9536,,,,,,
-12,CX796,Jakarta,68B,16/01/2021,9561,,,,,,
-13,5J272,Manila,39A,16/01/2021,9562,,,,,,
-14,GA876,Jakarta,44K,17/01/2021,9666,,,,,,
-15,,,,,,Hong Kong & Kowloon FerryCentral - Peng Chau,07-08/01/2021,"9277, 9342",,,
-16,,,,,,,,,Taxi KT1281 Day-shift,10/01/2021,9396
-17,,,,,,,,,Taxi UD5137,"09-10/01/2021, 12-13/01/2021",9438
-18,,,,,,,,,KMB Route 61M,13/01/2021,9567
-19,,,,,,,,,Taxi WB1696,15/01/2021,9481
-20,,,,,,,,,Taxi VE8670,"04-08,11-15/01/2021",9583
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,CX906,Manila,66D,07/01/2021,9171,,,
+1,EK384,Dubai,21F,07/01/2021,9159,,,
+2,EK384,Dubai,33K,07/01/2021,9160,,,
+3,SQ882,Singapore,54D,07/01/2021,9188,,,
+4,TK070,Istanbul,Cabin Crew,08/01/2021,9214,,,
+5,CX796,Jakarta,66J,08/01/2021,9833,,,
+6,CX796,Jakarta,64H,08/01/2021,9834,,,
+7,CX881,Los Angeles,68A,12/01/2021,9389,,,
+8,TK070,Istanbul,26B,12/01/2021,9402,,,
+9,LX138,Zurich,Cabin Crew,13/01/2021,9416,,,
+10,CX796,Jakarta,74A,15/01/2021,9509,,,
+11,CX796,Jakarta,74B,15/01/2021,9535,,,
+12,CX796,Jakarta,31D,15/01/2021,9536,,,
+13,CX796,Jakarta,68B,16/01/2021,9561,,,
+14,5J272,Manila,39A,16/01/2021,9562,,,
+15,GA876,Jakarta,44K,17/01/2021,9666,,,
+16,RA409,Kathmandu,16A,19/01/2021,9799,,,
+17,SQ882,Singapore,56B,19/01/2021,9800,,,
+18,SQ882,Singapore,56A,19/01/2021,9801,,,
+19,SQ882,Singapore,47G,19/01/2021,9802,,,
+20,CX724,Kuala Lumpur,63D,19/01/2021,9804,,,
+21,,,,,,Hong Kong & Kowloon FerryCentral - Peng Chau,07-08/01/2021,"9277, 9342"
+22,,,,,,Hong Kong & Kowloon FerryCentral - Yung Shue Wan,05-09/01/2021,"9267, 9276, 9277"
+23,,,,,,Taxi KT1281 Day-shift,10/01/2021,9396
+24,,,,,,Taxi UD5137,"09-10/01/2021, 12-13/01/2021",9438
+25,,,,,,KMB Route 61M,13/01/2021,9567
+26,,,,,,Taxi WB1696,15/01/2021,9481
+27,,,,,,Taxi VE8670,"04-08,11-15/01/2021",9583
+28,,,,,,Taxi EL2028,17/01/2021,9814
