@@ -1,0 +1,28 @@
+,Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases,ArrivalDate,RelatedConfirmed/ProbableCase(s),Train/Ship/Vehiclenumber,Dateoftravel,Relatedprobable/confirmedcases
+0,CX796,Jakarta,74A,15/01/2021,9509,,,
+1,CX796,Jakarta,74B,15/01/2021,9535,,,
+2,CX796,Jakarta,31D,15/01/2021,9536,,,
+3,CX796,Jakarta,68B,16/01/2021,9561,,,
+4,5J272,Manila,39A,16/01/2021,9562,,,
+5,GA876,Jakarta,44K,17/01/2021,9666,,,
+6,RA409,Kathmandu,16A,19/01/2021,9799,,,
+7,SQ882,Singapore,56B,19/01/2021,9800,,,
+8,SQ882,Singapore,56A,19/01/2021,9801,,,
+9,SQ882,Singapore,47G,19/01/2021,9802,,,
+10,CX724,Kuala Lumpur,63D,19/01/2021,9804,,,
+11,PR300,Manila,65E,20/01/2021,9870,,,
+12,LX138,Zurich,31K,20/01/2021,9871,,,
+13,QR818,Zurich,1A,21/01/2021,9943,,,
+14,5J272,Philippines,51A,21/01/2021,9946,,,
+15,SQ882,Singapore,50A,22/01/2021,10037,,,
+16,LH796,Frankfurt,18C,23/01/2021,10117,,,
+17,EK384,Dubai,50G,23/01/2021,10120,,,
+18,EK384,Dubai,24K,23/01/2021,10121,,,
+19,EK384,Dubai,23D,24/01/2021,10179,,,
+20,EK384,Dubai,23K,24/01/2021,10234,,,
+21,EK384,Dubai,30K,25/01/2021,10243,,,
+22,SQ882,Singapore,50K,27/01/2021,10323,,,
+23,,,,,,Taxi WB1696,15/01/2021,9481
+24,,,,,,Taxi VE8670,"04-08,11-15/01/2021",9583
+25,,,,,,Taxi EL2028,17/01/2021,9814
+26,,,,,,Taxi VE5007,"22-24, 26/01/2021",10318
