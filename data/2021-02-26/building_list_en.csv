@@ -1,392 +1,407 @@
 ,District,BuildingName,ReportedDate/LastDateofVisitbyAnyoftheInvolvedCase(s),RelatedConfirmed/ProbableCase(s)
-0,Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",10713,
-1,Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",10715,
-2,Tai Po,"Oi Wo House, Tai Wo Estate",10716,
-3,Tai Po,"Lai Wo House, Tai Wo Estate",10717,
-4,Sham Shui Po,Hing Wah Building,10718,
-5,Kwun Tong,"Sheung Hing House, Upper Ngau Tau Kok Estate",10719,
-6,Yau Tsim Mong,Ying May Building,10720,
-7,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10722,
-8,Wan Chai,Best Western Hotel Causeway Bay,10723,
-9,Central & Western,ECO Tree Hotel,10724,
-10,Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",10725,
-11,Sha Tin,"Foo Wo House, Wo Che Estate",10726,
-12,Yuen Long,"San Shui House, Shui Pin Wai Estate",10727,
-13,Sai Kung,Hin Ming Court,10728,
-14,Yau Tsim Mong,"Fu Tin Building, Fu Tor Loy Sun Chuen",10729,
-15,Yuen Long,Nam Pin Wai 1st Lane,10730,
-16,Tsuen Wan,"Hoi Har Mansion, Riviera Gardens",10731,
-17,Sha Tin,"Block 6, Jubilee Garden",10732,
-18,Yuen Long,Ping Tong Fa Yuen,10733,
-19,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10734,
-20,Yau Tsim Mong,Mirador Mansion,10735,
-21,Yuen Long,"Fung Kat Heung, Kam Tin",10736,
-22,Sha Tin,"Kam Lan House, Kam Fung Court",10738,
-23,Yuen Long,Far East Consortium Yuen Long Building,10740,
-24,Sham Shui Po,"Mei Ying House, Shek Kip Mei Estate",10741,
-25,Sham Shui Po,"Mei Ying House, Shek Kip Mei Estate",10742,
-26,Islands,"Tower 5A, Phase 1, Century Link",10745,
-27,Kowloon City,O' Hotel,10746,
-28,Kowloon City,"Block B, Moonbeam Terrace",10747,
-29,Kowloon City,iclub Ma Tau Wai Hotel,10748,
-30,Southern,Bisney Villas,10749,
-31,Tai Po,Sam Mun Tsai New Village,10750,
-32,Kowloon City,"Block 2, Bamboo Mansions, Whampoa Garden",10751,
-33,Kowloon City,Kerry Hotel Hong Kong,10752,
-34,Kowloon City,Kerry Hotel Hong Kong,10753,
-35,Southern,L'hotel Island South,10755,
-36,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10756,
-37,Sha Tin,"Foo Wo House, Wo Che Estate",10757,
-38,Wong Tai Sin,Kellie Mansion,10758,
-39,Yau Tsim Mong,286 Shanghai Street,10759,
-40,Kowloon City,iclub Ma Tau Wai Hotel,10760,
-41,Wan Chai,Hotel Indigo Hong Kong Island,10761,
-42,Yuen Long,Far East Consortium Yuen Long Building,10762,
-43,Tai Po,Sam Mun Tsai New Village,10763,
-44,Yau Tsim Mong,"Fu Tin Building, Stage 1, Fu Tor Loy Sun Chuen",10764,
-45,Tsuen Wan,Lung Wah Building,10765,
-46,Tai Po,"Oi Wo House, Tai Wo Estate",10766,
-47,Tai Po,"Lai Wo House, Tai Wo Estate",10767,
-48,Yau Tsim Mong,"Block C, Tsim Sha Tsui Mansion",10768,
-49,Islands,Hong Kong SkyCity Marriott Hotel,10769,
-50,Sai Kung,"Tower 1, Phase 1, Metro City",10770,
-51,Sha Tin,"Block 1, Saddle Ridge Garden",10771,
-52,Kowloon City,267 To Kwa Wan Road,10772,
-53,Central & Western,Grand City Hotel,10773,
-54,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10774,
-55,Wong Tai Sin,Kellie Mansion,10775,
-56,Yau Tsim Mong,Mirador Mansion,10776,
-57,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10777,
-58,Yau Tsim Mong,Mirador Mansion,10778,
-59,Yau Tsim Mong,Mirador Mansion,10779,
-60,Kwai Tsing,"Block A, Po Sing Centre",10780,
-61,Yuen Long,"Chung Ki House, Tin Chung Court",10781,
-62,Tsuen Wan,Lung Wah Building,10787,
-63,Eastern,"Block 26, Heng Fa Chuen",10788,
-64,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10789,
-65,Wan Chai,"Dorsett Wanchai, Hong Kong",10790,
-66,Wong Tai Sin,Fung Chuen Court,10791,
-67,Kwai Tsing,"Dorsett Tsuen Wan, Hong Kong",10792,
-68,Yuen Long,Tai Sang Wai,10793,
-69,Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",10794,
-70,Kwun Tong,"Block A, Cheerful Court",10795,
-71,Sha Tin,"Ming Yan Lau, Jat Min Chuen",10798,
-72,Kwun Tong,"Block 1, Sceneway Garden",10799,
-73,Sham Shui Po,Fuk Wa Mansion,10800,
-74,Yau Tsim Mong,Golden Crown Court,10801,
-75,Kowloon City,"Tower 2, Stars By The Harbour",10802,
-76,Yuen Long,Hong Shing Building,10803,
-77,Kwun Tong,"Ko Fung House, Ko Cheung Court",10805,
-78,Wong Tai Sin,On Lee Building,10807,
-79,Tuen Mun,"Sau Tai House, Fu Tai Estate",10808,
-80,Yau Tsim Mong,Highview,10809,
-81,Yuen Long,Tai Sang Wai,10811,
-82,Kowloon City,iclub Ma Tau Wai Hotel,10812,
-83,Yau Tsim Mong,"Block C, Tsim Sha Tsui Mansion",10813,
-84,Wong Tai Sin,Fung Chuen Court,10814,
-85,Tai Po,88 Square,10816,
-86,Sham Shui Po,Shung Tak Building,10817,
-87,Sha Tin,"Block 1, Greenhill Villa",10818,
-88,Yuen Long,Tai Sang Wai,10819,
-89,Kwun Tong,"Sau Ching House, Sau Mau Ping Estate",10820,
-90,Yuen Long,Yat Sun Building,10821,
-91,Kowloon City,Ma Tau Kok Detention Centre,10822,
-92,Kwai Tsing,Chung Mei Lo Uk Village,10823,
-93,Tuen Mun,"Sau Tai House, Fu Tai Estate",10824,
-94,Sha Tin,"Block1,Greenhill Villa",10825,
-95,Yau Tsim Mong,Highview,10826,
-96,Tai Po,"Sun Wo House, Tai Wo Estate",10827,
-97,Kwun Tong,"On Kin House, On Tin Estate",10828,
-98,Eastern,Luen Wo Apartments,10829,
-99,Central & Western,Rex Building,10830,
-100,Kwun Tong,Yee On Centre,10831,
-101,Kowloon City,"Block 5, Kent Court",10832,
-102,Central & Western,Best Western Plus Hotel Hong Kong,10833,
-103,Kowloon City,Sung Oi Building,10834,
-104,Sha Tin,"Block 6, Jubilee Garden",10835,
-105,Islands,San Wai Tsuen,10836,
-106,Kwun Tong,Yee On Centre,10837,
-107,Kwun Tong,"On Kin House, On Tin Estate",10838,
-108,Yau Tsim Mong,Lai Kee Mansion,10840,
-109,Sha Tin,"S H Ho Wellness College, The HSUHK Jockey Club Residential Colleges",10840,
-110,North,"Rome Court, Sheung Shui Town Centre",10840,
-111,Kwun Tong,"On Kin House, On Tin Estate",10841,
-112,Kwai Tsing,"Tower 1, The Apex",10845,
-113,North,"Rome Court, Sheung Shui Town Centre",10846,
-114,Kwun Tong,"Sau Wong House, Sau Mau Ping South Estate",10847,
-115,Kowloon City,Metropark Hotel Kowloon,10848,
-116,Sha Tin,"Block 6, Jubilee Garden",10849,
-117,Kowloon City,"Block 5, Kent Court",10850,
-118,Kowloon City,"Block 5, Kent Court",10851,
-119,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10852,
-120,Kwai Tsing,"Tower 1, The Apex",10853,
-121,Kwai Tsing,"Tower 1, The Apex",10854,
-122,Yuen Long,Shek Wu Tong,10855,
-123,Kwai Tsing,"Luen Yan House, Kwai Luen Estate",10856,
-124,North,"Tower 5, Noble Hill",10857,
-125,North,"Rome Court, Sheung Shui Town Centre",10858,
-126,Kwai Tsing,"Tower 1, The Apex",10859,
-127,Eastern,Caritas Lok Yi School,10863,
-128,Wong Tai Sin,"Ching Yi House, Tsz Ching Estate",10864,
-129,Kwun Tong,"High Block, Tsui Nam House, Tsui Ping (North) Estate",10865,
-130,Yuen Long,Tai Hong Wai,10866,
-131,Kwun Tong,"Block 1, Sceneway Garden",10867,
-132,Kwai Tsing,"Tower 1, The Apex",10868,
-133,Sham Shui Po,48 Fuk Wa Street,10869,
-134,North,"Tower 5, Noble Hill",10870,
-135,Eastern,Wiseman Building,10871,
-136,Eastern,"Block D, Kornhill",10873,
-137,Eastern,Tung Shing Court,10874,
-138,Kwun Tong,"On Kin House, On Tin Estate",10876,
-139,Kwun Tong,Yee On Centre,10877,
-140,Kwun Tong,Yee On Centre,10878,
-141,Southern,"Wah Lai House, Wah Kwai Estate",10880,
-142,Tuen Mun,"Civic House, Affluence Garden",10882,
-143,Sha Tin,"Heng Hoi House, Heng On Estate",10883,
-144,Yuen Long,Wang Toi Shan Wing Ning Lei,10884,
-145,Eastern,Caritas Lok Yi School,10886,
-146,Yuen Long,"Shek Wu Tong, Pat Heung",10887,
-147,Yau Tsim Mong,"Front Block, Man Yuen Building",10888,
-148,Yau Tsim Mong,"Front Block, Man Yuen Building",10889,
-149,Yau Tsim Mong,"Front Block, Man Yuen Building",10890,
-150,Yau Tsim Mong,"Front Block, Man Yuen Building",10891,
-151,Eastern,Tung Shing Court,10892,
-152,Eastern,"Block D, Kornhill",10893,
-153,Kowloon City,"Tower 1C, Upper East",10894,
-154,Wong Tai Sin,Cambridge Building,10895,
-155,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10896,
-156,Kowloon City,Metropark Hotel Kowloon,10897,
-157,Eastern,"Block 26, Heng Fa Chuen",10898,
-158,Yau Tsim Mong,"Front Block, Man Yuen Building",10899,
-159,Wong Tai Sin,"Wah Yuen House, Chuk Yuen (South) Estate",10900,
-160,Kwun Tong,Lai Yue Building,10902,
-161,Sha Tin,"Block 2 , Carado Garden",10904,
-162,Eastern,"Block 26, Heng Fa Chuen",10905,
-163,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10906,
-164,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10907,
-165,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10908,
-166,Southern,"Wah Yin House, Wah Kwai Estate",10909,
-167,Sham Shui Po,570-572 Fuk Wa Street,10910,
-168,Central & Western,The Hudson,10911,
-169,Eastern,"Tung Hiu House, Tung Yuk Court",10912,
-170,Yuen Long,"Lin Fa Tei, Pat Heung",10913,
-171,Yau Tsim Mong,315 Nathan Road,10914,
-172,Tai Po,"Block I, Trackside Villas",10915,
-173,Sham Shui Po,"Tower 6, Banyan Garden",10916,
-174,Eastern,"Block 1, The Orchards",10917,
-175,Sai Kung,"Sheung Shun House, Sheung Tak Estate",10918,
-176,Eastern,"Block D, Kornhill",10919,
-177,Kwun Tong,"Kwai Leung House, Lower Ngau Tau Kok Estate",10920,
-178,Sai Kung,Holiday Inn Express Hong Kong Kowloon East,10921,
-179,Sai Kung,"Tower 16, Ocean Shores",10921,
-180,Yau Tsim Mong,"Tower 7, Island Harbourview",10922,
-181,Eastern,Ramada Hong Kong Grand View,10923,
-182,Yuen Long,"Tower 1, One Regent Place",10924,
-183,Yuen Long,Wang Toi Shan Wing Ning Lei,10925,
-184,Southern,"Wah Yin House, Wah Kwai Estate",10926,
-185,Kowloon City,"Kin Man House, Oi Man Estate",10927,
-186,Kwun Tong,Skyline Tower,"10055, 10349, 10404",28/01/2021
-187,Eastern,G/F Garland House,"10480, 10481",28/01/2021
-188,Kowloon City,Homantin Plaza,"8813, 8870, 9029, 9049, 9050, 10379, 10482",28/01/2021
-189,Yau Tsim Mong,Far East Mansion,"9624, 9947, 10365, 10375",28/01/2021
-190,Yau Tsim Mong,Harbourfront Horizon All-Suite Hotel,"9646, 9785, 10541",28/01/2021
-191,Central & Western,Smithfield Municipal Services Building,"10105, 10490",29/01/2021
-192,Central & Western,ICBC Asia Building,"10402, 10522",29/01/2021
-193,Central & Western,Yue Yee Mansion,"10429, 10454, 10490",29/01/2021
-194,Yau Tsim Mong,Chungking Mansions,"9947, 10435",29/01/2021
-195,Eastern,Block B Sea View Estate,"10142, 10480",30/01/2021
-196,Kowloon City,Peninsula Square,"10376, 10440",30/01/2021
-197,Kowloon City,Hung Hom Municipal Services Building,"5613, 6134, 6327, 6551, 6893, 7367, 7652, 9173, 9196, 9218, 9476, 9520, 10351, 10443",30/01/2021
-198,Yau Tsim Mong,Langham Place,"5964, 6003, 6928, 7360,",30/01/2021
-199,Wong Tai Sin,Temple Mall North,"7387, 7958, 8812, 9592, 10486",30/01/2021
-200,Yau Tsim Mong,G/F Mongkok Building,"10274, 10522",31/01/2021
-201,Kowloon City,93 Pau Chung Street Holly Restaurant,"10578, 10591",01/02/2021
-202,Yuen Long,Maxwell House,"10580, 10617",02/02/2021
-203,Tai Po,On Wo House Tai Wo Estate,"10545, 10643",04/02/2021
-204,Eastern,Shau Kei Wan Government Secondary School,"10608, 10672",04/02/2021
-205,Kwun Tong,On Tai Shopping Centre,"9261, 9265, 10618",04/02/2021
-206,Islands,Hong Kong International Airport,"9736, 9928, 9996, 10099, 10250, 10627",05/02/2021
-207,Wong Tai Sin,Lok Fu Plaza,"10349, 10666",06/02/2021
-208,Kwun Tong,On Tai Estate Ancillary Facilities Block,"10702, 10708",06/02/2021
-209,Islands,Construction site at Hong Kong International Airport 3rd Runway,"9928, 10126, 10321, 10348, 10382, 10386, 10389, 10390, 10392, 10418, 10425, 10450, 10452, 10494, 10574, 10660",06/02/2021
-210,Yau Tsim Mong,Harbour City,"10636, 10791",07/02/2021
-211,Wong Tai Sin,Kar Chau Industrial Building,"10675, 10678",07/02/2021
-212,Central & Western,The Landmark,"9471, 9828, 10729",07/02/2021
-213,Kwai Tsing,Wah Fung Industrial Centre,"10678, 10710",08/02/2021
-214,Islands,Disney Administration Building,"10715, 10720",08/02/2021
-215,Tai Po,Lai Wo House Tai Wo Estate,"10545, 10716",09/02/2021
-216,Tai Po,Fortune Plaza,"10619, 10756",09/02/2021
-217,Wong Tai Sin,Lung Poon Court Commercial Centre,"10758, 10770",09/02/2021
-218,Sham Shui Po,Shek Kip Mei Estate Shopping Centre,"10677, 10742",10/02/2021
-219,Wong Tai Sin,Efficiency House,10758,11/02/2021
-220,Wan Chai,St. James' Settlement Jockey Club Social Service Building,10770,11/02/2021
-221,Kwun Tong,World Interests Building,10770,11/02/2021
-222,Sha Tin,Kam Mei House Kam Fung Court,10771,11/02/2021
-223,Kowloon City,RTHK Television House,10771,11/02/2021
-224,Tsuen Wan,Cheuk Ming Mansion Satay King,10775,11/02/2021
-225,Kwai Tsing,G/F Kam Wa Building,10780,11/02/2021
-226,Tsuen Wan,9 Tai Pa Street No Boundary,10787,11/02/2021
-227,Central & Western,Asia Standard Tower,10788,11/02/2021
-228,Eastern,Paradise Mall Tong Kee Bao Dim,10788,11/02/2021
-229,Kwun Tong,Block A Cheerful Court,10789,11/02/2021
-230,Eastern,MTR Chai Wan Station,10789,11/02/2021
-231,Kwun Tong,Sau Mau Ping Market,10820,11/02/2021
-232,Yau Tsim Mong,G/F 23 Hak Po Street Ramen Kureha,10834,11/02/2021
-233,Tai Po,Ting Kok Building,"10750, 10763",11/02/2021
-234,Yau Tsim Mong,South Tower West Kowloon Government Offices,10756,12/02/2021
-235,Yau Tsim Mong,Wing On Kowloon Centre Golden Federal Restaurant,10759,12/02/2021
-236,Eastern,Oi Ping House Oi Tung Estate,10788,12/02/2021
-237,Kwun Tong,Block 28 Laguna City,10799,12/02/2021
-238,Wong Tai Sin,Pak Yuen House Chuk Yuen (North) Estate,10807,12/02/2021
-239,Kwai Tsing,Chung Mei Lo Uk Village,10823,12/02/2021
-240,Tsuen Wan,Ocean Pride Mall,10823,12/02/2021
-241,Kwai Tsing,Kwai Chung Fire Station,"10793, 10805, 10823",12/02/2021
-242,Tuen Mun,V City YATA Supermarket Balencia,10781,13/02/2021
-243,Yuen Long,G/F Yat Sun Building,10793,13/02/2021
-244,Yuen Long,The Vineyard,10802,13/02/2021
-245,Sha Tin,Block 2 Phase 1 Double Cove,10807,13/02/2021
-246,Wong Tai Sin,Regent On The Hill,10807,13/02/2021
-247,Yau Tsim Mong,G/F 53-59 Kimberley Road Fook Lam Moon,10809,13/02/2021
-248,Yuen Long,G/F 13 Kuk Ting Street Let's Yum Cha,10811,13/02/2021
-249,Yuen Long,Tung Yick Market,10811,13/02/2021
-250,Yuen Long,Yuen Long Commercial Centre Fairwood,10793,14/02/2021
-251,Sai Kung,King Yu House King Lam Estate,10805,14/02/2021
-252,Wong Tai Sin,Fu Yuen House Chuk Yuen (South) Estate,10807,14/02/2021
-253,Sham Shui Po,G/F 62D Castle Peak Road 雪山 冰廳,10807,14/02/2021
-254,Tuen Mun,Fu Tai Shopping Centre Province Hot-Pot and Seafood Restaurant,10808,14/02/2021
-255,Yau Tsim Mong,Prat Mansions Hong Kong Old Restaurant,10809,14/02/2021
-256,Sha Tin,Altissimo Tower 3,10818,14/02/2021
-257,Sha Tin,Red Market,10818,14/02/2021
-258,Kwai Tsing,Wonderland Villas Commercial Complex Cafe 100%,10823,14/02/2021
-259,North,Rome Court Sheung Shui Town Centre,10840,14/02/2021
-260,Central & Western,World-Wide House,10854,14/02/2021
-261,Sham Shui Po,Festival Walk Toriten,10871,14/02/2021
-262,Sham Shui Po,Kin Wo Court Delicious Café,10904,14/02/2021
-263,Kwai Tsing,Metroplaza,"7991, 8394, 8579, 9664, 10710, 10854",14/02/2021
-264,Sham Shui Po,Dragon Centre,"9974, 10181, 10255, 10817",14/02/2021
-265,Sha Tin,Podium Sha Tin Town Hall Maxim's Palace Chinese Restaurant,10798,15/02/2021
-266,Yau Tsim Mong,Mirador Mansion,10801,15/02/2021
-267,Kwun Tong,Shun Lee Shopping Centre (Phase 2),10820,15/02/2021
-268,Kwai Tsing,Lai King Fire Station,10823,15/02/2021
-269,Tuen Mun,Fu Tai Shopping Centre,10824,15/02/2021
-270,Central & Western,G/F Chuang's Tower McDonald's,10830,15/02/2021
-271,Central & Western,The Chinese General Chamber of Commerce Maxim's MX,10830,15/02/2021
-272,Islands,D'Deck McDonald's,10835,15/02/2021
-273,Yau Tsim Mong,G/F Kin Wong Manison OPPA Korean Restaurant,10837,15/02/2021
-274,Eastern,Fitfort Tai Hing,10871,15/02/2021
-275,Eastern,G/F Southern Building,10871,15/02/2021
-276,Kwun Tong,Sceneway Plaza,"10799, 10826",15/02/2021
-277,Tsuen Wan,G/F 12 Hoi Pa Street 都好燒臘粉 麵飯茶餐廳,10800,16/02/2021
-278,Kwun Tong,Sau Mau Ping Shopping Centre,10820,16/02/2021
-279,Yau Tsim Mong,In's Point Satay King,10834,16/02/2021
-280,Islands,Grandview Mansion Rome Restaurant,10836,16/02/2021
-281,Tai Po,Tower 7 Mont Vert,10840,16/02/2021
-282,Tai Po,Hong Chi Pinehill No.2 School (Residential),10864,16/02/2021
-283,Sham Shui Po,G/F Rondall Building,10869,16/02/2021
-284,Eastern,City Garden Fairwood,10871,16/02/2021
-285,Eastern,G/F Hong Tai Building,10874,16/02/2021
-286,Kwun Tong,APM Millennium City 5 Kam Kee Café,10878,16/02/2021
-287,Yau Tsim Mong,Royal Plaza Hotel,10904,16/02/2021
-288,Sha Tin,Yu Wai House Sun Tin Wai Estate,10825,17/02/2021
-289,Kwun Tong,Kai Tin Shopping Centre,10826,17/02/2021
-290,Wan Chai,Golden Court Royal Legend,10829,17/02/2021
-291,Kwun Tong,Buddhist Sum Ma Shui Ying Care and Attention Home for the Elderly,10831,17/02/2021
-292,Kwun Tong,Shui Ning House,10831,17/02/2021
-293,Tsuen Wan,Tai Hung Fai (Tsuen Wan) Centre Sheung Moon Chinese Cuisine,10856,17/02/2021
-294,North,Royal Jubilee Perfect Roasted Goose Seafood Restaurant,10857,17/02/2021
-295,Wan Chai,Hong Kong Police Headquarters,10874,17/02/2021
-296,Yau Tsim Mong,K11 Musea Greyhound Café Galleria,10883,17/02/2021
-297,Sham Shui Po,Pei Ho Street Municipal Services Building,"6341, 6885, 7364, 7872, 7911, 8284, 8587, 8653, 9038, 10322, 10656, 10800, 10869",17/02/2021
-298,Wan Chai,G/F Sai See Mansion Ramen Kureha,10834,18/02/2021
-299,Islands,G/F 35 Mui Wo Rural Committee Road,10836,18/02/2021
-300,Wan Chai,Harbour Centre,10837,18/02/2021
-301,Yau Tsim Mong,Star House,10837,18/02/2021
-302,Wan Chai,Hopewell Centre,10840,18/02/2021
-303,Kwai Tsing,Kwai Sing Centre,10845,18/02/2021
-304,Kwai Tsing,Wo Yi Plaza,10845,18/02/2021
-305,Kwai Tsing,Maritime Square Umegaoka Sushi No Midori Souhonten,10868,18/02/2021
-306,Central & Western,G/F New Central Mansion 美華 茶餐廳,10869,18/02/2021
-307,Central & Western,PMQ,10869,18/02/2021
-308,Tuen Mun,Common Bond Building 好景餐 廳小廚,10882,18/02/2021
-309,Kwun Tong,COS Centre,10882,18/02/2021
-310,Kwun Tong,COS Centre Hong Kong Nam Kee Noodle,10882,18/02/2021
-311,Sha Tin,Block N Phase 3 Sunshine City Plaza Kitchen One Roast Goose,10883,18/02/2021
-312,Kwun Tong,1 Lam Wah Street,10892,18/02/2021
-313,Sha Tin,G/F Tai Wai MTR Station,10904,18/02/2021
-314,Sham Shui Po,Billion Plaza II,10915,18/02/2021
-315,Tai Po,Tai Po Plaza Sushi Express,10915,18/02/2021
-316,Sai Kung,G/F Tseung Kwan O MTR Station,10918,18/02/2021
-317,Yau Tsim Mong,Vogue Court,10918,18/02/2021
-318,Wan Chai,One Capital Place,10866,19/02/2021
-319,Eastern,Harbour North Starbucks Coffee,10871,19/02/2021
-320,Eastern,Cityplaza,10873,19/02/2021
-321,Wan Chai,Tak Chuen Lau Lai Tak Tsuen,10876,19/02/2021
-322,Southern,Vertical SQ,10878,19/02/2021
-323,Wan Chai,Brighton Hotel Me Garden,10880,19/02/2021
-324,Yuen Long,Yat Wan House Tin Yat Estate,10882,19/02/2021
-325,Yuen Long,Yiu Fung House Tin Yiu Estate,10882,19/02/2021
-326,Sha Tin,Heng On Shopping Centre 金龍 泉,10883,19/02/2021
-327,Yau Tsim Mong,Chuang's London Plaza KFC,10888,19/02/2021
-328,Sha Tin,The Cavaridge,10888,19/02/2021
-329,Kwun Tong,8 Lam Chak Street,10894,19/02/2021
-330,Kwun Tong,9 Chong Yip Street,10896,19/02/2021
-331,Kwun Tong,Champion Court Café de Coral,10902,19/02/2021
-332,Tsuen Wan,Hotel Cozi . Oasis The Platter,10907,19/02/2021
-333,Tai Po,Fu Shin Market,10915,19/02/2021
-334,Yau Tsim Mong,K11 Musea Mr. Ming's Chinese Dining,10924,19/02/2021
-335,Yuen Long,Yoho Mall I Peking Garden Restaurant,10924,19/02/2021
-336,Kwun Tong,One Pacific Centre Victoria Harbour Restaurant,10878,20/02/2021
-337,Yau Tsim Mong,47-49 Parkes Street Australia Dairy Company,10882,20/02/2021
-338,Kwun Tong,AIA Kowloon Tower,10882,20/02/2021
-339,Kwun Tong,Fully Industrial Building 深仔記,10882,20/02/2021
-340,Yau Tsim Mong,The Gateway Tower 1,10882,20/02/2021
-341,Central & Western,Imperial Kennedy Sweetheart Garden Restaurant,10888,20/02/2021
-342,Central & Western,The Westwood McDonald's,10888,20/02/2021
-343,Central & Western,The Westwood Panash Bakery & Café,10888,20/02/2021
-344,Kwun Tong,Telford Plaza I Maxim's Palace,10902,20/02/2021
-345,Tsuen Wan,Citywalk 2 麗都總廚,10907,20/02/2021
-346,Tsuen Wan,Yeung Uk Road Municipal Services Building,10907,20/02/2021
-347,Tsuen Wan,Nina Mall 2 Cou Cou Hotpot ‧ TeaBreak,10924,20/02/2021
-348,Yuen Long,Yoho Mall I Taiwanese Mazu Lifestyle Noodles,10924,20/02/2021
-349,Kwun Tong,APM Millennium City 5 Kingduck,"10877, 10878",20/02/2021
-350,Kwun Tong,Crocodile Center Tai Hing,"10877, 10878",20/02/2021
-351,Wan Chai,Chuang's On The Park,10888,21/02/2021
-352,Central & Western,Sun Court,10888,21/02/2021
-353,Eastern,Victor Court,10888,21/02/2021
-354,Wan Chai,Villa D'Arte,10888,21/02/2021
-355,Tsuen Wan,75 Tai Pa Street Volcano Kitchen One,10891,21/02/2021
-356,Tsuen Wan,Tsuen Fung Centre,10896,21/02/2021
-357,Wan Chai,East Point Centre,10899,21/02/2021
-358,Wong Tai Sin,Chuk Yuen Plaza,10900,21/02/2021
-359,Tsuen Wan,Tsuen Wan Centre Phase II Shopping Centre,10907,21/02/2021
-360,Tai Po,Shin Mei House Fu Shin Estate,10915,21/02/2021
-361,Tai Po,Tai Yuen Market,10915,21/02/2021
-362,North,Dawning Views Block 10,10916,21/02/2021
-363,Sham Shui Po,Yan Oi House Lei Cheng Uk Estate,10916,21/02/2021
-364,Yau Tsim Mong,Olympian City 1 Sweetheart Chinese Restaurant,10922,21/02/2021
-365,Tsuen Wan,Ocean Pride WM Café & Bar,10924,21/02/2021
-366,Tai Po,Tai Po Mega Mall,"10738, 10756, 10915",21/02/2021
-367,Eastern,Caritas Lok Yi School,"10832, 10863, 10864, 10873, 10874, 10886",21/02/2021
-368,Sha Tin,Carado Garden Commercial Complex,10904,22/02/2021
-369,Kwun Tong,Kowloonbay International Trade & Exhibition Centre,10909,22/02/2021
-370,Yau Tsim Mong,315 Nathan Road,10914,22/02/2021
-371,Sai Kung,Sheung Tak Shopping Centre,10918,22/02/2021
-372,Kowloon City,Hung Hom Bay Centre Royce Garden,10921,22/02/2021
-373,Central & Western,On Lok House Tchin Tchin,10921,22/02/2021
-374,Yau Tsim Mong,26 Nathan Road,10922,22/02/2021
-375,Kowloon City,Yu Chun Keung Memorial College,10927,22/02/2021
-376,Kowloon City,Cheong Wah Factory Building,10912,23/02/2021
-377,Tuen Mun,Chi Lok Fa Yuen Fairwood,10913,23/02/2021
-378,Tai Po,Tai Wo Market,10915,23/02/2021
-379,Tai Po,Tai Wo Neighbourhood Community Centre,10915,23/02/2021
-380,Kowloon City,Block R Kowloon Hospital,10917,23/02/2021
-381,Central & Western,New World Tower,10921,23/02/2021
-382,Yau Tsim Mong,12-18 Tai Tsun Street Kam Ka Lok Restaurant,10922,23/02/2021
-383,Central & Western,G/F Charming Court,10922,23/02/2021
-384,Yau Tsim Mong,G/F Tai Yau Building,10922,23/02/2021
-385,Yau Tsim Mong,Olympian City 1 Café de Coral,10922,23/02/2021
-386,Kowloon City,Homantin Plaza Yoshinoya,10927,23/02/2021
-387,Sai Kung,Holiday Inn Express Hong Kong Kowloon East,10921,24/02/2021
-388,Wong Tai Sin,Chung Hing Industrial Mansions,10926,24/02/2021
-389,Wong Tai Sin,Mikiki Café de Coral,10926,24/02/2021
-390,Yau Tsim Mong,Tsim Sha Tsui Centre,"10916, 10921, 10924",24/02/2021
+0,Yuen Long,Ping Tong Fa Yuen,10733,
+1,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10734,
+2,Yau Tsim Mong,Mirador Mansion,10735,
+3,Yuen Long,"Fung Kat Heung, Kam Tin",10736,
+4,Sha Tin,"Kam Lan House, Kam Fung Court",10738,
+5,Yuen Long,Far East Consortium Yuen Long Building,10740,
+6,Sham Shui Po,"Mei Ying House, Shek Kip Mei Estate",10741,
+7,Sham Shui Po,"Mei Ying House, Shek Kip Mei Estate",10742,
+8,Islands,"Tower 5A, Phase 1, Century Link",10745,
+9,Kowloon City,O' Hotel,10746,
+10,Kowloon City,"Block B, Moonbeam Terrace",10747,
+11,Kowloon City,iclub Ma Tau Wai Hotel,10748,
+12,Southern,Bisney Villas,10749,
+13,Tai Po,Sam Mun Tsai New Village,10750,
+14,Kowloon City,"Block 2, Bamboo Mansions, Whampoa Garden",10751,
+15,Kowloon City,Kerry Hotel Hong Kong,10752,
+16,Kowloon City,Kerry Hotel Hong Kong,10753,
+17,Southern,L'hotel Island South,10755,
+18,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10756,
+19,Sha Tin,"Foo Wo House, Wo Che Estate",10757,
+20,Wong Tai Sin,Kellie Mansion,10758,
+21,Yau Tsim Mong,286 Shanghai Street,10759,
+22,Kowloon City,iclub Ma Tau Wai Hotel,10760,
+23,Wan Chai,Hotel Indigo Hong Kong Island,10761,
+24,Yuen Long,Far East Consortium Yuen Long Building,10762,
+25,Tai Po,Sam Mun Tsai New Village,10763,
+26,Yau Tsim Mong,"Fu Tin Building, Stage 1, Fu Tor Loy Sun Chuen",10764,
+27,Tsuen Wan,Lung Wah Building,10765,
+28,Tai Po,"Oi Wo House, Tai Wo Estate",10766,
+29,Tai Po,"Lai Wo House, Tai Wo Estate",10767,
+30,Yau Tsim Mong,"Block C, Tsim Sha Tsui Mansion",10768,
+31,Islands,Hong Kong SkyCity Marriott Hotel,10769,
+32,Sai Kung,"Tower 1, Phase 1, Metro City",10770,
+33,Sha Tin,"Block 1, Saddle Ridge Garden",10771,
+34,Kowloon City,267 To Kwa Wan Road,10772,
+35,Central & Western,Grand City Hotel,10773,
+36,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10774,
+37,Wong Tai Sin,Kellie Mansion,10775,
+38,Yau Tsim Mong,Mirador Mansion,10776,
+39,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10777,
+40,Yau Tsim Mong,Mirador Mansion,10778,
+41,Yau Tsim Mong,Mirador Mansion,10779,
+42,Kwai Tsing,"Block A, Po Sing Centre",10780,
+43,Yuen Long,"Chung Ki House, Tin Chung Court",10781,
+44,Tsuen Wan,Lung Wah Building,10787,
+45,Eastern,"Block 26, Heng Fa Chuen",10788,
+46,Kowloon City,"Ka Lim Lau, Ka Wai Chuen",10789,
+47,Wan Chai,"Dorsett Wanchai, Hong Kong",10790,
+48,Wong Tai Sin,Fung Chuen Court,10791,
+49,Kwai Tsing,"Dorsett Tsuen Wan, Hong Kong",10792,
+50,Yuen Long,Tai Sang Wai,10793,
+51,Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",10794,
+52,Kwun Tong,"Block A, Cheerful Court",10795,
+53,Sha Tin,"Ming Yan Lau, Jat Min Chuen",10798,
+54,Kwun Tong,"Block 1, Sceneway Garden",10799,
+55,Sham Shui Po,Fuk Wa Mansion,10800,
+56,Yau Tsim Mong,Golden Crown Court,10801,
+57,Kowloon City,"Tower 2, Stars By The Harbour",10802,
+58,Yuen Long,Hong Shing Building,10803,
+59,Kwun Tong,"Ko Fung House, Ko Cheung Court",10805,
+60,Wong Tai Sin,On Lee Building,10807,
+61,Tuen Mun,"Sau Tai House, Fu Tai Estate",10808,
+62,Yau Tsim Mong,Highview,10809,
+63,Yuen Long,Tai Sang Wai,10811,
+64,Kowloon City,iclub Ma Tau Wai Hotel,10812,
+65,Yau Tsim Mong,"Block C, Tsim Sha Tsui Mansion",10813,
+66,Wong Tai Sin,Fung Chuen Court,10814,
+67,Tai Po,88 Square,10816,
+68,Sham Shui Po,Shung Tak Building,10817,
+69,Sha Tin,"Block 1, Greenhill Villa",10818,
+70,Yuen Long,Tai Sang Wai,10819,
+71,Kwun Tong,"Sau Ching House, Sau Mau Ping Estate",10820,
+72,Yuen Long,Yat Sun Building,10821,
+73,Kowloon City,Ma Tau Kok Detention Centre,10822,
+74,Kwai Tsing,Chung Mei Lo Uk Village,10823,
+75,Tuen Mun,"Sau Tai House, Fu Tai Estate",10824,
+76,Sha Tin,"Block1,Greenhill Villa",10825,
+77,Yau Tsim Mong,Highview,10826,
+78,Tai Po,"Sun Wo House, Tai Wo Estate",10827,
+79,Kwun Tong,"On Kin House, On Tin Estate",10828,
+80,Eastern,Luen Wo Apartments,10829,
+81,Central & Western,Rex Building,10830,
+82,Kwun Tong,Yee On Centre,10831,
+83,Kowloon City,"Block 5, Kent Court",10832,
+84,Central & Western,Best Western Plus Hotel Hong Kong,10833,
+85,Kowloon City,Sung Oi Building,10834,
+86,Sha Tin,"Block 6, Jubilee Garden",10835,
+87,Islands,San Wai Tsuen,10836,
+88,Kwun Tong,Yee On Centre,10837,
+89,Kwun Tong,"On Kin House, On Tin Estate",10838,
+90,Yau Tsim Mong,Lai Kee Mansion,10840,
+91,Sha Tin,"S H Ho Wellness College, The HSUHK Jockey Club Residential Colleges",10840,
+92,North,"Rome Court, Sheung Shui Town Centre",10840,
+93,Kwun Tong,"On Kin House, On Tin Estate",10841,
+94,Kwai Tsing,"Tower 1, The Apex",10845,
+95,North,"Rome Court, Sheung Shui Town Centre",10846,
+96,Kwun Tong,"Sau Wong House, Sau Mau Ping South Estate",10847,
+97,Kowloon City,Metropark Hotel Kowloon,10848,
+98,Sha Tin,"Block 6, Jubilee Garden",10849,
+99,Kowloon City,"Block 5, Kent Court",10850,
+100,Kowloon City,"Block 5, Kent Court",10851,
+101,Tai Po,"Kwong Chi House, Kwong Fuk Estate",10852,
+102,Kwai Tsing,"Tower 1, The Apex",10853,
+103,Kwai Tsing,"Tower 1, The Apex",10854,
+104,Yuen Long,Shek Wu Tong,10855,
+105,Kwai Tsing,"Luen Yan House, Kwai Luen Estate",10856,
+106,North,"Tower 5, Noble Hill",10857,
+107,North,"Rome Court, Sheung Shui Town Centre",10858,
+108,Kwai Tsing,"Tower 1, The Apex",10859,
+109,Eastern,Caritas Lok Yi School,10863,
+110,Wong Tai Sin,"Ching Yi House, Tsz Ching Estate",10864,
+111,Kwun Tong,"High Block, Tsui Nam House, Tsui Ping (North) Estate",10865,
+112,Yuen Long,Tai Hong Wai,10866,
+113,Kwun Tong,"Block 1, Sceneway Garden",10867,
+114,Kwai Tsing,"Tower 1, The Apex",10868,
+115,Sham Shui Po,48 Fuk Wa Street,10869,
+116,North,"Tower 5, Noble Hill",10870,
+117,Eastern,Wiseman Building,10871,
+118,Eastern,"Block D, Kornhill",10873,
+119,Eastern,Tung Shing Court,10874,
+120,Kwun Tong,"On Kin House, On Tin Estate",10876,
+121,Kwun Tong,Yee On Centre,10877,
+122,Kwun Tong,Yee On Centre,10878,
+123,Southern,"Wah Lai House, Wah Kwai Estate",10880,
+124,Tuen Mun,"Civic House, Affluence Garden",10882,
+125,Sha Tin,"Heng Hoi House, Heng On Estate",10883,
+126,Yuen Long,Wang Toi Shan Wing Ning Lei,10884,
+127,Eastern,Caritas Lok Yi School,10886,
+128,Yuen Long,"Shek Wu Tong, Pat Heung",10887,
+129,Yau Tsim Mong,"Front Block, Man Yuen Building",10888,
+130,Yau Tsim Mong,"Front Block, Man Yuen Building",10889,
+131,Yau Tsim Mong,"Front Block, Man Yuen Building",10890,
+132,Yau Tsim Mong,"Front Block, Man Yuen Building",10891,
+133,Eastern,Tung Shing Court,10892,
+134,Eastern,"Block D, Kornhill",10893,
+135,Kowloon City,"Tower 1C, Upper East",10894,
+136,Wong Tai Sin,Cambridge Building,10895,
+137,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10896,
+138,Kowloon City,Metropark Hotel Kowloon,10897,
+139,Eastern,"Block 26, Heng Fa Chuen",10898,
+140,Yau Tsim Mong,"Front Block, Man Yuen Building",10899,
+141,Wong Tai Sin,"Wah Yuen House, Chuk Yuen (South) Estate",10900,
+142,Kwun Tong,Lai Yue Building,10902,
+143,Sha Tin,"Block 2 , Carado Garden",10904,
+144,Eastern,"Block 26, Heng Fa Chuen",10905,
+145,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10906,
+146,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10907,
+147,Tsuen Wan,"Nanning House, Tsuen Wan Centre",10908,
+148,Southern,"Wah Yin House, Wah Kwai Estate",10909,
+149,Sham Shui Po,570-572 Fuk Wa Street,10910,
+150,Central & Western,The Hudson,10911,
+151,Eastern,"Tung Hiu House, Tung Yuk Court",10912,
+152,Yuen Long,"Lin Fa Tei, Pat Heung",10913,
+153,Yau Tsim Mong,315 Nathan Road,10914,
+154,Tai Po,"Block I, Trackside Villas",10915,
+155,Sham Shui Po,"Tower 6, Banyan Garden",10916,
+156,Eastern,"Block 1, The Orchards",10917,
+157,Sai Kung,"Sheung Shun House, Sheung Tak Estate",10918,
+158,Eastern,"Block D, Kornhill",10919,
+159,Kwun Tong,"Kwai Leung House, Lower Ngau Tau Kok Estate",10920,
+160,Sai Kung,Holiday Inn Express Hong Kong Kowloon East,10921,
+161,Sai Kung,"Tower 16, Ocean Shores",10921,
+162,Yau Tsim Mong,"Tower 7, Island Harbourview",10922,
+163,Eastern,Ramada Hong Kong Grand View,10923,
+164,Yuen Long,"Tower 1, One Regent Place",10924,
+165,Yuen Long,Wang Toi Shan Wing Ning Lei,10925,
+166,Southern,"Wah Yin House, Wah Kwai Estate",10926,
+167,Kowloon City,"Kin Man House, Oi Man Estate",10927,
+168,Kowloon City,"Wai Man House, Oi Man Estate",10929,
+169,Kwun Tong,"Kwai Leung House, Lower Ngau Tau Kok Estate",10931,
+170,Yau Tsim Mong,"Block 2, Parc Palais",10932,
+171,Southern,"Wah Yin House, Wah Kwai Estate",10935,
+172,Kwun Tong,Camlux Hotel,10936,
+173,Kwun Tong,"Choi Kiu House, Choi Hing Court",10936,
+174,Sham Shui Po,"Block 22, Shek Kip Mei Estate",10937,
+175,Sham Shui Po,"Mei Wui House, Shek Kip Mei Estate",10938,
+176,Sha Tin,"Block 4, Baycrest",10939,
+177,Wan Chai,"Block B, Hay Wah Building",10940,
+178,Sham Shui Po,"122-124 Broadway, Stage 8, Mei Foo Sun Chuen",10941,
+179,Kwun Tong,"Sau Hong House, Sau Mau Ping Estate",10942,
+180,Wong Tai Sin,"Lok Man House, Lok Fu Estate",10944,
+181,Kwun Tong,"Sau Hong House, Sau Mau Ping Estate",10945,
+182,Wong Tai Sin,Pentahotel Hong Kong Kowloon,10946,
+183,Kowloon City,"Kin Man House, Oi Man Estate",10947,
+184,Islands,"Block B, Yu Tai Court",10948,
+185,Kowloon City,"Kin Man House, Oi Man Estate",10949,
+186,Yau Tsim Mong,"Tower 7, Island Harbourview",10950,
+187,Yau Tsim Mong,"Tower 7, Island Harbourview",10951,
+188,Central & Western,Smithfield Municipal Services Building,"10105, 10490",29/01/2021
+189,Central & Western,ICBC Asia Building,"10402, 10522",29/01/2021
+190,Central & Western,Yue Yee Mansion,"10429, 10454, 10490",29/01/2021
+191,Yau Tsim Mong,Chungking Mansions,"9947, 10435",29/01/2021
+192,Eastern,Block B Sea View Estate,"10142, 10480",30/01/2021
+193,Kowloon City,Peninsula Square,"10376, 10440",30/01/2021
+194,Kowloon City,Hung Hom Municipal Services Building,"5613, 6134, 6327, 6551, 6893, 7367, 7652, 9173, 9196, 9218, 9476, 9520, 10351, 10443",30/01/2021
+195,Yau Tsim Mong,Langham Place,"5964, 6003, 6928, 7360, 7889, 7961, 8503, 8771, 8980, 9179, 10206, 10429, 10454, 10492",30/01/2021
+196,Wong Tai Sin,Temple Mall North,"7387, 7958, 8812, 9592, 10486",30/01/2021
+197,Yau Tsim Mong,G/F Mongkok Building,"10274, 10522",31/01/2021
+198,Kowloon City,93 Pau Chung Street Holly Restaurant,"10578, 10591",01/02/2021
+199,Yuen Long,Maxwell House,"10580, 10617",02/02/2021
+200,Tai Po,On Wo House Tai Wo Estate,"10545, 10643",04/02/2021
+201,Eastern,Shau Kei Wan Government Secondary School,"10608, 10672",04/02/2021
+202,Kwun Tong,On Tai Shopping Centre,"9261, 9265, 10618",04/02/2021
+203,Islands,Hong Kong International Airport,"9736, 9928, 9996, 10099, 10250, 10627",05/02/2021
+204,Wong Tai Sin,Lok Fu Plaza,"10349, 10666",06/02/2021
+205,Kwun Tong,On Tai Estate Ancillary Facilities Block,"10702, 10708",06/02/2021
+206,Islands,Construction site at Hong Kong International Airport 3rd Runway,"9928, 10126, 10321, 10348, 10382, 10386, 10389, 10390, 10392, 10418, 10425, 10450, 10452, 10494, 10574, 10660",06/02/2021
+207,Yau Tsim Mong,Harbour City,"10636, 10791",07/02/2021
+208,Wong Tai Sin,Kar Chau Industrial Building,"10675, 10678",07/02/2021
+209,Central & Western,The Landmark,"9471, 9828, 10729",07/02/2021
+210,Kwai Tsing,Wah Fung Industrial Centre,"10678, 10710",08/02/2021
+211,Islands,Disney Administration Building,"10715, 10720",08/02/2021
+212,Tai Po,Lai Wo House Tai Wo Estate,"10545, 10716",09/02/2021
+213,Tai Po,Fortune Plaza,"10619, 10756",09/02/2021
+214,Wong Tai Sin,Lung Poon Court Commercial Centre,"10758, 10770",09/02/2021
+215,Sham Shui Po,Shek Kip Mei Estate Shopping Centre,"10677, 10742",10/02/2021
+216,Tai Po,Ting Kok Building,"10750, 10763",11/02/2021
+217,Yau Tsim Mong,South Tower West Kowloon Government Offices,10756,12/02/2021
+218,Yau Tsim Mong,Wing On Kowloon Centre Golden Federal Restaurant,10759,12/02/2021
+219,Eastern,Oi Ping House Oi Tung Estate,10788,12/02/2021
+220,Kwun Tong,Block 28 Laguna City,10799,12/02/2021
+221,Kwai Tsing,Kwai Chung Fire Station,"10793, 10805, 10823",12/02/2021
+222,Wong Tai Sin,Pak Yuen House Chuk Yuen (North) Estate,10807,12/02/2021
+223,Kwai Tsing,Chung Mei Lo Uk Village,10823,12/02/2021
+224,Tsuen Wan,Ocean Pride Mall,10823,12/02/2021
+225,Tuen Mun,V City YATA Supermarket Balencia,10781,13/02/2021
+226,Yuen Long,G/F Yat Sun Building,10793,13/02/2021
+227,Sha Tin,Block 2 Phase 1 Double Cove,10807,13/02/2021
+228,Yau Tsim Mong,G/F 53-59 Kimberley Road Fook Lam Moon,10809,13/02/2021
+229,Wong Tai Sin,Regent On The Hill,10807,13/02/2021
+230,Yuen Long,The Vineyard,10802,13/02/2021
+231,Yuen Long,G/F 13 Kuk Ting Street Let's Yum Cha,10811,13/02/2021
+232,Yuen Long,Tung Yick Market,10811,13/02/2021
+233,Yuen Long,Yuen Long Commercial Centre Fairwood,10793,14/02/2021
+234,Tuen Mun,Fu Tai Shopping Centre Province Hot-Pot and Seafood Restaurant,10808,14/02/2021
+235,Wong Tai Sin,Fu Yuen House Chuk Yuen (South) Estate,10807,14/02/2021
+236,Sham Shui Po,G/F 62D Castle Peak Road 雪山 冰廳,10807,14/02/2021
+237,Sai Kung,King Yu House King Lam Estate,10805,14/02/2021
+238,Yau Tsim Mong,Prat Mansions Hong Kong Old Restaurant,10809,14/02/2021
+239,Sha Tin,Altissimo Tower 3,10818,14/02/2021
+240,Sha Tin,Red Market,10818,14/02/2021
+241,Kwai Tsing,Wonderland Villas Commercial Complex Cafe 100%,10823,14/02/2021
+242,North,Rome Court Sheung Shui Town Centre,10840,14/02/2021
+243,Central & Western,World-Wide House,10854,14/02/2021
+244,Sham Shui Po,Festival Walk Toriten,10871,14/02/2021
+245,Sham Shui Po,Kin Wo Court Delicious Café,10904,14/02/2021
+246,Kwai Tsing,Metroplaza,"7991, 8394, 8579, 9664, 10710, 10854",14/02/2021
+247,Sham Shui Po,Dragon Centre,"9974, 10181, 10255, 10817",14/02/2021
+248,Sha Tin,Podium Sha Tin Town Hall Maxim's Palace Chinese Restaurant,10798,15/02/2021
+249,Kwun Tong,Sceneway Plaza,"10799, 10826",15/02/2021
+250,Yau Tsim Mong,Mirador Mansion,10801,15/02/2021
+251,Tuen Mun,Fu Tai Shopping Centre,10824,15/02/2021
+252,Kwai Tsing,Lai King Fire Station,10823,15/02/2021
+253,Kwun Tong,Shun Lee Shopping Centre (Phase 2),10820,15/02/2021
+254,Islands,D'Deck McDonald's,10835,15/02/2021
+255,Central & Western,G/F Chuang's Tower McDonald's,10830,15/02/2021
+256,Yau Tsim Mong,G/F Kin Wong Manison OPPA Korean Restaurant,10837,15/02/2021
+257,Central & Western,The Chinese General Chamber of Commerce Maxim's MX,10830,15/02/2021
+258,Eastern,Fitfort Tai Hing,10871,15/02/2021
+259,Eastern,G/F Southern Building,10871,15/02/2021
+260,Tsuen Wan,G/F 12 Hoi Pa Street 都好燒臘粉 麵飯茶餐廳,10800,16/02/2021
+261,Islands,Grandview Mansion Rome Restaurant,10836,16/02/2021
+262,Yau Tsim Mong,In's Point Satay King,10834,16/02/2021
+263,Tai Po,Tower 7 Mont Vert,10840,16/02/2021
+264,Sham Shui Po,G/F Rondall Building,10869,16/02/2021
+265,Tai Po,Hong Chi Pinehill No.2 School (Residential),10864,16/02/2021
+266,Kwun Tong,APM Millennium City 5 Kam Kee Café,10878,16/02/2021
+267,Eastern,City Garden Fairwood,10871,16/02/2021
+268,Eastern,G/F Hong Tai Building,10874,16/02/2021
+269,Yau Tsim Mong,Royal Plaza Hotel,10904,16/02/2021
+270,Wan Chai,Golden Court Royal Legend,10829,17/02/2021
+271,Kwun Tong,Kai Tin Shopping Centre,10826,17/02/2021
+272,Sha Tin,Yu Wai House Sun Tin Wai Estate,10825,17/02/2021
+273,Kwun Tong,Buddhist Sum Ma Shui Ying Care and Attention Home for the Elderly,10831,17/02/2021
+274,Kwun Tong,Shui Ning House,10831,17/02/2021
+275,North,Royal Jubilee Perfect Roasted Goose Seafood Restaurant,10857,17/02/2021
+276,Tsuen Wan,Tai Hung Fai (Tsuen Wan) Centre Sheung Moon Chinese Cuisine,10856,17/02/2021
+277,Wan Chai,Hong Kong Police Headquarters,10874,17/02/2021
+278,Yau Tsim Mong,K11 Musea Greyhound Café Galleria,10883,17/02/2021
+279,Sham Shui Po,Pei Ho Street Municipal Services Building,"6341, 6885, 7364, 7872, 7911, 8284, 8587, 8653, 9038, 10322, 10656, 10800, 10869",17/02/2021
+280,Islands,G/F 35 Mui Wo Rural Committee Road,10836,18/02/2021
+281,Wan Chai,G/F Sai See Mansion Ramen Kureha,10834,18/02/2021
+282,Wan Chai,Harbour Centre,10837,18/02/2021
+283,Yau Tsim Mong,Star House,10837,18/02/2021
+284,Wan Chai,Hopewell Centre,10840,18/02/2021
+285,Kwai Tsing,Kwai Sing Centre,10845,18/02/2021
+286,Kwai Tsing,Wo Yi Plaza,10845,18/02/2021
+287,Central & Western,G/F New Central Mansion 美華 茶餐廳,10869,18/02/2021
+288,Kwai Tsing,Maritime Square Umegaoka Sushi No Midori Souhonten,10868,18/02/2021
+289,Central & Western,PMQ,10869,18/02/2021
+290,Sha Tin,Block N Phase 3 Sunshine City Plaza Kitchen One Roast Goose,10883,18/02/2021
+291,Tuen Mun,Common Bond Building 好景餐 廳小廚,10882,18/02/2021
+292,Kwun Tong,COS Centre,10882,18/02/2021
+293,Kwun Tong,COS Centre Hong Kong Nam Kee Noodle,10882,18/02/2021
+294,Kwun Tong,1 Lam Wah Street,10892,18/02/2021
+295,Sha Tin,G/F Tai Wai MTR Station,10904,18/02/2021
+296,Sham Shui Po,Billion Plaza II,10915,18/02/2021
+297,Sai Kung,G/F Tseung Kwan O MTR Station,10918,18/02/2021
+298,Tai Po,Tai Po Plaza Sushi Express,10915,18/02/2021
+299,Yau Tsim Mong,Vogue Court,10918,18/02/2021
+300,Wan Chai,One Capital Place,10866,19/02/2021
+301,Eastern,Cityplaza,10873,19/02/2021
+302,Eastern,Harbour North Starbucks Coffee,10871,19/02/2021
+303,Wan Chai,Tak Chuen Lau Lai Tak Tsuen,10876,19/02/2021
+304,Southern,Vertical SQ,10878,19/02/2021
+305,Wan Chai,Brighton Hotel Me Garden,10880,19/02/2021
+306,Yau Tsim Mong,Chuang's London Plaza KFC,10888,19/02/2021
+307,Sha Tin,Heng On Shopping Centre 金龍 泉,10883,19/02/2021
+308,Sha Tin,The Cavaridge,10888,19/02/2021
+309,Yuen Long,Yat Wan House Tin Yat Estate,10882,19/02/2021
+310,Yuen Long,Yiu Fung House Tin Yiu Estate,10882,19/02/2021
+311,Kwun Tong,8 Lam Chak Street,10894,19/02/2021
+312,Kwun Tong,9 Chong Yip Street,10896,19/02/2021
+313,Kwun Tong,Champion Court Café de Coral,10902,19/02/2021
+314,Tsuen Wan,Hotel Cozi . Oasis The Platter,10907,19/02/2021
+315,Tai Po,Fu Shin Market,10915,19/02/2021
+316,Yuen Long,Yoho Mall I Peking Garden Restaurant,10924,19/02/2021
+317,Kwun Tong,APM Millennium City 5 Kingduck,"10877, 10878",20/02/2021
+318,Kwun Tong,Crocodile Center Tai Hing,"10877, 10878",20/02/2021
+319,Kwun Tong,One Pacific Centre Victoria Harbour Restaurant,10878,20/02/2021
+320,Yau Tsim Mong,47-49 Parkes Street Australia Dairy Company,10882,20/02/2021
+321,Kwun Tong,AIA Kowloon Tower,10882,20/02/2021
+322,Kwun Tong,Fully Industrial Building 深仔記,10882,20/02/2021
+323,Central & Western,Imperial Kennedy Sweetheart Garden Restaurant,10888,20/02/2021
+324,Yau Tsim Mong,The Gateway Tower 1,10882,20/02/2021
+325,Central & Western,The Westwood McDonald's,10888,20/02/2021
+326,Central & Western,The Westwood Panash Bakery & Café,10888,20/02/2021
+327,Tsuen Wan,Citywalk 2 麗都總廚,10907,20/02/2021
+328,Kwun Tong,Telford Plaza I Maxim's Palace,10902,20/02/2021
+329,Tsuen Wan,Yeung Uk Road Municipal Services Building,10907,20/02/2021
+330,Tsuen Wan,Nina Mall 2 Cou Cou Hotpot ‧ TeaBreak,10924,20/02/2021
+331,Yuen Long,Yoho Mall I Taiwanese Mazu Lifestyle Noodles,10924,20/02/2021
+332,Sai Kung,Hong Kong Institute of Vocational Education (Lee Wai Lee),10935,20/02/2021
+333,Tai Po,Mayfair By The Sea II 逸翠軒,10932,20/02/2021
+334,Tai Po,Tai Po Mega Mall,"10738, 10756, 10915",21/02/2021
+335,Eastern,Caritas Lok Yi School,"10832, 10863, 10864, 10873, 10874, 10886",21/02/2021
+336,Wan Chai,Chuang's On The Park,10888,21/02/2021
+337,Central & Western,Sun Court,10888,21/02/2021
+338,Eastern,Victor Court,10888,21/02/2021
+339,Wan Chai,Villa D'Arte,10888,21/02/2021
+340,Tsuen Wan,75 Tai Pa Street Volcano Kitchen One,10891,21/02/2021
+341,Wan Chai,East Point Centre,10899,21/02/2021
+342,Tsuen Wan,Tsuen Fung Centre,10896,21/02/2021
+343,Wong Tai Sin,Chuk Yuen Plaza,10900,21/02/2021
+344,Tsuen Wan,Tsuen Wan Centre Phase II Shopping Centre,10907,21/02/2021
+345,North,Dawning Views Block 10,10916,21/02/2021
+346,Tai Po,Shin Mei House Fu Shin Estate,10915,21/02/2021
+347,Tai Po,Tai Yuen Market,10915,21/02/2021
+348,Sham Shui Po,Yan Oi House Lei Cheng Uk Estate,10916,21/02/2021
+349,Tsuen Wan,Ocean Pride WM Café & Bar,10924,21/02/2021
+350,Yau Tsim Mong,Olympian City 1 Sweetheart Chinese Restaurant,"10922, 10932",21/02/2021
+351,Tuen Mun,Gold Coast Hotel Satay Inn,10932,21/02/2021
+352,Kwun Tong,MegaBox,10936,21/02/2021
+353,Yuen Long,Shing Hang House Tin Shing Court,10944,21/02/2021
+354,Kwun Tong,Sau Mau Ping Shopping Centre,"10820, 10942",22/02/2021
+355,Sha Tin,Carado Garden Commercial Complex,10904,22/02/2021
+356,Kwun Tong,Kowloonbay International Trade & Exhibition Centre,10909,22/02/2021
+357,Yau Tsim Mong,315 Nathan Road,10914,22/02/2021
+358,Sai Kung,Sheung Tak Shopping Centre,10918,22/02/2021
+359,Yau Tsim Mong,26 Nathan Road,10922,22/02/2021
+360,Kowloon City,Hung Hom Bay Centre Royce Garden,10921,22/02/2021
+361,Central & Western,On Lok House Tchin Tchin,10921,22/02/2021
+362,Kowloon City,Yu Chun Keung Memorial College,10927,22/02/2021
+363,Wan Chai,Chinaweal Centre,10939,22/02/2021
+364,Wan Chai,G/F 6-18 Tin Lok Lane Kam Kee Café,10939,22/02/2021
+365,Yau Tsim Mong,G/F Tai Wai Building Cosmopolitan Estates,10932,22/02/2021
+366,Wong Tai Sin,Mikiki Hee Kee Cart Noodle,10936,22/02/2021
+367,Sham Shui Po,Cheung Sha Wan Plaza Glorious Chinese Restaurant,10941,22/02/2021
+368,Wan Chai,CNT Tower Lei Garden,10940,22/02/2021
+369,Wan Chai,G/F 4 Gresson Street Papa Deli,10940,22/02/2021
+370,Kowloon City,Block R Kowloon Hospital,10917,23/02/2021
+371,Kowloon City,Cheong Wah Factory Building,10912,23/02/2021
+372,Tuen Mun,Chi Lok Fa Yuen Fairwood,10913,23/02/2021
+373,Tai Po,Tai Wo Market,10915,23/02/2021
+374,Tai Po,Tai Wo Neighbourhood Community Centre,10915,23/02/2021
+375,Yau Tsim Mong,12-18 Tai Tsun Street Kam Ka Lok Restaurant,10922,23/02/2021
+376,Central & Western,G/F Charming Court,10922,23/02/2021
+377,Yau Tsim Mong,G/F Tai Yau Building,10922,23/02/2021
+378,Kowloon City,Homantin Plaza Yoshinoya,10927,23/02/2021
+379,Central & Western,New World Tower,10921,23/02/2021
+380,Yau Tsim Mong,Olympian City 1 Café de Coral,10922,23/02/2021
+381,Central & Western,IFC Mall Greyhound Café,10939,23/02/2021
+382,Kwun Tong,Telford Plaza I,10936,23/02/2021
+383,Yau Tsim Mong,The Mira Hong Kong Cuisine Cuisine,10939,23/02/2021
+384,Tsuen Wan,10-12 Sam Pei Square 潮興海鮮 酒家,10947,23/02/2021
+385,Sham Shui Po,Banyan Mall King's Fortune Banquet Hall,10941,23/02/2021
+386,Sha Tin,New Trade Plaza Wah Kee Canteen,10944,23/02/2021
+387,Sham Shui Po,Po On Road Municipal Services Building,10941,23/02/2021
+388,Wan Chai,QRE Plaza Xiao Yu Hotpot Restaurant,10940,23/02/2021
+389,Yau Tsim Mong,Wah Yuen Factory Building,10944,23/02/2021
+390,Kwun Tong,Amoy Plaza Phase 3 Domon Izakaya,10951,23/02/2021
+391,Yau Tsim Mong,Fuk Cheong Factory Building,10950,23/02/2021
+392,Yau Tsim Mong,Park Summit Jade Palace Chinese Restaurant,10950,23/02/2021
+393,Yau Tsim Mong,K11 Musea Mr. Ming's Chinese Dining,"10912, 10916, 10917, 10921, 10922, 10924, 10929, 10932, 10937, 10938, 10939, 10940, 10941, 10942, 10948, 10950",24/02/2021
+394,Yau Tsim Mong,Tsim Sha Tsui Centre,"10916, 10921, 10924",24/02/2021
+395,Wong Tai Sin,Chung Hing Industrial Mansions,"10926, 10936",24/02/2021
+396,Sai Kung,Holiday Inn Express Hong Kong Kowloon East,10921,24/02/2021
+397,Wong Tai Sin,Mikiki Café de Coral,10926,24/02/2021
+398,Sham Shui Po,G/F 115 Nan Cheong Street Bun Hui Restaurant,10938,24/02/2021
+399,Yau Tsim Mong,G/F 57 Tai Tsun Street Chef de Singapore,10938,24/02/2021
+400,Central & Western,Manning House,10939,24/02/2021
+401,Sha Tin,Saddle Ridge Garden Commercial Centre,10939,24/02/2021
+402,Yau Tsim Mong,Silver Commercial Building,10938,24/02/2021
+403,Sai Kung,East Point City Riverside Restaurant,"10942, 10945",24/02/2021
+404,Wan Chai,Heng Shan Centre,10940,24/02/2021
+405,Kowloon City,Hotel Sav,10941,24/02/2021
